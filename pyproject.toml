@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+testpaths = ["api-docs"]
+markers = [
+    "requires_credentials: probe needs a Booli identity (BOOLI_CALLER_ID + BOOLI_KEY)",
+]
