@@ -15,7 +15,8 @@
     <h1>Distance to nearest Systembolaget</h1>
     <p class="sub">
       Colour shows how far any point is from the closest Systembolaget store —
-      green is near, red is far. <span id="store-count"></span>
+      green is near, red is far. The blue/purple outlines mark how far you can
+      drive from Gothenburg in 1&nbsp;and 2&nbsp;hours. <span id="store-count"></span>
     </p>
 
     <label class="row">
@@ -26,6 +27,15 @@
       <input type="checkbox" id="toggle-stores" checked />
       Store markers
     </label>
+    <label class="row">
+      <input type="checkbox" id="toggle-iso" checked />
+      Drive time from Gothenburg
+    </label>
+    <div class="iso-legend">
+      <span class="iso-key"><i class="swatch s1h"></i> 1&nbsp;hour by car</span>
+      <span class="iso-key"><i class="swatch s2h"></i> 2&nbsp;hours by car</span>
+    </div>
+    <button id="focus-gbg" type="button">Zoom to Gothenburg</button>
 
     <div class="row slider-row">
       <span>Far&nbsp;=</span>
