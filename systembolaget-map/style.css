@@ -144,7 +144,7 @@ html, body {
 }
 
 .store-dot { background: #ffffff; border: 1px solid #1b1b1b; }
-.ombud-dot { background: #f5a623; border: 1px solid #7a4a00; }
+.ombud-dot { background: transparent; border: 1.6px solid #b35c00; }
 
 .store-popup .kind {
   font-size: 11px;

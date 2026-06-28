@@ -275,9 +275,11 @@
     });
     markers.addTo(map);
 
+    // Hollow rings (no fill) so the ~445 ombud mark their spots without
+    // washing colour over the distance overlay underneath.
     var ombudMarkers = markerLayer(data.ombud || [], {
-      radius: 2.5, color: "#7a4a00", weight: 1,
-      fillColor: "#f5a623", fillOpacity: 0.9,
+      radius: 3, color: "#b35c00", weight: 1.6,
+      fill: false, opacity: 0.95,
     }, "ombud");
     // Off by default — there are ~445 of them and they'd clutter the view.
 
