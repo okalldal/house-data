@@ -226,7 +226,9 @@
   function init(data, iso) {
     var stores = data.stores;
 
-    var map = L.map("map", { zoomControl: true, minZoom: 4, maxZoom: 14 });
+    var map = L.map("map", { zoomControl: false, minZoom: 4, maxZoom: 14 });
+    // Bottom-right so the controls never sit behind the panel on mobile.
+    L.control.zoom({ position: "bottomright" }).addTo(map);
     map.setView([57.7089, 11.9746], 8); // Gothenburg, replaced by fitBounds below
 
     L.tileLayer(
@@ -353,6 +355,27 @@
   }
 
   // --- load data ------------------------------------------------------------
+
+  // Collapsible control panel — keeps the map usable on small screens.
+  (function setupPanelToggle() {
+    var panel = document.getElementById("panel");
+    var btn = document.getElementById("panel-toggle");
+    if (!panel || !btn) return;
+
+    function setCollapsed(collapsed) {
+      panel.classList.toggle("collapsed", collapsed);
+      btn.setAttribute("aria-expanded", String(!collapsed));
+    }
+
+    btn.addEventListener("click", function () {
+      setCollapsed(!panel.classList.contains("collapsed"));
+    });
+
+    // Start collapsed on narrow (mobile) screens so the panel doesn't cover the map.
+    if (window.matchMedia("(max-width: 520px)").matches) {
+      setCollapsed(true);
+    }
+  })();
 
   function loadJson(url) {
     return fetch(url).then(function (r) {

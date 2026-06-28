@@ -12,7 +12,16 @@
   <div id="map"></div>
 
   <div id="panel" class="panel">
-    <h1>Distance to nearest Systembolaget</h1>
+    <div class="panel-header">
+      <h1>Distance to nearest Systembolaget</h1>
+      <button id="panel-toggle" type="button" aria-expanded="true"
+              aria-controls="panel-body" title="Show/hide controls">
+        <span class="chevron" aria-hidden="true"></span>
+        <span class="sr-only">Toggle controls</span>
+      </button>
+    </div>
+
+    <div id="panel-body" class="panel-body">
     <p class="sub">
       Colour shows how far any point is from the closest Systembolaget store —
       green is near, red is far. The blue/purple outlines mark how far you can
@@ -53,6 +62,7 @@
     </div>
 
     <p class="hint">Click anywhere on the map to measure the distance to the nearest store.</p>
+    </div><!-- /panel-body -->
   </div>
 
   <script src="vendor/leaflet/leaflet.js"></script>
