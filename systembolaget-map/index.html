@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Distance to nearest Systembolaget</title>
+
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="map"></div>
+
+  <div id="panel" class="panel">
+    <h1>Distance to nearest Systembolaget</h1>
+    <p class="sub">
+      Colour shows how far any point is from the closest Systembolaget store —
+      green is near, red is far. <span id="store-count"></span>
+    </p>
+
+    <label class="row">
+      <input type="checkbox" id="toggle-overlay" checked />
+      Distance overlay
+    </label>
+    <label class="row">
+      <input type="checkbox" id="toggle-stores" checked />
+      Store markers
+    </label>
+
+    <div class="row slider-row">
+      <span>Far&nbsp;=</span>
+      <input type="range" id="max-dist" min="10" max="100" step="5" value="50" />
+      <span><b id="max-dist-label">50</b>&nbsp;km</span>
+    </div>
+
+    <div class="legend">
+      <div class="legend-bar"></div>
+      <div class="legend-ticks">
+        <span>0&nbsp;km</span>
+        <span id="legend-mid">25</span>
+        <span id="legend-max">50+&nbsp;km</span>
+      </div>
+    </div>
+
+    <p class="hint">Click anywhere on the map to measure the distance to the nearest store.</p>
+  </div>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
