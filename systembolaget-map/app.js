@@ -156,11 +156,78 @@
 
   // --- bootstrap ------------------------------------------------------------
 
-  function init(data) {
+  // Build the Gothenburg drive-time boundaries as a feature group: each
+  // isochrone is drawn as a white-cased coloured outline (no fill, so the
+  // distance overlay shows through), plus a label and the origin marker.
+  function buildIsochrones(iso) {
+    var fg = L.featureGroup();
+    if (!iso || !iso.features) return fg;
+
+    var styles = {
+      60: { color: "#1d4ed8", dash: null, label: "1 h drive" },
+      120: { color: "#7c3aed", dash: "8 7", label: "2 h drive" },
+    };
+
+    var polys = iso.features.filter(function (f) {
+      return f.geometry && f.geometry.type === "Polygon";
+    });
+    // Draw the larger (2h) ring first so the 1h ring sits on top.
+    polys.sort(function (a, b) {
+      return (b.properties.minutes || 0) - (a.properties.minutes || 0);
+    });
+
+    polys.forEach(function (f) {
+      var ring = f.geometry.coordinates[0].map(function (c) {
+        return [c[1], c[0]]; // [lon,lat] -> [lat,lng]
+      });
+      var st = styles[f.properties.minutes] || { color: "#333", dash: null, label: "" };
+
+      // White casing underneath for contrast against the colour overlay.
+      L.polygon(ring, {
+        fill: false, color: "#ffffff", weight: 6, opacity: 0.9,
+      }).addTo(fg);
+
+      var line = L.polygon(ring, {
+        fill: false, color: st.color, weight: 3, opacity: 1, dashArray: st.dash,
+      }).addTo(fg);
+      line.bindTooltip(
+        (f.properties.label || st.label),
+        { sticky: true }
+      );
+
+      // Permanent label at the northernmost vertex of the ring.
+      var north = ring.reduce(function (best, p) {
+        return p[0] > best[0] ? p : best;
+      }, ring[0]);
+      L.marker(north, {
+        interactive: false,
+        icon: L.divIcon({
+          className: "iso-label",
+          html: '<span style="background:' + st.color + '">' + st.label + "</span>",
+          iconSize: null,
+        }),
+      }).addTo(fg);
+    });
+
+    // Gothenburg origin marker.
+    var o = iso.origin;
+    if (o) {
+      L.circleMarker([o.lat, o.lon], {
+        radius: 7, color: "#ffffff", weight: 2,
+        fillColor: "#d11", fillOpacity: 1,
+      })
+        .bindTooltip(o.name, { permanent: true, direction: "right", className: "origin-label" })
+        .addTo(fg);
+    }
+
+    return fg;
+  }
+
+  function init(data, iso) {
     var stores = data.stores;
 
     var map = L.map("map", { zoomControl: true, minZoom: 4, maxZoom: 14 });
-    map.setView([62.5, 16.5], 5); // Sweden, replaced by fitBounds below
+    map.setView([57.7089, 11.9746], 8); // Gothenburg, replaced by fitBounds below
 
     L.tileLayer(
       "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
@@ -201,11 +268,21 @@
     });
     markers.addTo(map);
 
-    // Frame all of Sweden from the store extent.
-    var bounds = L.latLngBounds(stores.map(function (s) {
-      return [s.lat, s.lon];
-    }));
-    map.fitBounds(bounds, { padding: [20, 20] });
+    // Drive-time isochrones from Gothenburg (1h / 2h), drawn as boundaries on
+    // top of the distance overlay.
+    var isoLayer = buildIsochrones(iso);
+    isoLayer.addTo(map);
+
+    // Frame the Gothenburg vicinity: fit to the 2h drive-time extent.
+    var isoBounds = isoLayer.getBounds && isoLayer.getBounds();
+    if (isoBounds && isoBounds.isValid()) {
+      map.fitBounds(isoBounds, { padding: [40, 40] });
+    } else {
+      map.fitBounds(
+        L.latLngBounds(stores.map(function (s) { return [s.lat, s.lon]; })),
+        { padding: [20, 20] }
+      );
+    }
 
     // Click to measure distance to nearest store.
     map.on("click", function (e) {
@@ -224,10 +301,10 @@
         .openOn(map);
     });
 
-    wireControls(map, distLayer, markers, stores.length);
+    wireControls(map, distLayer, markers, isoLayer, stores.length);
   }
 
-  function wireControls(map, distLayer, markers, count) {
+  function wireControls(map, distLayer, markers, isoLayer, count) {
     document.getElementById("store-count").textContent =
       count + " stores.";
 
@@ -240,6 +317,19 @@
       if (e.target.checked) markers.addTo(map);
       else map.removeLayer(markers);
     });
+
+    document.getElementById("toggle-iso").addEventListener("change", function (e) {
+      if (e.target.checked) isoLayer.addTo(map);
+      else map.removeLayer(isoLayer);
+    });
+
+    var focusBtn = document.getElementById("focus-gbg");
+    if (focusBtn) {
+      focusBtn.addEventListener("click", function () {
+        var b = isoLayer.getBounds && isoLayer.getBounds();
+        if (b && b.isValid()) map.fitBounds(b, { padding: [40, 40] });
+      });
+    }
 
     var slider = document.getElementById("max-dist");
     var label = document.getElementById("max-dist-label");
@@ -264,12 +354,17 @@
 
   // --- load data ------------------------------------------------------------
 
-  fetch("data/stores.json")
-    .then(function (r) {
-      if (!r.ok) throw new Error("HTTP " + r.status);
+  function loadJson(url) {
+    return fetch(url).then(function (r) {
+      if (!r.ok) throw new Error(url + ": HTTP " + r.status);
       return r.json();
+    });
+  }
+
+  Promise.all([loadJson("data/stores.json"), loadJson("data/isochrones.json")])
+    .then(function (res) {
+      init(res[0], res[1]);
     })
-    .then(init)
     .catch(function (err) {
       document.getElementById("map").innerHTML =
         '<p style="padding:2rem;font-family:sans-serif">Failed to load store data: ' +

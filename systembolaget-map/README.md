@@ -54,5 +54,11 @@ python3 -m http.server 8000
 ## Deployment
 
 `.github/workflows/deploy-pages.yml` publishes this directory to GitHub Pages
-on every push to `main` that touches `systembolaget-map/`. Enable it once under
-**Settings → Pages → Build and deployment → Source: GitHub Actions**.
+on every push to `main` that touches `systembolaget-map/`. The workflow enables
+Pages itself (`configure-pages` with `enablement: true`), so no manual setup is
+needed. If the very first run still reports *"Get Pages site failed … Not
+Found"*, set **Settings → Pages → Build and deployment → Source: GitHub
+Actions** once and re-run the workflow.
+
+The published site root is this directory, so the map lives at
+`https://<user>.github.io/house-data/`.
