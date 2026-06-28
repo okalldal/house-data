@@ -1,0 +1,6 @@
+# Large, reproducible API caches.
+cache/
+
+# Large per-row detail; regenerate with match.py / analyze.py.
+out/match_detail.csv
+out/availability_detail.csv

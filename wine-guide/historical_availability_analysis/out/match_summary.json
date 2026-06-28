@@ -1,0 +1,23 @@
+{
+  "tasting_rows": 23865,
+  "match_reasons": {
+    "no_match": 15457,
+    "sibling_01": 6667,
+    "sibling_01_name_only": 1222,
+    "exact": 208,
+    "sibling_02": 189,
+    "exact_name_mismatch": 49,
+    "sibling_06": 30,
+    "sibling_02_name_only": 22,
+    "sibling_08": 9,
+    "sibling_06_name_only": 4,
+    "sibling_11": 3,
+    "sibling_09": 2,
+    "sibling_09_name_only": 1,
+    "sibling_08_name_only": 1,
+    "sibling_11_name_only": 1
+  },
+  "rows_with_pn": 8408,
+  "rows_with_vintage_match": 2325,
+  "needed_productIds": 2517
+}

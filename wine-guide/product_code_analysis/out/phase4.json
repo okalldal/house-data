@@ -1,0 +1,25 @@
+{
+  "strict_rule": {
+    "rows_with_prefix_candidate": 17662,
+    "name_sim_bands": {
+      "ge_0.7": 7073,
+      "0.4_to_0.7": 2186,
+      "lt_0.4": 8403
+    },
+    "in_search_rows": 15164,
+    "crosstab_name_vs_producer": {
+      "name_ok_AND_producer_ok__same_wine": 6908,
+      "name_ok_BUT_producer_mismatch__wrong_pick_or_drift": 404,
+      "producer_ok_BUT_name_mismatch__likely_cuvee_rename": 482,
+      "both_mismatch__real_false_positive": 7370
+    }
+  },
+  "loose_rule": {
+    "rows_with_prefix_candidate": 17805,
+    "name_sim_bands": {
+      "ge_0.7": 7078,
+      "0.4_to_0.7": 2227,
+      "lt_0.4": 8500
+    }
+  }
+}

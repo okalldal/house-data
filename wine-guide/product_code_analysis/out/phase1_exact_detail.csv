@@ -1,0 +1,258 @@
+code,tasting_name,tasting_producer,tasting_year,tasting_activity_date,sb_name,sb_producer,sb_country,sb_vintage,in_search,name_sim,name_jaccard,producer_sim,vintage_match,bucket
+7228101,Vivanco Reserva,Vivanco,2019,2026-03-05T00:00:00Z,Vivanco Reserva,Vivanco,Spanien,2019,True,1.0,1.0,1.0,True,name+vintage
+7146601,La Guinardera Celler Balaguer i Cabré,Celler Balaguer i Cabré,2021,2026-03-05T00:00:00Z,La Guinardera Celler Balaguer i Cabré,Celler Balaguer i Cabré,Spanien,2021,True,1.0,1.0,1.0,True,name+vintage
+7784201,Di Majo Norante Rami Falanghina,Di Majo Norante,2024,2026-03-05T00:00:00Z,Di Majo Norante Rami Falanghina,Di Majo Norante,Italien,2024,True,1.0,1.0,1.0,True,name+vintage
+7619601,Cote Mas Syrah Grenache Noir,Domaines Paul Mas,2024,2026-03-05T00:00:00Z,Côté Mas Syrah Grenache Noir,Domaines Paul Mas,Frankrike,2024,True,1.0,1.0,1.0,True,name+vintage
+5665401,Marques de Pluma Ribera del Duero,Bodegas Pinord,2022,2026-03-05T00:00:00Z,Marques de Pluma Ribera del Duero,Bodegas Pinord,Spanien,2022,True,1.0,1.0,1.0,True,name+vintage
+7521301,Arigato Pinot Noir,Mission Wine & Spirits AB,2023,2026-03-05T00:00:00Z,Arigato Pinot Noir,Mission Wine & Spirits AB,Tyskland,2023,True,1.0,1.0,1.0,True,name+vintage
+7217501,Alain Brumont Torus Blanc,Alain Brumont,2024,2026-03-05T00:00:00Z,Alain Brumont,,,,False,0.684,0.5,0.0,,no_search_data_name_match
+7696001,Entrecuestas Godello,Tilenus,2023,2026-03-05T00:00:00Z,Bodegas Estefania Tilenus Entrecuestas Godello,Bodegas Estefania S.L.,Spanien,2023,True,0.606,0.4,0.214,True,name+vintage
+7152301,Pommery Louis England Brut,Pommery,0,2026-03-05T00:00:00Z,Pommery Louis England Brut,Pommery,Storbritannien,,True,1.0,1.0,1.0,False,name_only
+7567901,Ribas Blanc,Bodega Ribas,2024,2026-03-05T00:00:00Z,Ribas Blanc,Bodega Ribas,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+5911701,Southern Right Pinotage,Southern Right Cellars,2022,2026-03-05T00:00:00Z,Southern Right Pinotage,Southern Right Cellars,Sydafrika,2022,True,1.0,1.0,1.0,True,name+vintage
+7519801,Castelas Domaine du Grand Belly,Castelas,2022,2026-03-05T00:00:00Z,Castelas Domaine du Grand Belly,Castelas,Frankrike,2022,True,1.0,1.0,1.0,True,name+vintage
+7695901,Montesoeiros Godello,Tilenus,2024,2026-03-05T00:00:00Z,Bodegas Estefania Tilenus Monteseiros Godello,Bodegas Estefania S.L.,Spanien,2025,True,0.585,0.167,0.214,False,neither
+7986401,IL Palagio Di Panzano Chianti Classico,Il Palagio di Panzano di Monia Piccini,2020,2026-03-05T00:00:00Z,IL Palagio Di Panzano Chianti Classico,Azienda Agricola IL Palagio di Panzano di Monia Piccini,Italien,2020,True,1.0,1.0,0.817,True,name+vintage
+7915301,Warwick Blue Lady Cabernet Sauvignon,Warwick Wine Estate,2020,2026-03-05T00:00:00Z,Warwick Blue Lady Cabernet Sauvignon,Warwick Wine Estate,Sydafrika,2020,True,1.0,1.0,1.0,True,name+vintage
+7181401,Fleur du Sud Cabernet Sauvignon,Montariol Degroote,2024,2026-03-05T00:00:00Z,Fleur du Sud Cabernet Sauvignon,Montariol Degroote,Frankrike,2024,True,1.0,1.0,1.0,True,name+vintage
+7650601,Domaine du Salvard LPS Pinot Noir,Domaine du Salvard,2023,2026-03-05T00:00:00Z,Domaine du Salvard LPS Pinot Noir,Domaine du Salvard,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7436401,Visby Sauvignon Blanc,Rewine AB,2025,2026-03-05T00:00:00Z,Visby Vitt Sauvignon Blanc,Rewine AB,Italien,2024,True,0.894,0.75,1.0,False,name_only
+7589601,Tintero Moscato d´Asti DOCG,Azienda Agricola Tintero,2025,2026-03-05T00:00:00Z,Tintero Moscato d´Asti DOCG,Azienda Agricola Tintero,Italien,2023,True,1.0,1.0,1.0,False,name_only
+7402102,Rubis Chocolate wine,Jayish London,0,2026-03-05T00:00:00Z,Rubis Chocolate wine,Jayish London,Storbritannien,,True,1.0,1.0,1.0,False,name_only
+5836201,Babylonstoren Cabernet Sauvignon,Babylonstoren,2023,2026-03-05T00:00:00Z,Babylonstoren,,,,False,0.578,0.333,0.0,,no_search_data_name_mismatch
+7826201,Lanzerac Mrs English Chardonnay,Lanzerac Wines,2022,2026-03-05T00:00:00Z,Lanzerac Mrs English,Lanzerac Wines,Sydafrika,2022,True,0.784,0.75,1.0,True,name+vintage
+7421701,Chablis Premier Cru Domaine Servin Montée de Tonnerre,Domaine Servin,2023,2026-03-05T00:00:00Z,Chablis Premier Cru Domaine Servin Montée de Tonnerre,Domaine Servin,Frankrike,2022,True,1.0,1.0,1.0,False,name_only
+7614401,Ventoux Passe Colline,Rhonea,2024,2026-03-05T00:00:00Z,Ventoux Passe Colline,Rhonea,Frankrike,2024,True,1.0,1.0,1.0,True,name+vintage
+7204501,Morgado de Silgueiros CS Branco,Adega de Silgueiros,2024,2026-03-05T00:00:00Z,Morgado de Silgueiros CS Branco,Adega de Silgueiros,Portugal,2024,True,1.0,1.0,1.0,True,name+vintage
+7539001,Côté Mas Orange,Domaines Paul Mas,2023,2026-03-05T00:00:00Z,Côté Mas Orange,Domaines Paul Mas,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7608201,Leth Blauer Zweigelt Klassik,Weingut Leth,2023,2026-03-05T00:00:00Z,Leth Blauer Zweigelt Klassik,Weingut Leth,Österrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7797101,Baloiro Seleccion en Vina Crianza,Bodega Luzdivina Amigo,2018,2026-03-05T00:00:00Z,Bodega Luzdivina Amigo Baloiro Seleccion en Vina Crianza,Bodega Luzdivina Amigo,Spanien,2018,True,0.742,0.625,1.0,True,name+vintage
+7460101,Moselland Von Grossenlagen,Winzergenossenschaft,2022,2026-03-05T00:00:00Z,Moselland Von Grossenlagen,Winzergenossenschaft,Tyskland,2022,True,1.0,1.0,1.0,True,name+vintage
+7390001,Dicey Bannockburn Pinot Noir,Dicey Ltd,2022,2026-03-05T00:00:00Z,Dicey Bannockburn Pinot Noir,Dicey Ltd,Nya Zeeland,2022,True,1.0,1.0,1.0,True,name+vintage
+7262701,Robusta Riesling,Rewine AB,2024,2026-03-05T00:00:00Z,Robusta Riesling,Rewine AB,Tyskland,2024,True,1.0,1.0,1.0,True,name+vintage
+7640801,Nigl Gärtling Grüner Veltliner,Weingut Nigl,2024,2026-03-05T00:00:00Z,Nigl Gärtling Grüner Veltliner,Weingut Nigl,Österrike,2023,True,1.0,1.0,1.0,False,name_only
+7848601,Azienda Agricola Monchiero Nebbiolo,Azienda Agricola Monchiero,2023,2026-03-05T00:00:00Z,Azienda Agricola Monchiero Nebbiolo,AZIENDA AGRICOLA MONCHIERO F.LLI .S.S,Italien,2023,True,1.0,1.0,0.839,True,name+vintage
+7802601,Florida Mencìa,Tilenus,2020,2026-03-05T00:00:00Z,Tilenus La Florida Mencia,Bodegas Estefania S.L.,Spanien,2020,True,0.718,0.5,0.214,True,name+vintage
+7634201,Botanica Big Flower Cabernet Franc,Botanica Wines,2023,2026-03-05T00:00:00Z,Botanica Big Flower Cabernet Franc,Botanica Wines,Sydafrika,2023,True,1.0,1.0,1.0,True,name+vintage
+7242201,Pommery Apanage Brut 1874,Pommery,0,2026-03-05T00:00:00Z,Pommery Apanage Brut 1874,Vranken Pommery,Frankrike,,True,1.0,1.0,0.636,False,name_only
+7220801,Vivanco Blanco Rioja,Vivanco,2024,2026-03-05T00:00:00Z,Vivanco Blanco Rioja,Vivanco,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+7518801,Ventoux Passe Colline Rouge,Rhonea,2024,2026-03-05T00:00:00Z,Ventoux Passe Colline Rouge,Rhonea,Frankrike,2024,True,1.0,1.0,1.0,True,name+vintage
+7137701,Dicey Bannockburn Riesling,Dicey Ltd,2024,2026-03-05T00:00:00Z,Dicey Bannockburn Riesling,Dicey Ltd,Nya Zeeland,2024,True,1.0,1.0,1.0,True,name+vintage
+7235101,Franchetto La Capelina,Azienda Agricola Franchetto,2024,2026-03-05T00:00:00Z,Franchetto La Capelina,Azienda Agricola Franchetto,Italien,2025,True,1.0,1.0,1.0,False,name_only
+7340201,Gérard Bertrand Château l'Hospitalet la Réserve Blanc,Gérard Bertrand,2023,2026-03-05T00:00:00Z,Gérard Bertrand Château l'Hospitalet la Réserve Blanc,Gérard Bertrand,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7625601,Santa Julia El Zorrito Orange Natural,Bodega Santa Julia,2025,2026-03-05T00:00:00Z,Santa Julia El Zorrito Orange Natural,Bodega Santa Julia,Argentina,2025,True,1.0,1.0,1.0,True,name+vintage
+7952301,Amarone della Valpolicella Classico,La Giaretta,2021,2026-03-05T00:00:00Z,Amarone della Valpolicella Classico,La Giaretta,Italien,2021,True,1.0,1.0,1.0,True,name+vintage
+7283601,Via Latina Espumante Rosé,Vercoope,0,2026-03-05T00:00:00Z,Via Latina Espumante Rosé,Vercoope,Portugal,,True,1.0,1.0,1.0,False,name_only
+7051501,Alan de Val Godello,Alan de Val,2023,2026-03-05T00:00:00Z,Alan de Val Godello,Alan de Val,Spanien,2024,True,1.0,1.0,1.0,False,name_only
+7473101,Southern Right Sauvignon Blanc,Southern Right,2024,2026-03-05T00:00:00Z,Southern Right Sauvignon Blanc,Southern Right,Sydafrika,2024,True,1.0,1.0,1.0,True,name+vintage
+7756701,Emilio Moro El Zarzal Godello,Emilio Moro,2024,2026-03-05T00:00:00Z,Emilio Moro El Zarzal Godello,Emilio Moro,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+7772401,Bindi Sergardi Chianti Classico Riserva Calidonia,Bindi Sergardi,2020,2026-03-05T00:00:00Z,Bindi Sergardi Chianti Classico Riserva Calidonia,Bindi Sergardi,Italien,2020,True,1.0,1.0,1.0,True,name+vintage
+7325401,Espumante Murganheira Reserva Bruto,Murganheira,2023,2026-03-05T00:00:00Z,Espumante Murganheira Reserva Bruto,Murganheira,Portugal,2023,True,1.0,1.0,1.0,True,name+vintage
+5703401,Mülheimer Sonnenlay Riesling Zeppelinlabel,Weinhandlung Max Ferd richter,2024,2026-03-05T00:00:00Z,Mülheimer Sonnenlay Riesling Zeppelinlabel,Weinhandlung Max Ferd richter,Tyskland,2024,True,1.0,1.0,1.0,True,name+vintage
+5897701,El Galgo Callet Oliver Moragues,Oliver Moragues,2024,2026-03-05T00:00:00Z,El Galgo Callet Oliver Moragues,Oliver Moragues,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+7166601,Rainer Sauer Riesling Trocken Ortswein Escherndorf,Weingut Rainer Sauer,2021,2026-03-05T00:00:00Z,Rainer Sauer Riesling Trocken Ortswein Escherndorf,Weingut Rainer Sauer,Tyskland,2016,True,1.0,1.0,1.0,False,name_only
+7090401,Ecoltura Pecorino,Domaine Wines Sweden AB,2025,2026-03-05T00:00:00Z,Ecoltura Pecorino,Domaine Wines Sweden AB,Italien,2025,True,1.0,1.0,1.0,True,name+vintage
+7863601,Ecologico Mencía,Tilenus,2024,2026-03-05T00:00:00Z,Tilenus Ecologico Mencia,Bodegas Estefania S.L.,Spanien,2025,True,0.8,0.667,0.214,False,name_only
+7043901,Zuccardi Serie A Malbec,Familia Zuccardi,2024,2026-03-05T00:00:00Z,Zuccardi Serie A Malbec,Familia Zuccardi,Argentina,2024,True,1.0,1.0,1.0,True,name+vintage
+7084501,Hamilton Russell Vineyards Chardonnay,Hamilton Russell Vineyards,2023,2026-03-05T00:00:00Z,Hamilton Russell Vineyards Chardonnay,Hamilton Russell Vineyards,Sydafrika,2023,True,1.0,1.0,1.0,True,name+vintage
+7492301,Chablis Domaine Servin,Domaine Servin,2023,2026-03-05T00:00:00Z,Chablis Domaine Servin,Domaine Servin,Frankrike,2022,True,1.0,1.0,1.0,False,name_only
+7908901,Microcosmico Garnacha,Bodegas Frontonnio,2023,2026-03-05T00:00:00Z,Frontonio Microcosmico Garnacha,Bodegas Frontonio,Spanien,2023,True,0.808,0.667,0.971,True,name+vintage
+7362201,XXL Peach,Barton & Guestier,0,2026-03-05T00:00:00Z,XXL Peach,Barton & Guestier,Frankrike,,True,1.0,1.0,1.0,False,name_only
+7570901,Romanico,Dominio de Eguren,2022,2026-03-05T00:00:00Z,Romanico,Dominio de Eguren,Spanien,2022,True,1.0,1.0,1.0,True,name+vintage
+7309201,Babylonstoren Babel,Babylonstoren,2024,2026-03-05T00:00:00Z,Babylonstoren Babel,Babylonstoren,Sydafrika,2024,True,1.0,1.0,1.0,True,name+vintage
+7456301,Inici Priorat,Merum Priorati,2022,2026-03-05T00:00:00Z,Inici Priorat,Merum Priorati,Spanien,2021,True,1.0,1.0,1.0,False,name_only
+759001,Pommery Brut Royal,Pommery,0,2026-03-05T00:00:00Z,Pommery Brut Royal,Pommery,Frankrike,,True,1.0,1.0,1.0,False,name_only
+7697902,Taittinger Prestige Rosé,Taittinger,0,2026-03-05T00:00:00Z,Taittinger  Prestige Rosé,Taittinger,Frankrike,,True,1.0,1.0,1.0,False,name_only
+8829401,Cadicarassa Cortese dell´alto Monferrato,Bocchino Guiseppe Az Agricola,2023,2026-03-05T00:00:00Z,Cadicarassa Cortese dell´alto Monferrato,Bocchino Guiseppe Az Agricola,Italien,2022,True,1.0,1.0,1.0,False,name_only
+7027501,Via Latina Loureiro,Vercoope,2024,2026-03-05T00:00:00Z,Via Latina Loureiro,Vercoope,Portugal,2025,True,1.0,1.0,1.0,False,name_only
+7434301,Domaines Paul Mas Côté Mas Sauvignon Vermentino,Domaines Paul Mas,2024,2026-03-05T00:00:00Z,Côté Mas Sauvignon Vermentino,Domaines Paul Mas,Frankrike,2024,True,0.763,0.667,1.0,True,name+vintage
+671201,Viña Pomal Reserva,Bodegas Bilbaìnas,2018,2026-03-05T00:00:00Z,Viña Pomal Reserva,Bodegas Bilbaìnas,Spanien,2018,True,1.0,1.0,1.0,True,name+vintage
+7151101,Finca Resalso Emilio Moro,Emilio Moro,2024,2026-03-05T00:00:00Z,Finca Resalso Emilio Moro,Emilio Moro,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+7033601,Emilio Moro,Emilio Moro,2023,2026-03-05T00:00:00Z,Emilio Moro,Emilio Moro,Spanien,2023,True,1.0,1.0,1.0,True,name+vintage
+5541401,Bedoba Saperavi,Kakheti Company Ltd,2022,2026-03-05T00:00:00Z,Bedoba Saperavi,KTW group / Kakhetian Traditional Winemaking LTD,Georgien,2023,True,1.0,1.0,0.4,False,name_only
+7346901,Via Latina Escolha Branco,Vercoope,2025,2026-03-05T00:00:00Z,Via Latina Escolha Branco,Vercoope,Portugal,2025,True,1.0,1.0,1.0,True,name+vintage
+7365101,Saint-Mont Vieilles Vignes,Plaimont Producteurs,2020,2026-03-05T00:00:00Z,Saint-Mont Vieilles Vignes,Plaimont Producteurs,Frankrike,2020,True,1.0,1.0,1.0,True,name+vintage
+7123401,Dicey Bannockburn Chardonnay,Dicey Ltd,2023,2026-03-05T00:00:00Z,Dicey Bannockburn Chardonnay,Dicey Ltd,Nya Zeeland,2023,True,1.0,1.0,1.0,True,name+vintage
+5188301,Château Doisy-Daëne Bordeaux Blanc,Château de Doisy-Daëne,2021,2026-03-05T00:00:00Z,Château Doisy-Daëne Bordeaux Blanc,Château de Doisy-Daëne,Frankrike,2021,True,1.0,1.0,1.0,True,name+vintage
+7555501,Murganheira Reserva Tinto,Murganheira,2020,2026-03-05T00:00:00Z,Murganheira Reserva Tinto,Murganheira,Portugal,2020,True,1.0,1.0,1.0,True,name+vintage
+7360501,Espumante Murganheira Rosé Bruto,Murganheira,2020,2026-03-05T00:00:00Z,Espumante Murganheira Rosé Bruto,Murganheira,Portugal,2020,True,1.0,1.0,1.0,True,name+vintage
+7073201,Valle de Nabal Tempranillo,Bodegas Navarro,2023,2026-03-05T00:00:00Z,Valle de Nabal Tempranillo,Bodegas Navarro,Spanien,2023,True,1.0,1.0,1.0,True,name+vintage
+7261401,Caranti Nizza,Tenuta Bricco San Giorgio,2021,2026-03-05T00:00:00Z,Caranti Nizza,Tenuta Bricco San Giorgio,Italien,2021,True,1.0,1.0,1.0,True,name+vintage
+5480201,Les Sentius Celler Joan Simó,Celler Joan Simó,2022,2026-03-05T00:00:00Z,Les Sentius Celler Joan Simó,Celler Joan Simó,Spanien,2022,True,1.0,1.0,1.0,True,name+vintage
+7894601,Plaimont Géoglyphe Madiran,Plaimont Producteurs,2014,2026-03-05T00:00:00Z,Plaimont Géoglyphe Madiran,Plaimont Producteurs,Frankrike,2014,True,1.0,1.0,1.0,True,name+vintage
+7536601,Lelie van Saron Chardonnay,Natasha Williams Signature Wines,2022,2026-03-05T00:00:00Z,Lelie van Saron Chardonnay,Natasha Williams Signature Wines,Sydafrika,2022,True,1.0,1.0,1.0,True,name+vintage
+7110601,Domaine du Salvard Cheverny Blanc,Domaine du Salvard,2024,2026-03-05T00:00:00Z,Domaine du Salvard Cheverny Blanc,Domaine du Salvard,Frankrike,2024,True,1.0,1.0,1.0,True,name+vintage
+5108001,Bourg Chardonnay,Dacasto Duilio,2023,2026-03-05T00:00:00Z,Bourg,,,,False,0.476,0.5,0.0,,no_search_data_name_match
+7985101,La Giaretta Valpolicella Ripasso Classico Superiore,La Giaretta,2021,2026-03-05T00:00:00Z,La Giaretta Valpolicella Ripasso Classico Superiore,La Giaretta,Italien,2021,True,1.0,1.0,1.0,True,name+vintage
+7692601,Silgueiros Colheita Branco,Adega de Silgueiros,2024,2026-03-05T00:00:00Z,Silgueiros Colheita Branco,Adega de Silgueiros,Portugal,2024,True,1.0,1.0,1.0,True,name+vintage
+5169001,Clos Cibonne Cuvée Tradition,Clos Cibonne,2023,2026-03-05T00:00:00Z,Clos Cibonne Cuvée Tradition,Clos Cibonne,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7098701,Ribas Negre,Bodega Ribas,2023,2026-03-05T00:00:00Z,Ribas Negre,Bodega Ribas,Spanien,2023,True,1.0,1.0,1.0,True,name+vintage
+7488101,Yura,Plaimont Producteurs,2023,2026-03-05T00:00:00Z,Yura,Plaimont Producteurs,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7789801,XXL Strawberry & Grapes,Barton & Guestier,0,2026-03-05T00:00:00Z,XXL Strawberry & Grapes,Barton & Guestier,Frankrike,,True,1.0,1.0,1.0,False,name_only
+7158901,Hamilton Russell Vineyards Pinot Noir,Hamilton Russell Vineyards,2024,2026-03-05T00:00:00Z,Hamilton Russell Vineyards Pinot Noir,Hamilton Russell Vineyards,Sydafrika,2024,True,1.0,1.0,1.0,True,name+vintage
+7910501,Zuccardi Serie A Torrontes,Familia Zuccardi,2025,2026-03-05T00:00:00Z,Zuccardi Serie A Torrontes,Familia Zuccardi,Argentina,2025,True,1.0,1.0,1.0,True,name+vintage
+7449601,Di Majo Norante Aglianico Biorganic,Di Majo Norante,2020,2026-03-05T00:00:00Z,Di Majo Norante Aglianico Biorganic,Di Majo Norante,Italien,2021,True,1.0,1.0,1.0,False,name_only
+7293901,Tirrenico Marchesi Mazzei,Marchesi Mazzei,2022,2026-03-05T00:00:00Z,Tirrenico Marchesi Mazzei,Marchesi Mazzei,Italien,2023,True,1.0,1.0,1.0,False,name_only
+7245101,Godello Cepas Viejas,Dominio de Tares,2024,2026-02-07T00:00:00Z,Godello,Dominio de Tares,Spanien,2024,True,0.519,0.333,1.0,True,vintage_only
+7924601,Baltos,Dominio de Tares,2021,2026-02-07T00:00:00Z,Baltos,Dominio de Tares,Spanien,2021,True,1.0,1.0,1.0,True,name+vintage
+7695901,Montesoeiros Godello,Tilenus,2024,2026-02-07T00:00:00Z,Bodegas Estefania Tilenus Monteseiros Godello,Bodegas Estefania S.L.,Spanien,2025,True,0.585,0.167,0.214,False,neither
+5449201,Pizarras de Otero,Adegas Galegas,2021,2026-02-07T00:00:00Z,Pizarras de Otero Bierzo,Adegas Galegas,Spanien,2021,True,0.829,0.75,1.0,True,name+vintage
+7797101,Baloiro Seleccion en Vina Crianza,Bodega Luzdivina Amigo,2018,2026-02-07T00:00:00Z,Bodega Luzdivina Amigo Baloiro Seleccion en Vina Crianza,Bodega Luzdivina Amigo,Spanien,2018,True,0.742,0.625,1.0,True,name+vintage
+9551301,Corullón,Descendientes de J Palacios,2022,2026-02-07T00:00:00Z,Corullón Descendientes de J Palacios,Descendientes de J Palacios,Spanien,2022,True,0.364,0.2,1.0,True,vintage_only
+7696001,Entrecuestas Godello,Tilenus,2023,2026-02-07T00:00:00Z,Bodegas Estefania Tilenus Entrecuestas Godello,Bodegas Estefania S.L.,Spanien,2023,True,0.606,0.4,0.214,True,name+vintage
+5811301,La Cerrada Godello,Vinos Valtuille,2022,2026-02-07T00:00:00Z,La Cerrada,,,,False,0.714,0.667,0.0,,no_search_data_name_match
+7394901,Pitttacum,Bodegas Pittacum,2019,2026-02-07T00:00:00Z,Pittacum,Bodegas Pittacum,Spanien,2019,True,0.941,0.0,1.0,True,name+vintage
+7336206,Godelia Mencia,Bodegas Godelia,2016,2026-02-07T00:00:00Z,Godelia Mencía,Bodegas Godelia,Spanien,2016,True,1.0,1.0,1.0,True,name+vintage
+7756701,Emilio Moro El Zarzal Godello,Emilio Moro,2024,2026-02-07T00:00:00Z,Emilio Moro El Zarzal Godello,Emilio Moro,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+7093301,Encinas Bierzo,Alain Graillot,2022,2026-02-07T00:00:00Z,Encinas Bierzo,Alain Graillot,Spanien,2021,True,1.0,1.0,1.0,False,name_only
+7863601,Ecologico Mencía,Tilenus,2024,2026-02-07T00:00:00Z,Tilenus Ecologico Mencia,Bodegas Estefania S.L.,Spanien,2025,True,0.8,0.667,0.214,False,name_only
+7802601,Florida Mencìa,Tilenus,2020,2026-02-07T00:00:00Z,Tilenus La Florida Mencia,Bodegas Estefania S.L.,Spanien,2020,True,0.718,0.5,0.214,True,name+vintage
+7011001,Bembibre,Dominio de Tares,2018,2026-02-07T00:00:00Z,Bembibre,Dominio de Tares,Spanien,2018,True,1.0,1.0,1.0,True,name+vintage
+13101,Sos Pudu,Erazo,2024,2026-01-31T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither
+7272101,Catena Malbec,Bodega Catena Zapata,2023,2026-01-08T00:00:00Z,Catena Malbec,Bodega Catena Zapata,Argentina,2024,True,1.0,1.0,1.0,False,name_only
+5185801,Finca Espolla Castillo de Perelada,Perelada,2021,2026-01-08T00:00:00Z,Finca Espolla,,,,False,0.553,0.4,0.0,,no_search_data_name_mismatch
+7833501,Babylonstoren Shiraz,Babylonstoren,2023,2026-01-08T00:00:00Z,Babylonstoren Shiraz,Babylonstoren,Sydafrika,2023,True,1.0,1.0,1.0,True,name+vintage
+7675201,Domaine Saint-Georges d'Ibry Viognier,Saint Georges d'Ibry,2023,2026-01-08T00:00:00Z,Domaine Saint-Georges d'Ibry Viognier,Domaine Saint-Georges d'Ibry,Frankrike,2023,True,1.0,1.0,0.833,True,name+vintage
+7673601,Le Carignan Neffiès de Thérèse Rose,Domaine Thérèse Rose,2022,2026-01-08T00:00:00Z,Le Carignan Neffiès de Thérèse Rose,Domaine Thérèse Rose,Frankrike,2022,True,1.0,1.0,1.0,True,name+vintage
+5087501,La Maestra Barbera d´Asti,Dacasto Duiliolodapelsin och,2023,2026-01-08T00:00:00Z,La Maestra Barbera d´Asti,Dacasto Duilio,Italien,2023,True,1.0,1.0,0.667,True,name+vintage
+8408901,Cecchi Chianti Classico Riserva di Famiglia,Famiglia Cecchi,2016,2026-01-08T00:00:00Z,Cecchi Chianti Classico Riserva di Famiglia,Casa Vinicola Luigi Cecchi,Italien,2022,True,1.0,1.0,0.537,False,name_only
+7565301,Saskia Miles Mossop Wines,Miles Mossop Wines,2022,2026-01-08T00:00:00Z,Saskia Miles Mossop Wines,Miles Mossop Wines,Sydafrika,2022,True,1.0,1.0,1.0,True,name+vintage
+7428601,Ai Ama! Tempranillo Rioja Alavesa,Rosario Vera,2023,2026-01-08T00:00:00Z,Ai Ama! Tempranillo Rioja Alavesa,Bodegas Rosario Vera,Spanien,2023,True,1.0,1.0,0.75,True,name+vintage
+7217601,Lanzerac Pinotage,Lanzerac,2022,2026-01-08T00:00:00Z,Lanzerac Pinotage,Lanzerac Wines,Sydafrika,2022,True,1.0,1.0,0.727,True,name+vintage
+7958001,Barrilario Tinto Reserva Quinta de Pacheca,Quinta da Pacheca,2020,2026-01-08T00:00:00Z,Barrilario Tinto Reserva Quinta de Pacheca,Quinta de Pacheca,Portugal,2020,True,1.0,1.0,0.941,True,name+vintage
+7250801,Diorama Garnacha,Bodega Pinord,2023,2026-01-08T00:00:00Z,Diorama Garnacha,Bodegas Pinord,Spanien,2023,True,1.0,1.0,0.963,True,name+vintage
+5119401,Sorì dei Fiori Moscato d´Asti,Bocchino Guiseppe Az Agricola,2024,2026-01-08T00:00:00Z,Sorì dei Fiori,,,,False,0.651,0.5,0.0,,no_search_data_name_match
+7602001,La Lobita,La Loba,2021,2026-01-08T00:00:00Z,La Lobita,La Loba,Spanien,2021,True,1.0,1.0,1.0,True,name+vintage
+5481801,Herdade do Sobroso Cellar Selection rött,Herdade do Sobroso,2022,2026-01-08T00:00:00Z,Herdade do Sobroso Cellar Selection rött,Herdade do Sobroso,Portugal,2020,True,1.0,1.0,1.0,False,name_only
+7775702,La Guita Pasada En Rama,Rainera Pérez Marín,0,2026-01-08T00:00:00Z,La Guita Pasada En Rama,Rainera Pérez Marín,Spanien,,True,1.0,1.0,1.0,False,name_only
+7484101,Murganheira Touriga Nacional Bruto,Murganheira,2019,2026-01-08T00:00:00Z,Murganheira Touriga Nacional Bruto,"Sociedade Agrícola e Comercial do Varosa, S.A.",Portugal,2013,True,1.0,1.0,0.182,False,name_only
+7599701,Penfolds Bin 51 Eden Valley Riesling,Penfolds,2024,2026-01-08T00:00:00Z,Penfolds Bin 51 Eden Valley Riesling,Penfolds,Australien,2024,True,1.0,1.0,1.0,True,name+vintage
+7011201,Penfolds Bin 21,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds Bin 21,Penfolds,Australien,2022,True,1.0,1.0,1.0,True,name+vintage
+5016401,Dacasto Duilio Vianus Arneis,Ducasto Duilio,2024,2026-01-08T00:00:00Z,Dacasto Duilio,,,,False,0.667,0.5,0.0,,no_search_data_name_match
+7833701,Costa di Bussia Barbera d'Alba,Costa di Bussia - Tenuta Arnulfo,2023,2026-01-08T00:00:00Z,Costa di Bussia Barbera d'Alba,Costa di Bussia - Tenuta Arnulfo,Italien,2023,True,1.0,1.0,1.0,True,name+vintage
+5328201,Dacasto Duilio Vianus Rosé,Dacasto Duilio,2024,2026-01-08T00:00:00Z,Dacasto Duilio,,,,False,0.7,0.5,0.0,,no_search_data_name_match
+7305501,Château Ormes de Pez,Château Ormes de Pez,2017,2026-01-08T00:00:00Z,Chateau Ormes de Pez 750 ml,Chateau Ormes de Pez,Frankrike,2017,True,0.851,0.667,1.0,True,name+vintage
+7054801,Penfolds Bin 704,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds Bin 704,Penfolds,USA,2022,True,1.0,1.0,1.0,True,name+vintage
+7677501,Penfolds French Winemaking Trial 543,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds French Winemaking Trial 543,Penfolds,Frankrike,2022,True,1.0,1.0,1.0,True,name+vintage
+7180201,Albino Rocca Langhe Chardonnay Da Bertü,Albino Rocca,2024,2026-01-08T00:00:00Z,Albino Rocca Langhe Chardonnay Da Bertü,Albino Rocca,Italien,2024,True,1.0,1.0,1.0,True,name+vintage
+7695501,Morgado de Silgueiros Encruzado,Adega de Silgueiros,2024,2026-01-08T00:00:00Z,Morgado de Silgueiros Encruzado,Adega de Silgueiros,Portugal,2024,True,1.0,1.0,1.0,True,name+vintage
+7915002,La Guita En Rama,Rainera Pérez Marín,0,2026-01-08T00:00:00Z,La Guita En Rama,Rainera Pérez Marín,Spanien,,True,1.0,1.0,1.0,False,name_only
+5102201,João M Barbosa Ninfa Maria Gomes,João M Barbosa,2019,2026-01-08T00:00:00Z,João M Barbosa Ninfa Maria Gomes,Sociedade Agricola João Teodosio Matos Barbosa & filhos LDA,Portugal,2020,True,1.0,1.0,0.394,False,name_only
+7569501,Penfolds Max's Shiraz,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds Max's Shiraz,Penfolds,Australien,2022,True,1.0,1.0,1.0,True,name+vintage
+7819201,Arduine Barbera d´Asti Bocchino Guiseppe Az Agricola,Bocchino Guiseppe Az Agricola,2023,2026-01-08T00:00:00Z,Arduine Barbera d´Asti Bocchino Guiseppe Az Agricola,Bocchino Guiseppe Az Agricola,Italien,2023,True,1.0,1.0,1.0,True,name+vintage
+7879401,Chablis Domaine Olivier Morin,Domaine Olivier Morin,2023,2026-01-08T00:00:00Z,Chablis Domaine Olivier Morin,Domaine Olivier Morin,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7012801,Penfolds Bin 600,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds Bin 600,Penfolds,USA,2022,True,1.0,1.0,1.0,True,name+vintage
+7047901,Medeiros Tinto,Herdade de Medeiros,2022,2026-01-08T00:00:00Z,Medeiros Tinto,Herdade de Medeiros,Portugal,2022,True,1.0,1.0,1.0,True,name+vintage
+7700601,Domaine Garon Saint-Joseph Agricola,Domaine Garon,2023,2026-01-08T00:00:00Z,Domaine Garon Saint-Joseph Agricola,Domaine Garon,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7935801,Can Bas D'Origin P3,Can Bas,2023,2026-01-08T00:00:00Z,Can Bas P3 D'Origin Xarel-lo,Can Bas Domini Vinicola,Spanien,2023,True,0.723,0.714,0.467,True,name+vintage
+7914101,Cuvée Stockholm Nr 4 La Clape Languedoc,Château de Figuières,2018,2026-01-08T00:00:00Z,Cuvée Stockholm Nr 4 La Clape Languedoc,Cuvée Stockholm,Frankrike,2018,True,1.0,1.0,0.286,True,name+vintage
+7094901,Via Latina Grande Escolha,Vercoope,2023,2026-01-08T00:00:00Z,Via Latina Grande Escolha,Vercoope,Portugal,2023,True,1.0,1.0,1.0,True,name+vintage
+7768801,Silgueiros Colheita Tinto,Adega de Silgueiros,2023,2026-01-08T00:00:00Z,Silgueiros Colheita Tinto,Adega de Silgueiros,Portugal,2023,True,1.0,1.0,1.0,True,name+vintage
+7196701,Château Haut-Bergey,Château Haut Bergey,2012,2026-01-08T00:00:00Z,Chateau Haut Bergey,Château Haut-Bergey,Frankrike,2012,True,1.0,1.0,1.0,True,name+vintage
+604701,Cecchi Vernaccia di San Gimignano,Famiglia Cecchi,2024,2026-01-08T00:00:00Z,Cecchi Vernaccia di San Gimignano,Cecchi,Italien,2024,True,1.0,1.0,0.571,True,name+vintage
+5469201,Tesselaarsdal Pinot Noir,Tesselaarsdal Wines,2023,2026-01-08T00:00:00Z,Tesselaarsdal,,,,False,0.703,0.333,0.0,,no_search_data_name_match
+7196901,Pacheca Pink Port,Quinta da Pacheca,2024,2026-01-08T00:00:00Z,Pacheca Pink Port,Quinta de Pacheca,Portugal,,True,1.0,1.0,0.941,False,name_only
+5129101,Chivite Finca Legardeta Single Vineyard Chardonnay,Chivite,2024,2026-01-08T00:00:00Z,Chivite Finca Legardeta Single Vineyard Chardonnay,Chivite,Spanien,2023,True,1.0,1.0,1.0,False,name_only
+7837401,Tentation Crémant de Bourgogne Domaine Olivier Morin,Domaine Olivier Morin,0,2026-01-08T00:00:00Z,Tentation Crémant de Bourgogne Domaine Olivier Morin,Domaine Olivier Morin,Frankrike,,True,1.0,1.0,1.0,False,name_only
+7987301,Bourgogne Aligoté,Domaine Olivier Morin,2023,2026-01-08T00:00:00Z,Bourgogne Aligoté,Domaine Olivier Morin,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7628201,Adamant Barbera del Monferrato Superiore,Angelini Paolo,2021,2026-01-08T00:00:00Z,Adamant Barbera del Monferrato Superiore,ANGELINI PAOLO SSA,Italien,2021,True,1.0,1.0,0.875,True,name+vintage
+7065601,Catena Alta Cabernet Sauvignon,Bodega Catena Zapata,2021,2026-01-08T00:00:00Z,Catena Alta Cabernet Sauvignon,Bodega Catena Zapata,Argentina,2022,True,1.0,1.0,1.0,False,name_only
+7488801,Max Miles Mossop Wines,Miles Mossop Wines,2020,2026-01-08T00:00:00Z,Max Miles Mossop Wines,Miles Mossop Wines,Sydafrika,2020,True,1.0,1.0,1.0,True,name+vintage
+7405601,La Casa di Briccciano Chianti Classico,Azienda Agricola Biologica La Casa di Bricciano,2022,2026-01-08T00:00:00Z,La Casa di Briccciano Chianti Classico,Azienda Agricola Biologica La Casa di Bricciano,Italien,2022,True,1.0,1.0,1.0,True,name+vintage
+7767901,Penfolds French Winemaking Trial 585,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds French Winemaking Trial 585,Penfolds,Frankrike,2022,True,1.0,1.0,1.0,True,name+vintage
+7168301,Lanzerac Chardonnay,Lanzerac,2023,2026-01-08T00:00:00Z,Lanzerac Chardonnay,Lanzerac Wines,Sydafrika,2023,True,1.0,1.0,0.727,True,name+vintage
+7553701,Elyà Piemonte Chardonnay,Bocchino Guiseppe Az Agricola,2023,2026-01-08T00:00:00Z,Elyà Piemonte Chardonnay,Bocchino Guiseppe Az Agricola,Italien,2022,True,1.0,1.0,1.0,False,name_only
+7922301,Langhe Chardonnay,Costa di Bussia - Tenuta Arnulfo,2024,2026-01-08T00:00:00Z,Langhe Chardonnay,Costa di Bussia - Tenuta Arnulfo,Italien,2024,True,1.0,1.0,1.0,True,name+vintage
+5435501,Domaine Garon Côtes du Rhône La Part des Vivants,Domaine Garon,2023,2026-01-08T00:00:00Z,Domaine Garon Côtes du Rhône La Part des Vivants,Domaine Garon,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7857501,Bodegas Pinord Diorama Verdejo,Bodega Pinord,2024,2026-01-08T00:00:00Z,Bodegas Pinord Diorama Verdejo,Bodegas Pinord,Spanien,2024,True,1.0,1.0,0.963,True,name+vintage
+7672701,Via Latina Espumante Verde Branco,Vercoope,0,2026-01-08T00:00:00Z,Via Latina Espumante Verde Branco,Vercoope,Portugal,,True,1.0,1.0,1.0,False,name_only
+7284601,Château les Grands Chênes,Bernard Margez,2016,2026-01-08T00:00:00Z,Chateau les Grands Chenes,Ch. Les Grands Sillons,Frankrike,2016,True,1.0,1.0,0.286,True,name+vintage
+7128401,Taittinger Nocturne Norrsken,Champagne Taittinger,0,2026-01-08T00:00:00Z,Taittinger Nocturne Norrsken,Taittinger,Frankrike,,True,1.0,1.0,0.667,False,name_only
+7216001,Domaine Garon Crozes-Hermitage Around the Rhône,Domaine Garon,2023,2026-01-08T00:00:00Z,Domaine Garon Crozes-Hermitage Around the Rhône,Domaine Garon,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7514009,Reuscher-Haart Mosel Riesling Vinlåda Vitt vin,Weingut Reuscher-Haart,0,2026-01-08T00:00:00Z,Reuscher-Haart Mosel Riesling Vinlåda Vitt vin,Weingut Reuscher-Haart,Tyskland,,True,1.0,1.0,1.0,False,name_only
+7309201,Babylonstoren Babel,Babylonstoren,2023,2026-01-08T00:00:00Z,Babylonstoren Babel,Babylonstoren,Sydafrika,2024,True,1.0,1.0,1.0,False,name_only
+7405701,La Casa di Bricciano Il Ritrovo Toscana,Azienda Agricola Biologica La Casa di Bricciano,2016,2026-01-08T00:00:00Z,La Casa di Bricciano Il Ritrovo Toscana,Azienda Agricola Biologica La Casa di Bricciano,Italien,2016,True,1.0,1.0,1.0,True,name+vintage
+7534101,Penfolds Max's Shiraz Cabernet,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds Max's Shiraz Cabernet,Penfolds,Australien,2022,True,1.0,1.0,1.0,True,name+vintage
+7700501,Penfolds Champagne Rosé Brut,Penfolds,0,2026-01-08T00:00:00Z,Penfolds Champagne Rosé Brut,Penfolds,Frankrike,,True,1.0,1.0,1.0,False,name_only
+7915202,La Guita Amontillado En Rama,Rainera Pérez Marín,0,2026-01-08T00:00:00Z,La Guita Amontillado En Rama,Rainera Pérez Marín,Spanien,,True,1.0,1.0,1.0,False,name_only
+7539101,Mulderbosch Sauvignon Blanc,Mulderbosch Vineyards,2024,2026-01-08T00:00:00Z,Mulderbosch Sauvignon Blanc,Mulderbosch Vineyards,Sydafrika,2024,True,1.0,1.0,1.0,True,name+vintage
+5290401,Chivite Finca Legardeta Single Vineyard Syrah,Chivite,2022,2026-01-08T00:00:00Z,Chivite Finca Legardeta Single Vineyard Syrah,Chivite,Spanien,2022,True,1.0,1.0,1.0,True,name+vintage
+7755501,Penfolds Bin 150 Marananga Shiraz,Penfolds,2022,2026-01-08T00:00:00Z,Penfolds Bin 150 Marananga Shiraz,Penfolds,Australien,2022,True,1.0,1.0,1.0,True,name+vintage
+7563701,Serin Vermentino,Tenuta Casteani,2022,2026-01-08T00:00:00Z,Serin Vermentino,Tenuta Casteani,Italien,2020,True,1.0,1.0,1.0,False,name_only
+7815401,O Fillo da Condesa Albariño,Bodega Lagar de Condesa,2024,2026-01-08T00:00:00Z,O Fillo da Condesa Albariño,Bodega Lagar de Condesa,Spanien,2024,True,1.0,1.0,1.0,True,name+vintage
+7382601,Fattoria Pagano Aglianico,Fattoria Pagano,2024,2026-01-08T00:00:00Z,Fattoria Pagano Aglianico,Fattoria Pagano,Italien,2024,True,1.0,1.0,1.0,True,name+vintage
+7153201,Penfolds Bin 23,Penfolds,2023,2026-01-08T00:00:00Z,Penfolds Bin 23,Penfolds,Australien,2023,True,1.0,1.0,1.0,True,name+vintage
+7649001,Château Fleur Cardinale,Château Fleur Cardinale,2021,2026-01-08T00:00:00Z,Chateau Fleur Cardinale 750 m,Ch. Fleur Cardinale,Frankrike,2021,True,0.885,0.6,0.878,True,name+vintage
+7227301,Saint-Joseph André Perret,André Perret,2021,2026-01-08T00:00:00Z,Saint-Joseph André Perret,Domaine Andre perret,Frankrike,2022,True,1.0,1.0,0.75,False,name_only
+7545701,Penfolds Koonunga Hill Autumn Riesling,Penfolds,2024,2026-01-08T00:00:00Z,Penfolds Koonunga Hill Autumn Riesling,Penfolds,Australien,2024,True,1.0,1.0,1.0,True,name+vintage
+7378801,Weingut Reuscher-Haart Piesporter Falkenberg Riesling Kabinett Trocken,Weingut Reuscher-Haart,2022,2026-01-08T00:00:00Z,Weingut Reuscher-Haart Piesporter Falkenberg Riesling Kabinett Trocken,Weingut Reuscher-Haart,Tyskland,2023,True,1.0,1.0,1.0,False,name_only
+7825101,Adega de Silgueiros Morgado Silgueiros Reserva,Adega de Silgueiros,2021,2026-01-08T00:00:00Z,Adega de Silgueiros Morgado Silgueiros Reserva,Adega de Silgueiros,Portugal,2021,True,1.0,1.0,1.0,True,name+vintage
+7514701,Montagne Domaine de la Rectorie,Domaine de la Rectorie,2022,2026-01-08T00:00:00Z,Montagne Domaine de la Rectorie,Domaine de la Rectorie,Frankrike,2022,True,1.0,1.0,1.0,True,name+vintage
+5235701,Catherine Marshall Riesling,Catherine Marshall Wines,2025,2026-01-08T00:00:00Z,Catherine Marshall Riesling,Catherine Marshall Wines,Sydafrika,2025,True,1.0,1.0,1.0,True,name+vintage
+7393801,Chapters Cabernet Sauvignon Miles Mossop Wines,Miles Mossop Wines,2022,2026-01-08T00:00:00Z,Chapters Cabernet Sauvignon Miles Mossop Wines,Miles Mossop Wines,Sydafrika,2022,True,1.0,1.0,1.0,True,name+vintage
+7734701,Champagne de Barfontarc Derrière le Moulin Blanc de Blancs Brut,Champagne de Barfontarc,2017,2026-01-08T00:00:00Z,Champagne de Barfontarc Derrière le Moulin Blanc de Blancs Brut,Champagne de Barfontarc,Frankrike,2017,True,1.0,1.0,1.0,True,name+vintage
+7803301,Penfolds Cuvée Brut,Penfolds,0,2026-01-08T00:00:00Z,Penfolds Cuvée Brut,Penfolds,Frankrike,,True,1.0,1.0,1.0,False,name_only
+7485801,Le Fraghe Rodon Chiaretto di Bardolino,Le Fraghe di Matilde Poggi,2024,2026-01-08T00:00:00Z,Le Fraghe Rodon Chiaretto di Bardolino,Le Fraghe di Matilde Poggi,Italien,2024,True,1.0,1.0,1.0,True,name+vintage
+7075101,Sauvignon Blanc Fumé,Oliver Zeter,2023,2025-10-29T00:00:00Z,Oliver Zeter Sauvignon Blanc Fumé,Oliver Zeter,Tyskland,2023,True,0.755,0.6,1.0,True,name+vintage
+7321601,Cattier Brut Blanc de Noirs Premier Cru,Cattier,0,2025-10-29T00:00:00Z,Cattier Brut Blanc de Noirs Premier Cru,Champagne Cattier,Frankrike,,True,1.0,1.0,0.583,False,name_only
+7162601,Château du Trignon Rasteau,Famille Quiot,2022,2025-10-29T00:00:00Z,Château du Trignon Rasteau,Famille Quiot,Frankrike,2022,True,1.0,1.0,1.0,True,name+vintage
+7117201,Gardo & Morris Extra Brut Blanc de Blanc,Gardo Morris Wines,2020,2025-10-29T00:00:00Z,Gardo & Morris Extra Brut Blanc de Blanc,Gardo Morris Wines,Nya Zeeland,,True,1.0,1.0,1.0,False,name_only
+773201,Gardo & Morris Brut Rosé,Gardo Morris Wines,0,2025-10-29T00:00:00Z,Gardo & Morris Brut Rosé,Gardo Morris Wines,Nya Zeeland,,True,1.0,1.0,1.0,False,name_only
+7480701,Biodynamic Syrah,Reyneke,2021,2025-10-29T00:00:00Z,Reyneke Biodynamic Syrah,Reyneke Winery,Sydafrika,2021,True,0.8,0.667,0.667,True,name+vintage
+7734201,Champagne de Barfontarc Caractère Blanc de Noirs Brut,Champagne de Barfontarc,0,2025-10-29T00:00:00Z,Champagne de Barfontarc Caractère Blanc de Noirs Brut,Champagne de Barfontarc,Frankrike,,True,1.0,1.0,1.0,False,name_only
+5785901,Lagrein Cantina Valle Isarco,Cantina Valle Isarco,2021,2025-10-29T00:00:00Z,Lagrein Cantina Valle Isarco,Cantina Valle Isarco,Italien,2020,True,1.0,1.0,1.0,False,name_only
+7637901,Château du Trignon Côtes-du-Rhône,Famille Quiot,2022,2025-10-29T00:00:00Z,Château du Trignon Côtes-du-Rhône,Vignobles Jerome Quiot,Frankrike,2019,True,1.0,1.0,0.457,False,name_only
+7126101,Divus,Bodegas Bleda,2022,2025-10-29T00:00:00Z,Divus Bodegas Bleda,Bodegas Bleda,Spanien,2021,True,0.417,0.333,1.0,False,neither
+5224801,Château du Trignon Viognier,Famille Quiot,2024,2025-10-29T00:00:00Z,Château du Trignon Viognier,Famille Quiot,Frankrike,2023,True,1.0,1.0,1.0,False,name_only
+7820801,Auravitae,Tenute Baldo Agricola,2022,2025-10-29T00:00:00Z,Auravitae Tenute Baldo Agricola,Tenute Baldo Agricola,Italien,2022,True,0.45,0.25,1.0,True,vintage_only
+5809201,Montefalco Rosso,Cantina Fratelli Pardi,2022,2025-10-29T00:00:00Z,Montefalco Rosso Cantina Fratelli Pardi,Cantina Fratelli Pardi,Italien,2020,True,0.582,0.4,1.0,False,neither
+7190901,Château Barde-Haut,Château Barde-Haut,2002,2025-10-29T00:00:00Z,Chateau Barde-Haut,SAS Chateau Barde-Haut,Frankrike,2002,True,1.0,1.0,0.9,True,name+vintage
+7548701,Gardo & Morris Reserve Syrah,Gardo Morris Wines,2019,2025-10-29T00:00:00Z,Gardo & Morris Reserve Syrah,Gardo Morris Wines,Nya Zeeland,2019,True,1.0,1.0,1.0,True,name+vintage
+212502,Gardo Morris Noble Riesling,Gardo Morris Wines,2017,2025-10-29T00:00:00Z,Gardo Morris Noble Riesling,Gardo Morris Wines,Nya Zeeland,2017,True,1.0,1.0,1.0,True,name+vintage
+7395301,GOSA Organic Selection Monastrell,Bodegas Juan Gil,2024,2025-10-29T00:00:00Z,GOSA Organic Selection Monastrell,Bodegas Hijos de Juan Gil,Spanien,2024,True,1.0,1.0,0.78,True,name+vintage
+7693201,Cuvée 1860 Réserve,Domaine Saint-Georges d'Ibry,2023,2025-10-29T00:00:00Z,Cuvée 1860 Réserve,Domaine Saint-Georges d'Ibry,Frankrike,2023,True,1.0,1.0,1.0,True,name+vintage
+7785601,Chic Barcelona Brut,Pere Ventura i Familia,0,2025-10-29T00:00:00Z,Chic Barcelona Brut,Pere Ventura i Familia,Spanien,,True,1.0,1.0,1.0,False,name_only
+7805001,Coteaux de Layon Cuvée Pierrot,Domaine de la Clartière,2024,2025-10-29T00:00:00Z,Domaine de la Clartière Coteaux de Layon Cuvée Pierrot,Domaine de la Clartière,Frankrike,2024,True,0.714,0.625,1.0,True,name+vintage
+7708201,Terres de Paillé,Domaine de la Clartière,2022,2025-10-29T00:00:00Z,Domaine de la Clartière Terres de Paillé,Domaine de la Clartière,Frankrike,2022,True,0.571,0.5,1.0,True,name+vintage
+7097401,Delampa 50 Anos,Bodegas Delampa,2021,2025-10-29T00:00:00Z,Delampa 50 Anos,Bodegas Delampa,Spanien,2020,True,1.0,1.0,1.0,False,name_only
+7559401,Battito,Decugnano dei Barbi,2021,2025-10-29T00:00:00Z,Battito Decugnano dei Barbi,Decugnano dei Barbi,Italien,2021,True,0.412,0.25,1.0,True,vintage_only
+7739701,Cattier Brut Premier Cru,Cattier,0,2025-10-29T00:00:00Z,Cattier Brut Premier Cru,Champagne Cattier,Frankrike,,True,1.0,1.0,0.583,False,name_only
+7822801,Tsarine Brut,Tsarine,0,2025-10-29T00:00:00Z,Tsarine Brut,Champagne Tsarine L.I.D,Frankrike,,True,1.0,1.0,0.467,False,name_only
+7083801,Alta Langa Millesimato Brut,Ca' de Lion,2020,2025-10-29T00:00:00Z,Alta Langa Millesimato Brut Ca de Lion,Ca' de Lion,Italien,2019,True,0.831,0.571,1.0,False,name_only
+7150901,Cluster Flock NZSB,Citizen Wine,2023,2025-10-29T00:00:00Z,Cluster Flock Sauvignon Blanc Citizen Wine,Citizen Wine,Nya Zeeland,2023,True,0.533,0.286,1.0,True,vintage_only
+7556301,Châteauneuf-du-Pape Domaine Duclaux,Famille Quiot,2019,2025-10-29T00:00:00Z,Châteauneuf-du-Pape,,,,False,0.704,0.6,0.0,,no_search_data_name_match
+7984601,Cairanne,Domaine Clos Romane,2023,2025-10-29T00:00:00Z,Cairanne Domaine Clos Romane,Domaine Clos Romane,Frankrike,2023,True,0.444,0.25,1.0,True,vintage_only
+7201101,Mireia,Bodegas Pinord,2022,2025-10-29T00:00:00Z,Mireia,Bodegas Pinord,Spanien,2022,True,1.0,1.0,1.0,True,name+vintage
+7920201,Legret Millésime Brut Nature,Champagne Legret,2008,2025-10-29T00:00:00Z,Legret Millésime Brut Nature,Champagne Legret,Frankrike,2008,True,1.0,1.0,1.0,True,name+vintage
+7728601,Champagne Sanger Terroir Natal Blanc de Blancs Grand Cru Brut,Sanger,0,2025-10-29T00:00:00Z,Champagne Sanger Terroir Natal Blanc de Blancs Grand Cru Brut,Champagne Sanger,Frankrike,,True,1.0,1.0,0.545,False,name_only
+5928601,Vi de Vila Red Porrera,Cims de Porrera,2020,2025-10-29T00:00:00Z,Vi de Vila Red Porrera,Cims de Porrera,Spanien,2020,True,1.0,1.0,1.0,True,name+vintage
+7637801,Château du Trignon Gigondas,Famille Quiot,2020,2025-10-29T00:00:00Z,Château du Trignon Gigondas,Vignobles Jerome Quiot,Frankrike,2019,True,1.0,1.0,0.457,False,name_only
+8389101,Domaine du Vieux Lazaret Châteauneuf-du-Pape,Famille Quiot,2024,2025-10-29T00:00:00Z,Domaine du Vieux Lazaret Châteauneuf-du-Pape,Vignobles Jerome Quiot,Frankrike,2023,True,1.0,1.0,0.457,False,name_only
+7325101,Monferrato Nebbiolo,San Silvestro,2023,2025-10-29T00:00:00Z,Monferrato Nebbiolo,San Silvestro,Italien,2023,True,1.0,1.0,1.0,True,name+vintage
+642901,Gardo & Morris Organic Reserve Chardonnay,Gardo Morris Wines,2020,2025-10-29T00:00:00Z,Gardo & Morris Organic Reserve Chardonnay,Gardo Morris Wines,Nya Zeeland,2020,True,1.0,1.0,1.0,True,name+vintage
+7711501,Cattier Brut Nature Premier Cru,Cattier,0,2025-10-29T00:00:00Z,Cattier Brut Nature Premier Cru,Champagne Cattier,Frankrike,,True,1.0,1.0,0.583,False,name_only
+7449701,Chanoine Frères Brut,Chanoine Fréres,0,2025-10-29T00:00:00Z,Chanoine Frères Brut,Champagne Chanoine Fréres,Frankrike,,True,1.0,1.0,0.75,False,name_only
+7204401,Sumo Cat Riesling,Citizen Wine,2023,2025-10-29T00:00:00Z,Sumo Cat Riesling Citizen Wine,Citizen Wine,Tyskland,2023,True,0.723,0.6,1.0,True,name+vintage
+5100701,Manou,Celler Gritelles,2022,2025-10-29T00:00:00Z,Manou Gritelles,Celler Gritelles,Spanien,2022,True,0.5,0.5,1.0,True,name+vintage
+7910201,Trepat,Carles Andreau,2022,2025-10-29T00:00:00Z,Trepat Carles Andreau,Carles Andreu,Spanien,2022,True,0.444,0.333,0.963,True,vintage_only
+7382501,Gardo & Morris Central Otago Pinot Noir,Gardo Morris Wines,2020,2025-10-29T00:00:00Z,Gardo & Morris Central Otago Pinot Noir,Gardo Morris Wines,Nya Zeeland,2020,True,1.0,1.0,1.0,True,name+vintage
+7984701,Côtes du Rhône,Domaine Clos Romane,2023,2025-10-29T00:00:00Z,Côtes du Rhône Domaine Clos Romane,Domaine Clos Romane,Frankrike,2023,True,0.583,0.5,1.0,True,name+vintage
+5411501,Expression Touraine Sauvignon,Complices de Loire,2023,2025-10-29T00:00:00Z,Expression Touraine Sauvignon,SAS GV&FXB - Complices de Loire,Frankrike,2024,True,1.0,1.0,0.766,False,name_only
+7601301,Delampa Selección Monastrell,Bodegas Delampa,2023,2025-10-29T00:00:00Z,Delampa Selección Monastrell,Bodegas Delampa,Spanien,2023,True,1.0,1.0,1.0,True,name+vintage
+7944401,Spirito della Vite,Tenute Baldo Agricola,2019,2025-10-29T00:00:00Z,Spirito della Vite Tenute Baldo Agricola,Tenute Baldo Agricola,Italien,2019,True,0.621,0.5,1.0,True,name+vintage
+7903301,Crémant du Jura Brut,Fruitière Vinicole D’Arbois,0,2025-10-29T00:00:00Z,Fruitière Vinicole D’Arbois Crémant du Jura Brut,Fruitiere Vinicole D'Arbois,Frankrike,,True,0.588,0.5,1.0,False,name_only
+7943301,Tsarine Rosé,Tsarine,0,2025-10-29T00:00:00Z,Tsarine Rosé,Champagne Tsarine L.I.D,Frankrike,,True,1.0,1.0,0.467,False,name_only
+9490101,Barolo Monfalletto,Cordero di Montezemolo,2021,2025-09-10T00:00:00Z,Barolo Monfalletto Cordero di Montezemolo,Cordero di Montezemolo,Italien,2021,True,0.61,0.4,1.0,True,name+vintage
+13101,Sos Pudu,Erazo,2023,2025-01-16T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither
+13101,Sos Pudu,Erazo,2023,2025-01-06T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither
+5420101,Clos des Perrières,Château Soucherie,2020,2024-12-12T00:00:00Z,Clos des Perrières,,,,False,1.0,1.0,0.0,,no_search_data_name_match
+5420101,Clos des Perrières,Château Soucherie,2020,2024-11-04T00:00:00Z,Clos des Perrières,,,,False,1.0,1.0,0.0,,no_search_data_name_match
+13101,Sos Pudu,Erazo,2022,2024-02-09T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither
+9290101,Los Arrotos del Pendón Rosé,Bodegas Y Vinedos Raúl Pérez,2022,2023-05-25T00:00:00Z,Côte-Rôtie Ampodium Domaine Rostaing,Domaine Rostaing,Frankrike,2022,True,0.413,0.0,0.364,True,vintage_only
+9290101,Los Arrotos del Pendón Rosé,Bodegas Y Vinedos Raúl Pérez,2022,2023-05-12T00:00:00Z,Côte-Rôtie Ampodium Domaine Rostaing,Domaine Rostaing,Frankrike,2022,True,0.413,0.0,0.364,True,vintage_only
+5067002,Perelada Brut Reserva,Castillo de Perelada,0,2021-09-01T00:00:00Z,Castillo Perelada Brut,Castillo de Perelada,Spanien,,True,0.605,0.5,1.0,False,name_only
+70782,Planeta Eruzione 1614 Bianco,Planeta,2018,2021-08-29T00:00:00Z,Fullerton Five Faces Pinot Noir,Fullerton Wines,USA,2022,True,0.373,0.0,0.273,False,neither
+70782,Planeta Eruzione 1614 Bianco,Planeta,2016,2020-01-01T00:00:00Z,Fullerton Five Faces Pinot Noir,Fullerton Wines,USA,2022,True,0.373,0.0,0.273,False,neither
+72901,Protocolo Rosé,Bodegas Sierra Cantabria,2016,2018-04-01T00:00:00Z,Aperol,Barbero,Italien,,True,0.4,0.0,0.258,False,neither
+70101,Camille Braun Riesling Bol,Domaine Camille Braun & fils,2013,2015-11-01T00:00:00Z,Campari Bitter,Gruppo Campari - Glen Grant Limited,Italien,,True,0.35,0.0,0.475,False,neither
+70398,Cervaro della Sala,Marchesi Antinori,2010,2013-08-01T00:00:00Z,Champagne Charpentier TERRE D'ÉMOTION blanc de blancs,,Frankrike,,True,0.282,0.0,0.0,False,neither

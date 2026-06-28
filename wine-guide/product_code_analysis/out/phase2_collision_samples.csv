@@ -1,0 +1,14 @@
+code,tasting_name,tasting_producer,tasting_year,tasting_activity_date,sb_name,sb_producer,sb_country,sb_vintage,in_search,name_sim,name_jaccard,producer_sim,vintage_match,bucket,code_len,distinct_tasting_wines_for_code,tasting_code_earliest_session,tasting_code_latest_session
+7695901,Montesoeiros Godello,Tilenus,2024,2026-03-05T00:00:00Z,Bodegas Estefania Tilenus Monteseiros Godello,Bodegas Estefania S.L.,Spanien,2025,True,0.585,0.167,0.214,False,neither,7,1,2026-02-07T00:00:00Z,2026-03-05T00:00:00Z
+7695901,Montesoeiros Godello,Tilenus,2024,2026-02-07T00:00:00Z,Bodegas Estefania Tilenus Monteseiros Godello,Bodegas Estefania S.L.,Spanien,2025,True,0.585,0.167,0.214,False,neither,7,1,2026-02-07T00:00:00Z,2026-03-05T00:00:00Z
+13101,Sos Pudu,Erazo,2024,2026-01-31T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither,5,1,2024-02-09T00:00:00Z,2026-01-31T00:00:00Z
+7126101,Divus,Bodegas Bleda,2022,2025-10-29T00:00:00Z,Divus Bodegas Bleda,Bodegas Bleda,Spanien,2021,True,0.417,0.333,1.0,False,neither,7,1,2025-10-29T00:00:00Z,2025-10-29T00:00:00Z
+5809201,Montefalco Rosso,Cantina Fratelli Pardi,2022,2025-10-29T00:00:00Z,Montefalco Rosso Cantina Fratelli Pardi,Cantina Fratelli Pardi,Italien,2020,True,0.582,0.4,1.0,False,neither,7,1,2025-10-29T00:00:00Z,2025-10-29T00:00:00Z
+13101,Sos Pudu,Erazo,2023,2025-01-16T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither,5,1,2024-02-09T00:00:00Z,2026-01-31T00:00:00Z
+13101,Sos Pudu,Erazo,2023,2025-01-06T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither,5,1,2024-02-09T00:00:00Z,2026-01-31T00:00:00Z
+13101,Sos Pudu,Erazo,2022,2024-02-09T00:00:00Z,Mikadomatsu Junmai-Ginjo,Matsuoka Brewery Co,Japan,,True,0.125,0.0,0.25,False,neither,5,1,2024-02-09T00:00:00Z,2026-01-31T00:00:00Z
+70782,Planeta Eruzione 1614 Bianco,Planeta,2018,2021-08-29T00:00:00Z,Fullerton Five Faces Pinot Noir,Fullerton Wines,USA,2022,True,0.373,0.0,0.273,False,neither,5,1,2020-01-01T00:00:00Z,2021-08-29T00:00:00Z
+70782,Planeta Eruzione 1614 Bianco,Planeta,2016,2020-01-01T00:00:00Z,Fullerton Five Faces Pinot Noir,Fullerton Wines,USA,2022,True,0.373,0.0,0.273,False,neither,5,1,2020-01-01T00:00:00Z,2021-08-29T00:00:00Z
+72901,Protocolo Rosé,Bodegas Sierra Cantabria,2016,2018-04-01T00:00:00Z,Aperol,Barbero,Italien,,True,0.4,0.0,0.258,False,neither,5,1,2018-04-01T00:00:00Z,2018-04-01T00:00:00Z
+70101,Camille Braun Riesling Bol,Domaine Camille Braun & fils,2013,2015-11-01T00:00:00Z,Campari Bitter,Gruppo Campari - Glen Grant Limited,Italien,,True,0.35,0.0,0.475,False,neither,5,1,2015-11-01T00:00:00Z,2015-11-01T00:00:00Z
+70398,Cervaro della Sala,Marchesi Antinori,2010,2013-08-01T00:00:00Z,Champagne Charpentier TERRE D'ÉMOTION blanc de blancs,,Frankrike,,True,0.282,0.0,0.0,False,neither,5,1,2013-08-01T00:00:00Z,2013-08-01T00:00:00Z

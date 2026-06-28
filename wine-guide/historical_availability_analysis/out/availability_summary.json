@@ -1,0 +1,18 @@
+{
+  "total_tasting_rows": 23865,
+  "verdicts": {
+    "no_match": 15457,
+    "different_vintage": 4185,
+    "weak_name_only": 1251,
+    "listed_but_no_stock": 1126,
+    "available_in_store": 1079,
+    "available_in_store_nv": 372,
+    "listed_but_no_stock_nv": 342,
+    "code_recycled": 49,
+    "no_tasting_year": 4
+  },
+  "keepers": 1451,
+  "discards": 22410,
+  "keepers_pct": 6.08,
+  "productIds_with_stock_data": 2517
+}
