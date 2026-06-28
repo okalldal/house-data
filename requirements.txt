@@ -1,2 +1,7 @@
 requests>=2.28
 pytest>=7.0
+
+# For the public-site path (scrape_public.py / lib/booli_browser.py) only.
+# Not needed for the Open API path. After installing, run:
+#   playwright install chromium
+playwright>=1.40

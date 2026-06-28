@@ -37,6 +37,13 @@ Unlike Systembolaget's open frontend API (wine-guide), Booli's Open API is
   Systembolaget key. Until a key is obtained from `api@booli.se`, these claims
   are written but marked **PENDING** in `api.md` — never assert them as
   verified.
+- **Browser/public-site claims** — facts about scraping `www.booli.se` without a
+  key (see `PUBLIC_SITE.md`). These need Playwright **and** a residential IP
+  (Cloudflare blocks datacenter IPs). Their probes are decorated
+  `@requires_browser`: they skip when Playwright is absent, and `pytest.skip`
+  (not fail) when the Cloudflare challenge never clears — a stuck challenge is an
+  environment fact, not a false claim. One sub-claim needs nothing at all: that
+  the site *is* Cloudflare-gated (`B020`) is verified with plain `requests`.
 
 ## Why `api.booli.se`, not the website GraphQL
 

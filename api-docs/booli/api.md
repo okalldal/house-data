@@ -117,14 +117,23 @@ Pass exactly one region selector (grounded on Booli's published schema —
 
 ---
 
-## GraphQL alternative (not used here)
+## Public-site path (no key) — see `PUBLIC_SITE.md`
 
-The consumer site `www.booli.se` renders from a GraphQL endpoint at
-`www.booli.se/graphql`. It exposes richer, more current data than the Open API,
-**but it sits behind a Cloudflare managed challenge**: an unauthenticated
-`requests`/`curl` request is answered with an HTTP 403 JavaScript-challenge
-page, not data. Reaching it requires driving a real browser (or otherwise
-solving the challenge) and is brittle to automate reproducibly. We therefore
-build on `api.booli.se`. If the Open API is ever retired, the GraphQL path is
-the fallback — but it needs a browser-based fetch layer, not the `requests`
-client used by these probes.
+The consumer site `www.booli.se` renders sold listings from a GraphQL endpoint
+at `www.booli.se/graphql`, and anyone can browse them without credentials — so
+it is the **no-API-key** route. The catch: it **sits behind a Cloudflare managed
+challenge**. A plain `requests`/`curl` GET is answered with an **HTTP 403**
+JavaScript-challenge page (header `cf-mitigated: challenge`), never data
+`[B020]`. Scraping it therefore requires:
+
+- a **real browser** (Playwright + Chromium) to execute the challenge and the
+  page's client-side GraphQL, and
+- a **residential IP** — Cloudflare's managed challenge clears automatically for
+  ordinary IPs but loops forever for datacenter/VPN/proxy IPs `[B021, PENDING —
+  verify from a trusted IP]`.
+
+This path is implemented in `lib/booli_browser.py` + `scrape_public.py` (it
+intercepts the site's own GraphQL responses rather than reverse-engineering the
+query). Full constraints, the post-quantum-TLS quirk, and verification steps are
+in **`PUBLIC_SITE.md`**. Use it for data now without a key; use the Open API
+above for fast, unattended, server-side runs once a key arrives.

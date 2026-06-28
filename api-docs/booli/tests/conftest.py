@@ -44,6 +44,31 @@ DEFAULT_HEADERS = {
 }
 
 
+def _have_playwright():
+    try:
+        import playwright.sync_api  # noqa: F401
+        return True
+    except Exception:
+        return False
+
+
+def requires_browser(func):
+    """Mark a probe as needing Playwright + a browser-clearable IP.
+
+    Tags it (so ``-m "not requires_browser"`` deselects it) and skips it when
+    Playwright is not installed. Probes that get past that but hit a persistent
+    Cloudflare challenge should ``pytest.skip`` on CloudflareBlocked — a stuck
+    challenge means the current IP is distrusted, not that a claim is false.
+    """
+    func = pytest.mark.requires_browser(func)
+    func = pytest.mark.skipif(
+        not _have_playwright(),
+        reason="pip install playwright && playwright install chromium to run "
+               "public-site probes (and run from a residential IP)",
+    )(func)
+    return func
+
+
 def auth_params(caller_id=None, key=None):
     """Build the four Booli auth query params for the current instant.
 

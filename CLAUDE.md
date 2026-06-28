@@ -14,15 +14,21 @@ probe tests are the source of truth**, every documented claim is backed by a
 live probe, and the downstream pipeline is built only on verified behaviour.
 Read `api-docs/booli/STRATEGY.md` first.
 
-## Data source and its role
+## Two data paths
 
-- **Booli Open API** (`https://api.booli.se`) is authoritative for sale facts:
-  `booliId`, `soldPrice`, `soldDate`, object type, area, size, location. It is
-  a credentialled REST API (Apache/PHP, **not** Cloudflare-gated).
-- The consumer site `www.booli.se/graphql` has richer/fresher data but sits
-  behind a Cloudflare managed challenge — documented as a fallback only, not
-  used by the pipeline. See the "GraphQL alternative" section of
-  `api-docs/booli/api.md`.
+1. **Public site** (`www.booli.se`, no key) — the no-credentials route. A React
+   app behind a Cloudflare managed challenge, so we drive a real browser
+   (Playwright/Chromium) past the challenge and intercept the GraphQL responses
+   it loads. **Requires a residential IP** — Cloudflare loops forever on
+   datacenter/VPN/proxy IPs (verified; see `api-docs/booli/PUBLIC_SITE.md`).
+   Implemented in `lib/booli_browser.py` + `scrape_public.py`.
+2. **Open API** (`https://api.booli.se`, needs a key) — a credentialled REST API
+   (Apache/PHP, **not** Cloudflare-gated). Fast and server-friendly. Authoritative
+   for `booliId`, `soldPrice`, `soldDate`, object type, area, size, location.
+   Implemented in `lib/booli_api.py` + `scrape_sold.py`.
+
+Use the public path for data now without waiting for a key; use the Open API for
+unattended/server-side runs once a key arrives.
 
 ## Credentials
 
@@ -48,12 +54,16 @@ Never commit them.
     needs credentials (`@requires_credentials`, auto-skips). `conftest.py`
     holds the auth signing and shared fixtures.
 - **`lib/`** — shared library imported by the pipeline:
-  - `lib/booli_api.py` — `BooliClient`: auth signing, `get()`, `iter_sold()`
-    pagination, `resolve_area()`.
+  - `lib/booli_browser.py` — `BooliBrowser`: Playwright scraper for the public
+    site; clears Cloudflare, intercepts `/graphql` responses, extracts sales.
+  - `lib/booli_api.py` — `BooliClient`: Open API auth signing, `get()`,
+    `iter_sold()` pagination, `resolve_area()`.
   - `lib/cache.py` — atomic JSON writes, TTL helper, `cache/` + `data/` paths.
 - **Pipeline scripts at the repo root:**
-  1. `scrape_sold.py --area "<kommun>"` → `data/sold_<region>.csv` — page
-     through every sale in a region and flatten it to CSV.
+  - `scrape_public.py --url "<slutpriser-url>"` → `data/public_*.csv` — no key;
+    drives a browser. Run from a residential IP.
+  - `scrape_sold.py --area "<kommun>"` → `data/sold_<region>.csv` — Open API;
+    needs `BOOLI_CALLER_ID`/`BOOLI_KEY`.
 - **`data/`** — CSV artefacts (gitignored; regenerate with the pipeline).
 - **`cache/`** — raw API pages (gitignored).
 - **`wine-guide/`** — the reference project, vendored as a subtree. Source of
@@ -74,7 +84,11 @@ and the test together, update `api.md`. Never loosen an assertion to get green.
 
 ## Claim status (snapshot)
 
-- **Verified, no key needed:** the auth contract and routing — `B001`–`B008`.
+- **Verified, no setup:** Open API auth contract + routing (`B001`–`B008`) and
+  the public site being Cloudflare-gated (`B020`).
 - **PENDING (need a key):** the `/sold` data shape, query params, pagination —
-  `B010`–`B017`. Get an identity, run the suite, then drop the PENDING tags in
-  `api.md` for whatever passes.
+  `B010`–`B017`.
+- **PENDING (need Playwright + a residential IP):** the public-site browser path
+  clearing Cloudflare and yielding sales — `B021`. Run
+  `pytest api-docs/booli/tests/test_public.py` from home to confirm, then drop
+  its PENDING tag.
