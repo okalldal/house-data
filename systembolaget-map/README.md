@@ -14,7 +14,7 @@ deploy to GitHub Pages.
 | `index.html` | Page shell + control panel |
 | `app.js` | Leaflet map, the canvas distance-field overlay, store markers, click-to-measure |
 | `style.css` | Styling for the panel and legend |
-| `data/stores.json` | The store network (id, name, address, lat/lon) — committed so the site works with no API call |
+| `data/stores.json` | The store network plus ombud (id, name, address, lat/lon) — committed so the site works with no API call |
 | `fetch_stores.py` | Regenerates `data/stores.json` from the Systembolaget API |
 
 ## How the overlay works
@@ -30,8 +30,11 @@ anywhere to get the exact distance and the name of the nearest store.
 Store coordinates come from Systembolaget's public site-search endpoint
 (`GET /v1/sitesearch/site?q=`), documented in
 [`../wine-guide/api-docs/systembolaget/api.md`](../wine-guide/api-docs/systembolaget/api.md)
-(claim C074 — an empty query returns the whole network). Only Systembolaget's
-own stores are kept; third-party agents (`isAgent=true`) are dropped.
+(claim C074 — an empty query returns the whole network). The response is split
+into Systembolaget's own stores (`isAgent=false`, ~454) and third-party agents
+/ "ombud" (`isAgent=true`, ~445). Both are written to `stores.json`. Only the
+stores feed the distance overlay and isochrones; ombud are an optional,
+toggleable marker layer (off by default).
 
 To refresh the data:
 

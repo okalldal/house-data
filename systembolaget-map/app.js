@@ -247,28 +247,39 @@
     var distLayer = new DistanceLayer(stores, { cell: 6, maxDist: 50 });
     distLayer.addTo(map);
 
-    // Store markers
-    var markers = L.layerGroup();
-    stores.forEach(function (s) {
-      var m = L.circleMarker([s.lat, s.lon], {
-        radius: 3,
-        color: "#1b1b1b",
-        weight: 1,
-        fillColor: "#ffffff",
-        fillOpacity: 0.9,
+    // Marker layers. Stores are the white-on-black dots that feed the distance
+    // overlay; ombud (third-party agents / pickup points) are a separate amber
+    // layer, off by default.
+    function markerLayer(list, style, kind) {
+      var group = L.layerGroup();
+      list.forEach(function (s) {
+        var m = L.circleMarker([s.lat, s.lon], style);
+        var addr = [s.address, s.city].filter(Boolean).join(", ");
+        m.bindPopup(
+          '<div class="store-popup"><b>' +
+            escapeHtml(s.name) +
+            '</b>' + (kind ? ' <span class="kind">' + kind + "</span>" : "") +
+            "<br><span class=\"meta\">" +
+            escapeHtml(addr) +
+            (s.county ? "<br>" + escapeHtml(s.county) : "") +
+            "</span></div>"
+        );
+        group.addLayer(m);
       });
-      var addr = [s.address, s.city].filter(Boolean).join(", ");
-      m.bindPopup(
-        '<div class="store-popup"><b>' +
-          escapeHtml(s.name) +
-          "</b><br><span class=\"meta\">" +
-          escapeHtml(addr) +
-          (s.county ? "<br>" + escapeHtml(s.county) : "") +
-          "</span></div>"
-      );
-      markers.addLayer(m);
+      return group;
+    }
+
+    var markers = markerLayer(stores, {
+      radius: 3, color: "#1b1b1b", weight: 1,
+      fillColor: "#ffffff", fillOpacity: 0.9,
     });
     markers.addTo(map);
+
+    var ombudMarkers = markerLayer(data.ombud || [], {
+      radius: 2.5, color: "#7a4a00", weight: 1,
+      fillColor: "#f5a623", fillOpacity: 0.9,
+    }, "ombud");
+    // Off by default — there are ~445 of them and they'd clutter the view.
 
     // Drive-time isochrones from Gothenburg (1h / 2h), drawn as boundaries on
     // top of the distance overlay.
@@ -303,12 +314,12 @@
         .openOn(map);
     });
 
-    wireControls(map, distLayer, markers, isoLayer, stores.length);
+    wireControls(map, distLayer, markers, ombudMarkers, isoLayer, stores.length, (data.ombud || []).length);
   }
 
-  function wireControls(map, distLayer, markers, isoLayer, count) {
+  function wireControls(map, distLayer, markers, ombudMarkers, isoLayer, count, ombudCount) {
     document.getElementById("store-count").textContent =
-      count + " stores.";
+      count + " stores, " + ombudCount + " ombud.";
 
     document.getElementById("toggle-overlay").addEventListener("change", function (e) {
       if (e.target.checked) distLayer.addTo(map);
@@ -318,6 +329,11 @@
     document.getElementById("toggle-stores").addEventListener("change", function (e) {
       if (e.target.checked) markers.addTo(map);
       else map.removeLayer(markers);
+    });
+
+    document.getElementById("toggle-ombud").addEventListener("change", function (e) {
+      if (e.target.checked) ombudMarkers.addTo(map);
+      else map.removeLayer(ombudMarkers);
     });
 
     document.getElementById("toggle-iso").addEventListener("change", function (e) {

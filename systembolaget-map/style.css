@@ -135,6 +135,27 @@ html, body {
   margin-top: 3px;
 }
 
+.dot {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  flex: 0 0 auto;
+}
+
+.store-dot { background: #ffffff; border: 1px solid #1b1b1b; }
+.ombud-dot { background: #f5a623; border: 1px solid #7a4a00; }
+
+.store-popup .kind {
+  font-size: 11px;
+  font-weight: 600;
+  color: #7a4a00;
+  background: #fde6bf;
+  padding: 0 5px;
+  border-radius: 8px;
+  vertical-align: middle;
+}
+
 .iso-legend {
   display: flex;
   flex-direction: column;

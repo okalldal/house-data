@@ -1,6 +1,7 @@
 {
  "source": "Systembolaget api-extern /v1/sitesearch/site",
  "count": 454,
+ "ombudCount": 445,
  "stores": [
   {
    "id": "0102",
@@ -4087,6 +4088,4013 @@
    "county": "Norrbottens län",
    "lat": 65.595309,
    "lon": 22.148163
+  }
+ ],
+ "ombud": [
+  {
+   "id": "011703-90B",
+   "name": "Svartsö Lanthandel",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 59.438014,
+   "lon": 18.657012
+  },
+  {
+   "id": "011703-92B",
+   "name": "Coop Ingmarsö",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 59.466187,
+   "lon": 18.751763
+  },
+  {
+   "id": "011703-94E",
+   "name": "Tempo Ljusterö",
+   "address": "Mellansjövägen 2",
+   "city": "LJUSTERÖ",
+   "county": null,
+   "lat": 59.523661,
+   "lon": 18.608322
+  },
+  {
+   "id": "011703-96A",
+   "name": "Östanå Livs",
+   "address": "Grönborgsvägen 30 Östanå färjläge",
+   "city": "ÅKERSBERGA",
+   "county": null,
+   "lat": 59.548383,
+   "lon": 18.573723
+  },
+  {
+   "id": "012002-90A",
+   "name": "Coop Möja",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 59.40675,
+   "lon": 18.887039
+  },
+  {
+   "id": "012003-90B",
+   "name": "Ica Nära Stavsnäs",
+   "address": "Storskogsvägen 1",
+   "city": "STAVSNÄS",
+   "county": null,
+   "lat": 59.286843,
+   "lon": 18.688925
+  },
+  {
+   "id": "012003-91A",
+   "name": "Westerbergs Livs Sandhamn",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 59.288457,
+   "lon": 18.914588
+  },
+  {
+   "id": "012003-93D",
+   "name": "Runmarö Lanthandel",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 59.279126,
+   "lon": 18.735811
+  },
+  {
+   "id": "012004-90D",
+   "name": "Handlar'n Nämdö",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 59.185355,
+   "lon": 18.700389
+  },
+  {
+   "id": "012502-90C",
+   "name": "Adelsö Butik",
+   "address": "Adelsö ringväg 390",
+   "city": "ADELSÖ",
+   "county": null,
+   "lat": 59.383278,
+   "lon": 17.521954
+  },
+  {
+   "id": "013603-90A",
+   "name": "Utö Livs AB",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "DALARÖ",
+   "county": null,
+   "lat": 58.969313,
+   "lon": 18.322142
+  },
+  {
+   "id": "013605-90C",
+   "name": "RånöButiken",
+   "address": "c/o Ressel Rederi AB Skärgårdsgods",
+   "city": "ÖSTERHANINGE",
+   "county": null,
+   "lat": 58.91996,
+   "lon": 18.177929
+  },
+  {
+   "id": "013607-90A",
+   "name": "Sandells Livs Muskö",
+   "address": "Herrviksvägen 2",
+   "city": "MUSKÖ",
+   "county": null,
+   "lat": 59.025297,
+   "lon": 18.174019
+  },
+  {
+   "id": "018107-90A",
+   "name": "ICA Köpcenter Järna",
+   "address": "Storgatan 4",
+   "city": "JÄRNA",
+   "county": null,
+   "lat": 59.090366,
+   "lon": 17.564876
+  },
+  {
+   "id": "018110-90A",
+   "name": "Coop Hölö",
+   "address": "Centralvägen 11",
+   "city": "HÖLÖ",
+   "county": null,
+   "lat": 59.02616,
+   "lon": 17.53755
+  },
+  {
+   "id": "018802-90A",
+   "name": "Arholma Handel",
+   "address": "Simpnäs Brygga",
+   "city": "Björkö",
+   "county": null,
+   "lat": 59.85118,
+   "lon": 19.108049
+  },
+  {
+   "id": "018803-90B",
+   "name": "Ica Barometern Väddö",
+   "address": "Simpnäsvägen 560",
+   "city": "VÄDDÖ",
+   "county": null,
+   "lat": 59.895019,
+   "lon": 18.959275
+  },
+  {
+   "id": "018803-91B",
+   "name": "Ica Grisslehamn",
+   "address": "Grisselhamnsvägen 691",
+   "city": "GRISSLEHAMN",
+   "county": null,
+   "lat": 60.100478,
+   "lon": 18.807397
+  },
+  {
+   "id": "018803-92A",
+   "name": "Pappersstugan",
+   "address": "Norrtäljevägen 3",
+   "city": "VÄDDÖ",
+   "county": null,
+   "lat": 59.970113,
+   "lon": 18.808084
+  },
+  {
+   "id": "018805-90C",
+   "name": "Tempo Singö",
+   "address": "Singövägen 243",
+   "city": "GRISSLEHAMN",
+   "county": null,
+   "lat": 60.160843,
+   "lon": 18.744305
+  },
+  {
+   "id": "018808-91B",
+   "name": "Ica Nära Edsbro",
+   "address": "Hallstaviksvägen 2D",
+   "city": "EDSBRO",
+   "county": null,
+   "lat": 59.895856,
+   "lon": 18.493695
+  },
+  {
+   "id": "018821-90C",
+   "name": "Tempo Vätö",
+   "address": "Hargs Byväg 47",
+   "city": "VÄTÖ",
+   "county": null,
+   "lat": 59.810273,
+   "lon": 18.956829
+  },
+  {
+   "id": "018822-91A",
+   "name": "Ica Gräddö",
+   "address": "Gräddö byväg 37",
+   "city": "GRÄDDÖ",
+   "county": null,
+   "lat": 59.762235,
+   "lon": 19.036647
+  },
+  {
+   "id": "018822-92B",
+   "name": "Öbutiken Tjockö",
+   "address": "Räfsnäs Brygga",
+   "city": "Gräddö",
+   "county": null,
+   "lat": 59.75188,
+   "lon": 19.1199
+  },
+  {
+   "id": "018823-91A",
+   "name": "Spillersboda Lanthandel",
+   "address": "Spillersbodavägen 198",
+   "city": "NORRTÄLJE",
+   "county": null,
+   "lat": 59.700859,
+   "lon": 18.855235
+  },
+  {
+   "id": "018824-90C",
+   "name": "Ica Blidö",
+   "address": "Bromskärsvägen 1",
+   "city": "BLIDÖ",
+   "county": null,
+   "lat": 59.637439,
+   "lon": 18.951189
+  },
+  {
+   "id": "018825-90A",
+   "name": "Ica Nära Högmarsö",
+   "address": "Högmarsövägen 73",
+   "city": "FURUSUND",
+   "county": null,
+   "lat": 59.647202,
+   "lon": 18.8426
+  },
+  {
+   "id": "018825-91B",
+   "name": "ICA Nära Bergshamra Norrtälje",
+   "address": "Virkesvägen 1",
+   "city": "BERGSHAMRA",
+   "county": null,
+   "lat": 59.637098,
+   "lon": 18.654198
+  },
+  {
+   "id": "019202-90C",
+   "name": "Coop Nära Spångbro",
+   "address": "Kyrkgatan 1",
+   "city": "SORUNDA",
+   "county": null,
+   "lat": 59.008146,
+   "lon": 17.806673
+  },
+  {
+   "id": "019204-90B",
+   "name": "Torö Butik",
+   "address": "Storbygården 2",
+   "city": "NYNÄSHAMN",
+   "county": null,
+   "lat": 58.826543,
+   "lon": 17.839004
+  },
+  {
+   "id": "030505-90D",
+   "name": "Tempo Skokloster",
+   "address": "Slottsskogsleden 19",
+   "city": "SKOKLOSTER",
+   "county": null,
+   "lat": 59.691104,
+   "lon": 17.613468
+  },
+  {
+   "id": "033101-91A",
+   "name": "Ica Supermarket Heby",
+   "address": "Brogatan 8",
+   "city": "HEBY",
+   "county": null,
+   "lat": 59.93841,
+   "lon": 16.866319
+  },
+  {
+   "id": "033105-90A",
+   "name": "Ica Tärnsjö",
+   "address": "Norra Storgatan 6",
+   "city": "TÄRNSJÖ",
+   "county": null,
+   "lat": 60.154558,
+   "lon": 16.930734
+  },
+  {
+   "id": "036006-91B",
+   "name": "Ica Nära Söderfors",
+   "address": "Nygatan 16",
+   "city": "Söderfors",
+   "county": null,
+   "lat": 60.389495,
+   "lon": 17.243813
+  },
+  {
+   "id": "036007-91D",
+   "name": "Coop Karlholm",
+   "address": "Nöttövägen 1",
+   "city": "KARLSHOLMSBRUK",
+   "county": null,
+   "lat": 60.519233,
+   "lon": 17.625019
+  },
+  {
+   "id": "036008-91B",
+   "name": "Ica Torget Skärplinge",
+   "address": "Ol-Andersväg 1",
+   "city": "SKÄRPLINGE",
+   "county": null,
+   "lat": 60.471608,
+   "lon": 17.759688
+  },
+  {
+   "id": "038014-90A",
+   "name": "Handlarn Järlåsa",
+   "address": "Salavägen 6",
+   "city": "JÄRLÅSA",
+   "county": null,
+   "lat": 59.886234,
+   "lon": 17.196962
+  },
+  {
+   "id": "038021-91C",
+   "name": "Handlarn Oxsätra",
+   "address": "Oxsätra 29",
+   "city": "BÄLINGE",
+   "county": null,
+   "lat": 60.00168,
+   "lon": 17.36205
+  },
+  {
+   "id": "038024-91E",
+   "name": "Tempo Vattholma",
+   "address": "Malmvågsvägen 7",
+   "city": "VATTHOLMA",
+   "county": null,
+   "lat": 60.017208,
+   "lon": 17.733832
+  },
+  {
+   "id": "038031-90A",
+   "name": "Coop Nära Almunge",
+   "address": "Almungevägen 218",
+   "city": "ALMUNGE",
+   "county": null,
+   "lat": 59.877987,
+   "lon": 18.026099
+  },
+  {
+   "id": "038126-90A",
+   "name": "Örsundsbro Livs",
+   "address": "Enköpingsvägen 9",
+   "city": "ÖRSUNDSBRO",
+   "county": null,
+   "lat": 59.735505,
+   "lon": 17.310424
+  },
+  {
+   "id": "038131-91C",
+   "name": "Tempo Fjärdhundra",
+   "address": "Stora vägen 15",
+   "city": "FJÄRDHUNDRA",
+   "county": null,
+   "lat": 59.77677,
+   "lon": 16.92915
+  },
+  {
+   "id": "038200-91C",
+   "name": "Coop Östhammar",
+   "address": "Klockstapelgatan 1",
+   "city": "ÖSTHAMMAR",
+   "county": null,
+   "lat": 60.258598,
+   "lon": 18.372034
+  },
+  {
+   "id": "038211-91B",
+   "name": "Ica Supermarket Gimo",
+   "address": "Köpmangatan 1",
+   "city": "GIMO",
+   "county": null,
+   "lat": 60.172926,
+   "lon": 18.184552
+  },
+  {
+   "id": "038213-91A",
+   "name": "ICA Brukskanonen Österbybruk",
+   "address": "Dannemoravägen 3",
+   "city": "ÖSTERBYBRUK",
+   "county": null,
+   "lat": 60.196344,
+   "lon": 17.890095
+  },
+  {
+   "id": "038228-90B",
+   "name": "Ica Nära Knuten",
+   "address": "Knutbyvägen 19",
+   "city": "KNUTBY",
+   "county": null,
+   "lat": 59.91007,
+   "lon": 18.26534
+  },
+  {
+   "id": "042801-90A",
+   "name": "Coop Nära Högsjö",
+   "address": "Hästhagsvägen 1",
+   "city": "HÖGSJÖ",
+   "county": null,
+   "lat": 59.027891,
+   "lon": 15.669746
+  },
+  {
+   "id": "046105-91B",
+   "name": "Ica Nära Strandhallen",
+   "address": "Dagavägen 13",
+   "city": "STJÄRNHOV",
+   "county": null,
+   "lat": 59.079702,
+   "lon": 17.012239
+  },
+  {
+   "id": "048005-91C",
+   "name": "Systrarna Brådhe´s Livs & Deli Nävekvarn",
+   "address": "Nyköpingsvägen 9",
+   "city": "NÄVEKVARN",
+   "county": null,
+   "lat": 58.631026,
+   "lon": 16.799664
+  },
+  {
+   "id": "048007-91D",
+   "name": "Handlarn Jönåker",
+   "address": "Stationsvägen 12",
+   "city": "JÖNÅKER",
+   "county": null,
+   "lat": 58.745267,
+   "lon": 16.723714
+  },
+  {
+   "id": "048010-90B",
+   "name": "Handlarn Vrena",
+   "address": "Tärnövägen 4",
+   "city": "VRENA",
+   "county": null,
+   "lat": 58.86165,
+   "lon": 16.701212
+  },
+  {
+   "id": "048020-90A",
+   "name": "Coop Nära Tystberga",
+   "address": "Stationsvägen 12",
+   "city": "TYSTBERGA",
+   "county": null,
+   "lat": 58.848188,
+   "lon": 17.23814
+  },
+  {
+   "id": "048207-91A",
+   "name": "Coop Konsum Hälleforsnäs",
+   "address": "Celsings Allé 13",
+   "city": "HÄLLEFORSNÄS",
+   "county": null,
+   "lat": 59.15255,
+   "lon": 16.496626
+  },
+  {
+   "id": "048302-90D",
+   "name": "Björkvik Noréns handel",
+   "address": "Vedebyvägen 5",
+   "city": "BJÖRKVIK",
+   "county": null,
+   "lat": 58.83911,
+   "lon": 16.514887
+  },
+  {
+   "id": "048308-90D",
+   "name": "Ica Nära Julitahallen",
+   "address": "Doktorsvägen 1",
+   "city": "JULITA",
+   "county": null,
+   "lat": 59.14941,
+   "lon": 16.06801
+  },
+  {
+   "id": "048415-91C",
+   "name": "Ica Nära Stora Sundby",
+   "address": "Bärstavägen 2",
+   "city": "STORA SUNDBY",
+   "county": null,
+   "lat": 59.278481,
+   "lon": 16.118768
+  },
+  {
+   "id": "048420-90A",
+   "name": "Coop Nära Ärla",
+   "address": "Stationsvägen 10",
+   "city": "ÄRLA",
+   "county": null,
+   "lat": 59.282595,
+   "lon": 16.675762
+  },
+  {
+   "id": "051302-90C",
+   "name": "Ulrika Butik och Café ek. förening",
+   "address": "Gammalkilsvägen 9",
+   "city": "ULRIKA",
+   "county": null,
+   "lat": 58.125816,
+   "lon": 15.433555
+  },
+  {
+   "id": "051304-90C",
+   "name": "ICA Nära Vahlströms",
+   "address": "Kisamorsväg 2",
+   "city": "HORN",
+   "county": null,
+   "lat": 57.903648,
+   "lon": 15.834985
+  },
+  {
+   "id": "051305-90A",
+   "name": "Hycklinge Bensin & Service AB",
+   "address": "Hycklingevägen 8",
+   "city": "HORN",
+   "county": null,
+   "lat": 57.923739,
+   "lon": 15.92017
+  },
+  {
+   "id": "051309-91A",
+   "name": "Ica Supermarket Rimforsa",
+   "address": "Kalmarvägen 24",
+   "city": "RIMFORSA",
+   "county": null,
+   "lat": 58.137203,
+   "lon": 15.685173
+  },
+  {
+   "id": "056102-91B",
+   "name": "Nära Dej Grebo",
+   "address": "Grebovägen 17",
+   "city": "LINKÖPING",
+   "county": null,
+   "lat": 58.301704,
+   "lon": 15.864798
+  },
+  {
+   "id": "056104-90A",
+   "name": "Mårtens Lanthandel Björsäter",
+   "address": "Värnavägen 2",
+   "city": "ÅTVIDABERG",
+   "county": null,
+   "lat": 58.336975,
+   "lon": 16.026274
+  },
+  {
+   "id": "056104-91B",
+   "name": "Sjöberga Lanthandel",
+   "address": "Kvarnvik Sjöberga",
+   "city": "ÅTVIDABERG",
+   "county": null,
+   "lat": 58.196177,
+   "lon": 16.370597
+  },
+  {
+   "id": "056203-91C",
+   "name": "Handlarn i Igelfors",
+   "address": "Regnavägen 8",
+   "city": "FINSPÅNG",
+   "county": null,
+   "lat": 58.84654,
+   "lon": 15.69916
+  },
+  {
+   "id": "056204-91C",
+   "name": "Coop Nära Rejmyre",
+   "address": "Glasbruksvägen 32",
+   "city": "REJMYRE",
+   "county": null,
+   "lat": 58.829797,
+   "lon": 15.931083
+  },
+  {
+   "id": "056301-90A",
+   "name": "Handlarn Fyrudden",
+   "address": "Fyrudden, hamnen",
+   "city": "GRYT",
+   "county": null,
+   "lat": 58.192105,
+   "lon": 16.850906
+  },
+  {
+   "id": "056302-90B",
+   "name": "Matöppet  Ringarum",
+   "address": "Gamla Landsvägen 42",
+   "city": "RINGARUM",
+   "county": null,
+   "lat": 58.333006,
+   "lon": 16.446469
+  },
+  {
+   "id": "058009-92B",
+   "name": "Ica Nära Bestorp",
+   "address": "Bonäsvägen 4",
+   "city": "BESTORP",
+   "county": null,
+   "lat": 58.234416,
+   "lon": 15.735029
+  },
+  {
+   "id": "058010-92C",
+   "name": "Nära Dig Skeda Udde",
+   "address": "Haraldsbovägen 12.",
+   "city": "Linköping",
+   "county": null,
+   "lat": 58.291861,
+   "lon": 15.559694
+  },
+  {
+   "id": "058019-90A",
+   "name": "Ica Nära Ljungsbro",
+   "address": "Vallbytorpsvägen 1",
+   "city": "LJUNGSBRO",
+   "county": null,
+   "lat": 58.494116,
+   "lon": 15.502728
+  },
+  {
+   "id": "058109-91C",
+   "name": "Ica Supermarket Skärblacka",
+   "address": "Skogsängsvägen 13",
+   "city": "SKÄRBLACKA",
+   "county": null,
+   "lat": 58.575,
+   "lon": 15.9377
+  },
+  {
+   "id": "058112-91C",
+   "name": "Ica nära Norsholm",
+   "address": "Norsholmsvägen 24",
+   "city": "NORSHOLM",
+   "county": null,
+   "lat": 58.506603,
+   "lon": 15.97246
+  },
+  {
+   "id": "058115-90A",
+   "name": "Coop Krokek",
+   "address": "Sjöviksvägen 78",
+   "city": "KOLMÅRDEN",
+   "county": null,
+   "lat": 58.674785,
+   "lon": 16.364124
+  },
+  {
+   "id": "058125-90A",
+   "name": "ICA Supermarket Östra Husby",
+   "address": "Bygdevägen 7",
+   "city": "VIKBOLANDET",
+   "county": null,
+   "lat": 58.576315,
+   "lon": 16.567564
+  },
+  {
+   "id": "058127-91E",
+   "name": "Arkösunds livs",
+   "address": "Fyrvägen 2",
+   "city": "VIKBOLANDET",
+   "county": null,
+   "lat": 58.490538,
+   "lon": 16.935352
+  },
+  {
+   "id": "058201-90C",
+   "name": "Skärgårdsbyn Mon S:t Anna Lanthandel",
+   "address": "Övre Lagnö Mon 1",
+   "city": "SANKT ANNA",
+   "county": null,
+   "lat": 58.366357,
+   "lon": 16.824627
+  },
+  {
+   "id": "058204-90A",
+   "name": "Affärn i Östra Ryd",
+   "address": "Affärn 1 Östra Ryd",
+   "city": "ÖSTRA RYD",
+   "county": null,
+   "lat": 58.406467,
+   "lon": 16.158268
+  },
+  {
+   "id": "058305-91A",
+   "name": "Östenssons Livs Borensberg",
+   "address": "Hällsättersleden 3",
+   "city": "BORENSBERG",
+   "county": null,
+   "lat": 58.56236,
+   "lon": 15.276787
+  },
+  {
+   "id": "058309-90A",
+   "name": "ICA Nära Fornåsa",
+   "address": "Industrivägen 2",
+   "city": "FORNÅSA",
+   "county": null,
+   "lat": 58.478197,
+   "lon": 15.225827
+  },
+  {
+   "id": "058322-90B",
+   "name": "Ica Nära Tjällmo",
+   "address": "Backgårdsvägen 2A",
+   "city": "TJÄLLMO",
+   "county": null,
+   "lat": 58.714828,
+   "lon": 15.358183
+  },
+  {
+   "id": "058603-91B",
+   "name": "Östensson Skänninge",
+   "address": "Mjölbygatan 32.",
+   "city": "Skänninge",
+   "county": null,
+   "lat": 58.387679,
+   "lon": 15.088647
+  },
+  {
+   "id": "058614-91B",
+   "name": "Önnebo Lanthandel",
+   "address": "Dalhem",
+   "city": "MJÖLBY",
+   "county": null,
+   "lat": 58.231018,
+   "lon": 15.278832
+  },
+  {
+   "id": "064203-90E",
+   "name": "Handlarn i Brandstorp",
+   "address": "Kyrkliden 2 A",
+   "city": "BRANDSTORP",
+   "county": null,
+   "lat": 58.097285,
+   "lon": 14.20489
+  },
+  {
+   "id": "066209-91D",
+   "name": "Coop Smålandsstenar",
+   "address": "Malmgatan 12",
+   "city": "SMÅLANDSSTENAR",
+   "county": null,
+   "lat": 57.16426,
+   "lon": 13.41387
+  },
+  {
+   "id": "066210-90B",
+   "name": "Ica Nära Danielssons Burseryd",
+   "address": "Storgatan 1",
+   "city": "BURSERYD",
+   "county": null,
+   "lat": 57.203573,
+   "lon": 13.284862
+  },
+  {
+   "id": "066216-90B",
+   "name": "Matglädjen Tempo",
+   "address": "Torget",
+   "city": "REFTELE",
+   "county": null,
+   "lat": 57.174062,
+   "lon": 13.594089
+  },
+  {
+   "id": "066501-91B",
+   "name": "Ica Supermarket Vaggeryd",
+   "address": "Järnvägsgatan 2",
+   "city": "VAGGERYD",
+   "county": null,
+   "lat": 57.49886,
+   "lon": 14.1488
+  },
+  {
+   "id": "068009-90C",
+   "name": "Coop Visingsö",
+   "address": "Tunnerstad",
+   "city": "VISINGSÖ",
+   "county": null,
+   "lat": 58.0458,
+   "lon": 14.33818
+  },
+  {
+   "id": "068024-91A",
+   "name": "Unnaryds kiosk och café",
+   "address": "Torget 7",
+   "city": "UNNARYD",
+   "county": null,
+   "lat": 56.954217,
+   "lon": 13.528492
+  },
+  {
+   "id": "068209-90C",
+   "name": "ICA Nära Malmbäck",
+   "address": "Torget 5",
+   "city": "MALMBÄCK",
+   "county": null,
+   "lat": 57.57652,
+   "lon": 14.460842
+  },
+  {
+   "id": "068209-91B",
+   "name": "Coop Forserum",
+   "address": "Centrumplan 3",
+   "city": "FORSERUM",
+   "county": null,
+   "lat": 57.699333,
+   "lon": 14.474799
+  },
+  {
+   "id": "068302-90A",
+   "name": "ICA Nära i Bredaryd",
+   "address": "Storgatan 8",
+   "city": "BREDARYD",
+   "county": null,
+   "lat": 57.173791,
+   "lon": 13.738032
+  },
+  {
+   "id": "068312-90A",
+   "name": "Ica Nära Rydaholm",
+   "address": "Alvestavägen 15",
+   "city": "RYDAHOLM",
+   "county": null,
+   "lat": 56.984386,
+   "lon": 14.308477
+  },
+  {
+   "id": "068516-91B",
+   "name": "Matöppet Kvillsfors",
+   "address": "Öknavägen 4",
+   "city": "KVILLSFORS",
+   "county": null,
+   "lat": 57.404228,
+   "lon": 15.497805
+  },
+  {
+   "id": "068521-90B",
+   "name": "Ica Nära Brobyhallen Landsbro",
+   "address": "Brobygatan 8",
+   "city": "Landsbro",
+   "county": null,
+   "lat": 57.369329,
+   "lon": 14.899852
+  },
+  {
+   "id": "068521-92A",
+   "name": "Puttes Lanthandel",
+   "address": "Hallsnäsvägen 2 B",
+   "city": "RAMKVILLA",
+   "county": null,
+   "lat": 57.2047,
+   "lon": 14.952827
+  },
+  {
+   "id": "068602-92A",
+   "name": "Ica Nära Mathörnan",
+   "address": "Lingströmsgatan 4",
+   "city": "MARIANNELUND",
+   "county": null,
+   "lat": 57.615962,
+   "lon": 15.57229
+  },
+  {
+   "id": "068605-91A",
+   "name": "ICA Nära Hjältevad",
+   "address": "Storgatan 8",
+   "city": "HJÄLTEVAD",
+   "county": null,
+   "lat": 57.629455,
+   "lon": 15.343377
+  },
+  {
+   "id": "076003-91A",
+   "name": "Ica Nära Lenhovda",
+   "address": "Larmgatan 5",
+   "city": "LENHOVDA",
+   "county": null,
+   "lat": 56.9947,
+   "lon": 15.287284
+  },
+  {
+   "id": "076005-91A",
+   "name": "ICA Nära Alstermo",
+   "address": "Storgatan 19",
+   "city": "ALSTERMO",
+   "county": null,
+   "lat": 56.975543,
+   "lon": 15.649601
+  },
+  {
+   "id": "076103-91B",
+   "name": "Coop Kosta",
+   "address": "Stora vägen 49",
+   "city": "KOSTA",
+   "county": null,
+   "lat": 56.84412,
+   "lon": 15.39546
+  },
+  {
+   "id": "076302-91A",
+   "name": "ICA Nära Ryd",
+   "address": "Värendsgatan 2",
+   "city": "RYD",
+   "county": null,
+   "lat": 56.465862,
+   "lon": 14.693073
+  },
+  {
+   "id": "076405-91B",
+   "name": "ICA Grytan Moheda",
+   "address": "Västra Järnvägsgatan 7",
+   "city": "MOHEDA",
+   "county": null,
+   "lat": 57.003201,
+   "lon": 14.575317
+  },
+  {
+   "id": "076409-90B",
+   "name": "ICA Nära Dackehallen",
+   "address": "Storgatan 12",
+   "city": "VISLANDA",
+   "county": null,
+   "lat": 56.787207,
+   "lon": 14.450955
+  },
+  {
+   "id": "076411-92C",
+   "name": "Ica Lönashult",
+   "address": "Boklövsvägen 30",
+   "city": "LÖNASHULT",
+   "county": null,
+   "lat": 0.0,
+   "lon": 0.0
+  },
+  {
+   "id": "076502-91A",
+   "name": "Handelsboden Häradsbäck",
+   "address": "Älmhultsvägen 3",
+   "city": "HÄRADSBÄCK",
+   "county": null,
+   "lat": 56.53015,
+   "lon": 14.4516
+  },
+  {
+   "id": "076504-91A",
+   "name": "ICA Nära Liatorp",
+   "address": "Växjövägen 500",
+   "city": "LIATORP",
+   "county": null,
+   "lat": 56.665087,
+   "lon": 14.261114
+  },
+  {
+   "id": "076703-90C",
+   "name": "Coop Traryd",
+   "address": "Hallandsvägen 3",
+   "city": "TRARYD",
+   "county": null,
+   "lat": 56.57829,
+   "lon": 13.74689
+  },
+  {
+   "id": "076703-91C",
+   "name": "Ica Nära Strömsnäsbruk ",
+   "address": "Lagastigsgatan 30",
+   "city": "STRÖMSNÄSBRUK",
+   "county": null,
+   "lat": 56.549182,
+   "lon": 13.731571
+  },
+  {
+   "id": "078003-91B",
+   "name": "Braås Järnhandel AB",
+   "address": "Sjösås Kruthuset",
+   "city": "BRAÅS",
+   "county": null,
+   "lat": 57.074628,
+   "lon": 15.059766
+  },
+  {
+   "id": "078008-91A",
+   "name": "ICA Supermarket Ingelstad-Växjö",
+   "address": "Gamla Växjövägen 38",
+   "city": "INGELSTAD",
+   "county": null,
+   "lat": 56.746622,
+   "lon": 14.91961
+  },
+  {
+   "id": "078012-90B",
+   "name": "Kalvsviks Lanthandel",
+   "address": "Telebro",
+   "city": "KALVSVIK",
+   "county": null,
+   "lat": 56.732303,
+   "lon": 14.712168
+  },
+  {
+   "id": "078021-90A",
+   "name": "Tolgs Lanthandel",
+   "address": "Kronhaga",
+   "city": "TOLG",
+   "county": null,
+   "lat": 57.091481,
+   "lon": 14.792489
+  },
+  {
+   "id": "078024-91A",
+   "name": "ICA Supermarket Lammhult",
+   "address": "Köpmannagatan 12",
+   "city": "LAMMHULT",
+   "county": null,
+   "lat": 57.1698,
+   "lon": 14.583671
+  },
+  {
+   "id": "078102-90G",
+   "name": "Ica To Go Agunnaryd",
+   "address": "Brånavägen 6",
+   "city": "AGUNNARYD",
+   "county": null,
+   "lat": 56.747565,
+   "lon": 14.147499
+  },
+  {
+   "id": "078116-90A",
+   "name": "ICA Nära Lidhult",
+   "address": "Unnarydsvägen 1",
+   "city": "LIDHULT",
+   "county": null,
+   "lat": 56.8269,
+   "lon": 13.437742
+  },
+  {
+   "id": "078119-90D",
+   "name": "Ica To Go Tannåker",
+   "address": "Tannåker Tallbo 2",
+   "city": "LJUNGBY",
+   "county": null,
+   "lat": 56.957434,
+   "lon": 13.772699
+  },
+  {
+   "id": "084003-90B",
+   "name": "ICA Skansen",
+   "address": "Köpmangatan 21 C",
+   "city": "MÖRBYLÅNGA",
+   "county": null,
+   "lat": 56.525607,
+   "lon": 16.385597
+  },
+  {
+   "id": "084008-90B",
+   "name": "Ica Nära Grönhögen",
+   "address": "Hamnvägen 6",
+   "city": "DEGERHAMN",
+   "county": null,
+   "lat": 56.268892,
+   "lon": 16.401424
+  },
+  {
+   "id": "086005-90B",
+   "name": "Ica Nära Krysset",
+   "address": "Södra Järnvägsgatan 22",
+   "city": "VIRSERUM",
+   "county": null,
+   "lat": 57.320689,
+   "lon": 15.576768
+  },
+  {
+   "id": "086008-90B",
+   "name": "Ica Nära Mörlunda",
+   "address": "Blockvägen",
+   "city": "MÖRLUNDA",
+   "county": null,
+   "lat": 57.319216,
+   "lon": 15.863504
+  },
+  {
+   "id": "086102-90C",
+   "name": "Ica Nära Fliseryd",
+   "address": "Kyrkvägen 22",
+   "city": "FLISERYD",
+   "county": null,
+   "lat": 57.127809,
+   "lon": 16.264987
+  },
+  {
+   "id": "088005-90A",
+   "name": "Ica Nära Rockneby",
+   "address": "Ryssbyvägen 33",
+   "city": "ROCKNEBY",
+   "county": null,
+   "lat": 56.804207,
+   "lon": 16.348048
+  },
+  {
+   "id": "088008-92A",
+   "name": "Allans Livs",
+   "address": "Tingshusvägen 6",
+   "city": "VASSMOLÖSA",
+   "county": null,
+   "lat": 56.593195,
+   "lon": 16.153206
+  },
+  {
+   "id": "088014-91B",
+   "name": "Ica Nära Påryd",
+   "address": "Pårydsgatan 40",
+   "city": "PÅRYD",
+   "county": null,
+   "lat": 56.569273,
+   "lon": 15.923132
+  },
+  {
+   "id": "088102-90B",
+   "name": "Coop Alsterbro",
+   "address": "Alstervägen 33",
+   "city": "ALSTERBRO",
+   "county": null,
+   "lat": 56.94201,
+   "lon": 15.91408
+  },
+  {
+   "id": "088203-90B",
+   "name": "Coop Figeholm",
+   "address": "Ågatan 17",
+   "city": "FIGEHOLM",
+   "county": null,
+   "lat": 57.4011,
+   "lon": 16.19858
+  },
+  {
+   "id": "088204-90B",
+   "name": "Coop Kristdala",
+   "address": "Nyhemsgatan 14",
+   "city": "KRISTDALA",
+   "county": null,
+   "lat": 57.4011,
+   "lon": 16.19858
+  },
+  {
+   "id": "088307-90C",
+   "name": "Coop Överum",
+   "address": "Prästgårdsgatan 5",
+   "city": "ÖVERUM",
+   "county": null,
+   "lat": 57.98838,
+   "lon": 16.31392
+  },
+  {
+   "id": "088309-90C",
+   "name": "Coop Edsbruk",
+   "address": "Uknavägen 36",
+   "city": "EDSBRUK",
+   "county": null,
+   "lat": 58.01864,
+   "lon": 16.46649
+  },
+  {
+   "id": "088309-91A",
+   "name": "Ica Nära Loftahammar",
+   "address": "Guldknappsvägen 2",
+   "city": "LOFTAHAMMAR",
+   "county": null,
+   "lat": 57.907502,
+   "lon": 16.697615
+  },
+  {
+   "id": "088314-90C",
+   "name": "Coop Ankarsrum",
+   "address": "Kungsvägen 42A",
+   "city": "ANKARSRUM",
+   "county": null,
+   "lat": 57.70194,
+   "lon": 16.33873
+  },
+  {
+   "id": "088315-93F",
+   "name": "Blankaholms Lanthandel",
+   "address": "Nedre torget 4",
+   "city": "BLANKAHOLM",
+   "county": null,
+   "lat": 57.590147,
+   "lon": 16.524585
+  },
+  {
+   "id": "088513-92A",
+   "name": "Ica Byxelkrok",
+   "address": "Byxelkroksvägen 24",
+   "city": "BYXELKROK",
+   "county": null,
+   "lat": 57.314279,
+   "lon": 17.025246
+  },
+  {
+   "id": "088514-91A",
+   "name": "ICA Nära Böda",
+   "address": "Gamla Landsvägen 28",
+   "city": "LÖTTORP",
+   "county": null,
+   "lat": 57.241944,
+   "lon": 17.062168
+  },
+  {
+   "id": "088516-91B",
+   "name": "Ica Nära Trossen",
+   "address": "Stenningevägen 66",
+   "city": "LÖTTORP",
+   "county": null,
+   "lat": 57.073193,
+   "lon": 16.859906
+  },
+  {
+   "id": "098004-90A",
+   "name": "ICA Nyströms Fårö",
+   "address": "Friggars 1655",
+   "city": "FÅRÖ",
+   "county": null,
+   "lat": 57.961743,
+   "lon": 19.238553
+  },
+  {
+   "id": "098005-91B",
+   "name": "ICA Supermarket Bunge Fårösund",
+   "address": "Fårövägen 10",
+   "city": "FÅRÖSUND",
+   "county": null,
+   "lat": 57.863229,
+   "lon": 19.05459
+  },
+  {
+   "id": "098015-90C",
+   "name": "Tempo Stenkyrka",
+   "address": "Stenkyrka Hälge 149",
+   "city": "Tingstäde",
+   "county": null,
+   "lat": 57.79984,
+   "lon": 18.513481
+  },
+  {
+   "id": "098035-91A",
+   "name": "Coop Roma",
+   "address": "Visbyvägen 35",
+   "city": "ROMAKLOSTER",
+   "county": null,
+   "lat": 57.504787,
+   "lon": 18.455813
+  },
+  {
+   "id": "098047-91B",
+   "name": "Tempo Katthammarsvik",
+   "address": "Jacob Häggs väg 18",
+   "city": "KATTHAMMARSVIK",
+   "county": null,
+   "lat": 57.426374,
+   "lon": 18.841059
+  },
+  {
+   "id": "098061-91D",
+   "name": "Klinte Snäusbodi Klintehamn",
+   "address": "Norra Kustvägen 10",
+   "city": "KLINTEHAMN",
+   "county": null,
+   "lat": 57.38725,
+   "lon": 18.20026
+  },
+  {
+   "id": "098065-91A",
+   "name": "Ljugarns Handel",
+   "address": "Lantmannavägen 1",
+   "city": "LJUGARN",
+   "county": null,
+   "lat": 57.337219,
+   "lon": 18.698687
+  },
+  {
+   "id": "098089-91A",
+   "name": "Hoburgshallen Burgsvik",
+   "address": "Hoburgsvägen 35",
+   "city": "BURGSVIK",
+   "county": null,
+   "lat": 57.031927,
+   "lon": 18.277385
+  },
+  {
+   "id": "108010-90A",
+   "name": "Ica Nära Torhallen",
+   "address": "Sandhamnsvägen 54",
+   "city": "TORHAMN",
+   "county": null,
+   "lat": 56.095223,
+   "lon": 15.836486
+  },
+  {
+   "id": "108011-90B",
+   "name": "Sturköhallen",
+   "address": "Sturkövägen 81",
+   "city": "STURKÖ",
+   "county": null,
+   "lat": 56.113961,
+   "lon": 15.672683
+  },
+  {
+   "id": "108011-91B",
+   "name": "Ica Nära Drottningskär",
+   "address": "Hyttevägen 4",
+   "city": "DROTTNINGSKÄR",
+   "county": null,
+   "lat": 56.113741,
+   "lon": 15.558853
+  },
+  {
+   "id": "108016-91E",
+   "name": "Tempo Holmsjö",
+   "address": "Marknadsvägen 1",
+   "city": "HOLMSJÖ",
+   "county": null,
+   "lat": 56.42221,
+   "lon": 15.539704
+  },
+  {
+   "id": "108019-90C",
+   "name": "Coop Hasslö",
+   "address": "Fiskaregåsvägen 68",
+   "city": "HASSLÖ",
+   "county": null,
+   "lat": 56.115236,
+   "lon": 15.476265
+  },
+  {
+   "id": "108103-90B",
+   "name": "Ica Nära Backaryd",
+   "address": "Värendsvägen 53",
+   "city": "BACKARYD",
+   "county": null,
+   "lat": 56.348335,
+   "lon": 15.152005
+  },
+  {
+   "id": "108110-90A",
+   "name": "ICA Nära Bräkne-Hoby",
+   "address": "Bräknevägen 24",
+   "city": "BRÄKNE-HOBY",
+   "county": null,
+   "lat": 56.232745,
+   "lon": 15.116583
+  },
+  {
+   "id": "116014-90A",
+   "name": "ICA Supermarket Brösarp",
+   "address": "Albovägen 34",
+   "city": "BRÖSARP",
+   "county": null,
+   "lat": 55.724247,
+   "lon": 14.107664
+  },
+  {
+   "id": "116302-91B",
+   "name": "Ica Nära Lönsboda",
+   "address": "Bredgatan 1",
+   "city": "LÖNSBODA",
+   "county": null,
+   "lat": 56.397195,
+   "lon": 14.320589
+  },
+  {
+   "id": "116802-90A",
+   "name": "Heberleins delikatess kött & chark",
+   "address": "Vantingevägen 15",
+   "city": "FÖRSLÖV",
+   "county": null,
+   "lat": 56.351691,
+   "lon": 12.818682
+  },
+  {
+   "id": "118029-90B",
+   "name": "Eltjänster",
+   "address": "Örtagårdsvägen 1",
+   "city": "DEGEBERGA",
+   "county": null,
+   "lat": 55.836745,
+   "lon": 14.091869
+  },
+  {
+   "id": "118032-91C",
+   "name": "Ica Supermarket Tollarp",
+   "address": "Polgatan 5",
+   "city": "TOLLARP",
+   "county": null,
+   "lat": 55.932972,
+   "lon": 13.976989
+  },
+  {
+   "id": "118118-91B",
+   "name": "ICA Supermarket Kivik",
+   "address": "Killebacken 6",
+   "city": "KIVIK",
+   "county": null,
+   "lat": 55.684364,
+   "lon": 14.222933
+  },
+  {
+   "id": "118313-91B",
+   "name": "ICA Supermarket Bjärnum",
+   "address": "Järnvägsgatan 2",
+   "city": "BJÄRNUM",
+   "county": null,
+   "lat": 56.29152,
+   "lon": 13.70984
+  },
+  {
+   "id": "118319-91B",
+   "name": "Ica Nära Matlusten",
+   "address": "Hantverksgatan 15",
+   "city": "TYRINGE",
+   "county": null,
+   "lat": 56.158781,
+   "lon": 13.600007
+  },
+  {
+   "id": "123305-90A",
+   "name": "ICA Supermarket Skanör",
+   "address": "Södergatan 12",
+   "city": "SKANÖR",
+   "county": null,
+   "lat": 55.412151,
+   "lon": 12.843807
+  },
+  {
+   "id": "124113-90A",
+   "name": "ICA Nära  Röstånga",
+   "address": "Skäralidsvägen 1",
+   "city": "RÖSTÅNGA",
+   "county": null,
+   "lat": 56.003414,
+   "lon": 13.289821
+  },
+  {
+   "id": "126602-91B",
+   "name": "Önneköps Lanthandel",
+   "address": "Per Bings väg 4",
+   "city": "HÖRBY",
+   "county": null,
+   "lat": 55.7867,
+   "lon": 13.87213
+  },
+  {
+   "id": "127806-90A",
+   "name": "Ica Nära Torekov",
+   "address": "Litorinavägen 12",
+   "city": "TOREKOV",
+   "county": null,
+   "lat": 56.423717,
+   "lon": 12.632503
+  },
+  {
+   "id": "128201-90A",
+   "name": "Möllebackens Livs Ven",
+   "address": "C/O Akka Frakt AB (Ombudet på Ven)",
+   "city": "Malmö",
+   "county": null,
+   "lat": 55.911042,
+   "lon": 12.691644
+  },
+  {
+   "id": "128501-91B",
+   "name": "Ica Nära Harlösa",
+   "address": "Gårdstångavägen 4",
+   "city": "HARLÖSA",
+   "county": null,
+   "lat": 55.716572,
+   "lon": 13.528213
+  },
+  {
+   "id": "128617-90B",
+   "name": "Handlarn i Löderup",
+   "address": "Storgatan 44",
+   "city": "LÖDERUP",
+   "county": null,
+   "lat": 55.44,
+   "lon": 14.112669
+  },
+  {
+   "id": "128721-90B",
+   "name": "Coop Nära Smygehamn",
+   "address": "Östra Torps Byaväg 1",
+   "city": "SMYGEHAMN",
+   "county": null,
+   "lat": 55.343243,
+   "lon": 13.372269
+  },
+  {
+   "id": "129029-90B",
+   "name": "Tempo Everöd",
+   "address": "Stora vägen 54",
+   "city": "EVERÖD",
+   "county": null,
+   "lat": 55.898697,
+   "lon": 14.094755
+  },
+  {
+   "id": "129035-90B",
+   "name": "Ica Nära Arkelstorp",
+   "address": "Allarpsvägen 11",
+   "city": "ARKELSTORP",
+   "county": null,
+   "lat": 56.172777,
+   "lon": 14.282999
+  },
+  {
+   "id": "129305-90A",
+   "name": "Tempo Vinslöv",
+   "address": "Torget 5",
+   "city": "VINSLÖV",
+   "county": null,
+   "lat": 56.10368,
+   "lon": 13.9166
+  },
+  {
+   "id": "129315-90A",
+   "name": "Ica Nära Toppen",
+   "address": "Storgatan 2",
+   "city": "SÖSDALA",
+   "county": null,
+   "lat": 56.036038,
+   "lon": 13.678542
+  },
+  {
+   "id": "138004-91A",
+   "name": "Tempo Simlångsdalen",
+   "address": "Brearedsvägen 26",
+   "city": "SIMLÅNGSDALEN",
+   "county": null,
+   "lat": 56.719087,
+   "lon": 13.123251
+  },
+  {
+   "id": "138005-90B",
+   "name": "Ica Nära Oskarström",
+   "address": "Köpmansgatan 1",
+   "city": "OSKARSTRÖM",
+   "county": null,
+   "lat": 56.802125,
+   "lon": 12.975334
+  },
+  {
+   "id": "138014-90C",
+   "name": "Eliassons Kiosk & Spel",
+   "address": "Stationsgatan 3",
+   "city": "GETINGE",
+   "county": null,
+   "lat": 56.817894,
+   "lon": 12.73281
+  },
+  {
+   "id": "138103-91A",
+   "name": "AB Våxtorps Bilservice",
+   "address": "Bygatan 1",
+   "city": "VÅXTORP",
+   "county": null,
+   "lat": 56.418741,
+   "lon": 13.117797
+  },
+  {
+   "id": "138106-90B",
+   "name": "Matöppet Hishult",
+   "address": "Getaryggarna 1",
+   "city": "HISHULT",
+   "county": null,
+   "lat": 56.4288,
+   "lon": 13.307486
+  },
+  {
+   "id": "138109-90D",
+   "name": "Coop Knäred",
+   "address": "Otterdalsvägen 6",
+   "city": "Knäred",
+   "county": null,
+   "lat": 56.520222,
+   "lon": 13.314856
+  },
+  {
+   "id": "138213-90A",
+   "name": "ICA Nära Vessige",
+   "address": "Stationsgatan 2",
+   "city": "VESSIGEBRO",
+   "county": null,
+   "lat": 56.978051,
+   "lon": 12.650965
+  },
+  {
+   "id": "138304-90C",
+   "name": "Matöppet Skällinge",
+   "address": "Köpmansvägen 108.",
+   "city": "Skällinge",
+   "county": null,
+   "lat": 57.182768,
+   "lon": 12.468457
+  },
+  {
+   "id": "138319-91B",
+   "name": "Hemköp Veddige",
+   "address": "Viskastigen 25",
+   "city": "VEDDIGE",
+   "county": null,
+   "lat": 57.266788,
+   "lon": 12.333795
+  },
+  {
+   "id": "138320-90D",
+   "name": "Ica Nära Bua (Halland)",
+   "address": "Buacenter",
+   "city": "BUA",
+   "county": null,
+   "lat": 57.23631,
+   "lon": 12.12597
+  },
+  {
+   "id": "138406-91A",
+   "name": "Coop Konsum Frillesås",
+   "address": "Karl-Johansväg 10",
+   "city": "FRILLESÅS",
+   "county": null,
+   "lat": 57.317664,
+   "lon": 12.174952
+  },
+  {
+   "id": "140701-93A",
+   "name": "Ica To Go Källö Knippla",
+   "address": "Källövägen 3",
+   "city": "KÄLLÖ-KNIPPLA",
+   "county": null,
+   "lat": 57.749594,
+   "lon": 11.65158
+  },
+  {
+   "id": "141903-90B",
+   "name": "Bojen Handlarn Åstol",
+   "address": "c/o Rönnängs brygga",
+   "city": "Rönnäng",
+   "county": null,
+   "lat": 57.923221,
+   "lon": 11.587161
+  },
+  {
+   "id": "141903-92B",
+   "name": "Ica Nära Dyröboden",
+   "address": "c/o Rönnängs brygga",
+   "city": "RÖNNÄNG",
+   "county": null,
+   "lat": 0.0,
+   "lon": 0.0
+  },
+  {
+   "id": "142109-90B",
+   "name": "Tempo Gullholmen",
+   "address": "c/o Färjan Tuvesvik",
+   "city": "ELLÖS",
+   "county": null,
+   "lat": 58.179157,
+   "lon": 11.403848
+  },
+  {
+   "id": "142110-92B",
+   "name": "Tempo Käringön",
+   "address": "C/o Färjan Tuvesvik",
+   "city": "ELLÖS",
+   "county": null,
+   "lat": 58.112402,
+   "lon": 11.366099
+  },
+  {
+   "id": "142702-90C",
+   "name": "Coop Malmön",
+   "address": "Strandvägen 38",
+   "city": "BOHUS-MALMÖN",
+   "county": null,
+   "lat": 58.3494,
+   "lon": 11.339664
+  },
+  {
+   "id": "142706-91A",
+   "name": "Ica Nära Bovall",
+   "address": "Jensegårdsvägen 1",
+   "city": "BOVALLSTRAND",
+   "county": null,
+   "lat": 58.475767,
+   "lon": 11.322452
+  },
+  {
+   "id": "143008-91C",
+   "name": "Trogens Place",
+   "address": "Munkedalsvägen 1A",
+   "city": "HEDEKAS",
+   "county": null,
+   "lat": 58.644622,
+   "lon": 11.779695
+  },
+  {
+   "id": "143502-90A",
+   "name": "Tanumshede Järn och Färg AB",
+   "address": "Riksvägen 133",
+   "city": "TANUMSHEDE",
+   "county": null,
+   "lat": 58.724132,
+   "lon": 11.326667
+  },
+  {
+   "id": "143503-91C",
+   "name": "Handlarn Resö",
+   "address": "Oljeskär 9",
+   "city": "RESÖ",
+   "county": null,
+   "lat": 58.803047,
+   "lon": 11.165419
+  },
+  {
+   "id": "143506-90A",
+   "name": "Ica Nära Grundsund",
+   "address": "Lönndalsvägen 45",
+   "city": "GRUNDSUND",
+   "county": null,
+   "lat": 58.212855,
+   "lon": 11.42061
+  },
+  {
+   "id": "143506-91D",
+   "name": "Coop Fjällbacka",
+   "address": "Jasminvägen 2",
+   "city": "FJÄLLBACKA",
+   "county": null,
+   "lat": 58.597941,
+   "lon": 11.289356
+  },
+  {
+   "id": "143506-93A",
+   "name": "Ica Supermarket Skutan",
+   "address": "Skutan 1",
+   "city": "HAMBURGSUND",
+   "county": null,
+   "lat": 58.552069,
+   "lon": 11.271133
+  },
+  {
+   "id": "143802-90A",
+   "name": "Nössemarks Lanthandel Handlarn",
+   "address": "Nössemark-Strand 130",
+   "city": "ED",
+   "county": null,
+   "lat": 59.136308,
+   "lon": 11.838301
+  },
+  {
+   "id": "144104-90B",
+   "name": "Hagströms Lanthandel",
+   "address": "Östadsvägen 367",
+   "city": "SJÖVIK",
+   "county": null,
+   "lat": 57.925179,
+   "lon": 12.357706
+  },
+  {
+   "id": "145208-90A",
+   "name": "Ica Nära Dalstorp",
+   "address": "Ulricehamnsvägen 15",
+   "city": "DALSTORP",
+   "county": null,
+   "lat": 57.605752,
+   "lon": 13.512633
+  },
+  {
+   "id": "146006-90B",
+   "name": "Coop Mustadfors",
+   "address": "Enetsvägen 15",
+   "city": "DALS LÅNGED",
+   "county": null,
+   "lat": 58.921012,
+   "lon": 12.312181
+  },
+  {
+   "id": "148037-90A",
+   "name": "Coop Styrsö",
+   "address": "C/O Fiskebäck Godsfärjeläger Styrsö",
+   "city": "Västra Frölunda",
+   "county": null,
+   "lat": 57.615712,
+   "lon": 11.781417
+  },
+  {
+   "id": "148037-92A",
+   "name": "Brännö Handel",
+   "address": "C/O Fiskebäck Godsfärjeläger Brännö",
+   "city": "Västra Frölunda",
+   "county": null,
+   "lat": 57.643616,
+   "lon": 11.777962
+  },
+  {
+   "id": "148037-93A",
+   "name": "Hamnboa",
+   "address": "C/O Fiskebäck Godsfärjeläger Asperö",
+   "city": "Västra frölunda",
+   "county": null,
+   "lat": 57.650825,
+   "lon": 11.79555
+  },
+  {
+   "id": "148203-90B",
+   "name": "Coop Marstrand",
+   "address": "Arvidsvik",
+   "city": "MARSTRAND",
+   "county": null,
+   "lat": 57.887411,
+   "lon": 11.588656
+  },
+  {
+   "id": "148405-90B",
+   "name": "Coop Brastad",
+   "address": "Lysekilsvägen 3",
+   "city": "BRASTAD",
+   "county": null,
+   "lat": 58.38112,
+   "lon": 11.485333
+  },
+  {
+   "id": "148607-93B",
+   "name": "Rossö Livs",
+   "address": "Långesandsvägen 31",
+   "city": "STRÖMSTAD",
+   "county": null,
+   "lat": 58.855328,
+   "lon": 11.172379
+  },
+  {
+   "id": "148607-94A",
+   "name": "Östads Livs",
+   "address": "Byvägen 1",
+   "city": "BULLAREN",
+   "county": null,
+   "lat": 58.775946,
+   "lon": 11.560265
+  },
+  {
+   "id": "148908-90A",
+   "name": "Sollebrunns Järnhandel",
+   "address": "Gräfsnäsvägen 2",
+   "city": "SOLLEBRUNN",
+   "county": null,
+   "lat": 58.119459,
+   "lon": 12.534546
+  },
+  {
+   "id": "149201-90B",
+   "name": "Fengersfors Fröskogs Lanthandel",
+   "address": "Fabriksvägen 3",
+   "city": "FENGERSFORS",
+   "county": null,
+   "lat": 58.994346,
+   "lon": 12.468015
+  },
+  {
+   "id": "155206-91A",
+   "name": "ICA Nära Länghem",
+   "address": "Boråsvägen 26",
+   "city": "LÄNGHEM",
+   "county": null,
+   "lat": 57.602436,
+   "lon": 13.243141
+  },
+  {
+   "id": "156304-90A",
+   "name": "Sätila Bygg",
+   "address": "Fjäråsvägen 8",
+   "city": "SÄTILA",
+   "county": null,
+   "lat": 57.542975,
+   "lon": 12.426606
+  },
+  {
+   "id": "156314-90B",
+   "name": "Horreds Servicebutik",
+   "address": "Varbergsvägen 425",
+   "city": "HORRED",
+   "county": null,
+   "lat": 57.355092,
+   "lon": 12.477194
+  },
+  {
+   "id": "156316-90A",
+   "name": "Älekulla Livs",
+   "address": "Gunnarsjövägen",
+   "city": "ÄLEKULLA",
+   "county": null,
+   "lat": 57.344879,
+   "lon": 12.72823
+  },
+  {
+   "id": "158004-90A",
+   "name": "ICA Nära Cypressen",
+   "address": "Storgatan 21",
+   "city": "BRÅLANDA",
+   "county": null,
+   "lat": 58.562633,
+   "lon": 12.350577
+  },
+  {
+   "id": "164302-91A",
+   "name": "Hova Rör",
+   "address": "Arne Danielssons väg 1",
+   "city": "HOVA",
+   "county": null,
+   "lat": 58.845998,
+   "lon": 14.197264
+  },
+  {
+   "id": "168628-91A",
+   "name": "Handelsboden i Kättilstorp",
+   "address": "Storgatan 22",
+   "city": "KÄTTILSTORP",
+   "county": null,
+   "lat": 58.041898,
+   "lon": 13.711893
+  },
+  {
+   "id": "171503-91A",
+   "name": "Coop Högboda",
+   "address": "Stationsvägen 2",
+   "city": "KIL",
+   "county": null,
+   "lat": 59.557012,
+   "lon": 13.053318
+  },
+  {
+   "id": "173003-91A",
+   "name": "Bygga Jarnske",
+   "address": "Koppomsvägen 54",
+   "city": "KOPPOM",
+   "county": null,
+   "lat": 59.704518,
+   "lon": 12.148231
+  },
+  {
+   "id": "173004-91A",
+   "name": "Coop Skillingsfors",
+   "address": "Boda 5",
+   "city": "SKILLINGSFORS",
+   "county": null,
+   "lat": 59.817162,
+   "lon": 12.011253
+  },
+  {
+   "id": "173005-91A",
+   "name": "Coop Åmotfors",
+   "address": "Jössevägen 1",
+   "city": "ÅMOTFORS",
+   "county": null,
+   "lat": 59.762841,
+   "lon": 12.361543
+  },
+  {
+   "id": "173702-90B",
+   "name": "Finnskogens ostaffär",
+   "address": "Lekvattnet 53",
+   "city": "TORSBY",
+   "county": null,
+   "lat": 60.190521,
+   "lon": 12.673359
+  },
+  {
+   "id": "173705-90B",
+   "name": "Ica Nära Östmark",
+   "address": "Röjdåforsvägen 1",
+   "city": "ÖSTMARK",
+   "county": null,
+   "lat": 60.279286,
+   "lon": 12.760258
+  },
+  {
+   "id": "173707-91B",
+   "name": "Ica Nära Bograngen",
+   "address": "Gränsvägen 18",
+   "city": "BOGRANGEN",
+   "county": null,
+   "lat": 60.703219,
+   "lon": 12.595332
+  },
+  {
+   "id": "173708-91A",
+   "name": "Coop Sysslebäck",
+   "address": "Näckåvägen 21",
+   "city": "SYSSLEBÄCK",
+   "county": null,
+   "lat": 60.734397,
+   "lon": 12.865374
+  },
+  {
+   "id": "173708-92D",
+   "name": "Ica Nära Likenäs",
+   "address": "Likenäsvägen 26",
+   "city": "LIKENÄS",
+   "county": null,
+   "lat": 60.615849,
+   "lon": 13.041345
+  },
+  {
+   "id": "173708-93A",
+   "name": "Eurocash Långflon",
+   "address": "Långflon 29",
+   "city": "HÖLJES",
+   "county": null,
+   "lat": 61.046253,
+   "lon": 12.596806
+  },
+  {
+   "id": "173709-91B",
+   "name": "Tempo Ambjörby",
+   "address": "Ambjörby 80",
+   "city": "AMBJÖRBY",
+   "county": null,
+   "lat": 60.497423,
+   "lon": 13.168474
+  },
+  {
+   "id": "173709-92B",
+   "name": "Coop Stöllet",
+   "address": "Gamla vägen 1",
+   "city": "STÖLLET",
+   "county": null,
+   "lat": 60.410843,
+   "lon": 13.270624
+  },
+  {
+   "id": "176502-90B",
+   "name": "Ica Nära Sillerud",
+   "address": "Svensbyn",
+   "city": "ÅRJÄNG",
+   "county": null,
+   "lat": 59.31965,
+   "lon": 12.31113
+  },
+  {
+   "id": "176508-91C",
+   "name": "Ica Supermarket Töcksfors",
+   "address": "Lindudden 3",
+   "city": "TÖCKSFORS",
+   "county": null,
+   "lat": 59.509135,
+   "lon": 11.818731
+  },
+  {
+   "id": "176604-90B",
+   "name": "Ica Nära Rottnahallen",
+   "address": "Skolvägen 2",
+   "city": "GRÄSMARK",
+   "county": null,
+   "lat": 59.9462,
+   "lon": 12.91052
+  },
+  {
+   "id": "176605-90A",
+   "name": "Coop Lysvik",
+   "address": "Gamla vägen 40",
+   "city": "LYSVIK",
+   "county": null,
+   "lat": 60.014901,
+   "lon": 13.133299
+  },
+  {
+   "id": "178004-91F",
+   "name": "Värmlands-Rasta",
+   "address": "Karsvalla 202 (E18)",
+   "city": "VÄSE",
+   "county": null,
+   "lat": 59.391406,
+   "lon": 13.852437
+  },
+  {
+   "id": "178006-91A",
+   "name": "Coop Molkom",
+   "address": "Stationsgatan 5",
+   "city": "MOLKOM",
+   "county": null,
+   "lat": 59.60151,
+   "lon": 13.721727
+  },
+  {
+   "id": "178105-91A",
+   "name": "Ica Nyvalls Bäckhammar",
+   "address": "Öståsgatan 10",
+   "city": "BÄCKHAMMAR",
+   "county": null,
+   "lat": 59.160333,
+   "lon": 14.189696
+  },
+  {
+   "id": "178207-92A",
+   "name": "Coop Lesjöfors",
+   "address": "Bergslagsgatan 70",
+   "city": "LESJÖFORS",
+   "county": null,
+   "lat": 59.978598,
+   "lon": 14.182962
+  },
+  {
+   "id": "178302-91A",
+   "name": "ICA Supermarket Ekshärad",
+   "address": "Torsbyvägen 1",
+   "city": "Ekshärad",
+   "county": null,
+   "lat": 60.172537,
+   "lon": 13.49501
+  },
+  {
+   "id": "178405-90C",
+   "name": "Ica Nära Glava",
+   "address": "Hönacka Sälgen",
+   "city": "GLAVA",
+   "county": null,
+   "lat": 59.548386,
+   "lon": 12.563662
+  },
+  {
+   "id": "178410-90A",
+   "name": "Lundby Livs AB",
+   "address": "Västra Takene Affären",
+   "city": "MANGSKOG",
+   "county": null,
+   "lat": 59.753077,
+   "lon": 12.823293
+  },
+  {
+   "id": "178509-91A",
+   "name": "Vikinghallen",
+   "address": "Nyströmsvägen 1",
+   "city": "VÄRMLANDS NYSÄTER",
+   "county": null,
+   "lat": 59.283676,
+   "lon": 12.775052
+  },
+  {
+   "id": "178511-90A",
+   "name": "Coop Svanskog",
+   "address": "Smedjegatan 1",
+   "city": "SVANSKOG",
+   "county": null,
+   "lat": 59.178947,
+   "lon": 12.552383
+  },
+  {
+   "id": "186102-91A",
+   "name": "Sojas Ica-Hall Vretstorp",
+   "address": "Askersundsvägen 26",
+   "city": "VRETSTORP",
+   "county": null,
+   "lat": 59.023159,
+   "lon": 14.869326
+  },
+  {
+   "id": "186104-91C",
+   "name": "Pålsboda Järn & Färg",
+   "address": "Köpmangatan 4",
+   "city": "PÅLSBODA",
+   "county": null,
+   "lat": 59.064683,
+   "lon": 15.337112
+  },
+  {
+   "id": "186202-91B",
+   "name": "ICA Nära Åtorp",
+   "address": "Lidetorpsvägen 7",
+   "city": "ÅTORP",
+   "county": null,
+   "lat": 59.116437,
+   "lon": 14.366519
+  },
+  {
+   "id": "186301-90A",
+   "name": "Tempo Grythyttan",
+   "address": "Skolgatan 7",
+   "city": "GRYTHYTTAN",
+   "county": null,
+   "lat": 59.705253,
+   "lon": 14.534214
+  },
+  {
+   "id": "188027-90A",
+   "name": "Ica Nära Glansen Glanshammar",
+   "address": "Torget",
+   "city": "GLANSHAMMAR",
+   "county": null,
+   "lat": 59.317748,
+   "lon": 15.400871
+  },
+  {
+   "id": "188504-90A",
+   "name": "Frövi Bilservice",
+   "address": "Vannebodagatan 15",
+   "city": "FRÖVI",
+   "county": null,
+   "lat": 59.466434,
+   "lon": 15.369355
+  },
+  {
+   "id": "188505-91A",
+   "name": "Hemköp Fellingsbro",
+   "address": "Hemvägen",
+   "city": "FELLINGSBRO",
+   "county": null,
+   "lat": 59.434421,
+   "lon": 15.593425
+  },
+  {
+   "id": "190702-92B",
+   "name": "Ica Nära Virsbo",
+   "address": "Centrumvägen 4",
+   "city": "VIRSBO",
+   "county": null,
+   "lat": 59.871477,
+   "lon": 16.04651
+  },
+  {
+   "id": "191702-90A",
+   "name": "Lunda Handel HUDDUNGE",
+   "address": "Tjärbrännarvägen 2",
+   "city": "HUDDUNGEBY",
+   "county": null,
+   "lat": 60.049513,
+   "lon": 16.982804
+  },
+  {
+   "id": "198007-90B",
+   "name": "Ica Supermarket Skultuna",
+   "address": "Krongjutarvägen 17",
+   "city": "SKULTUNA",
+   "county": null,
+   "lat": 59.718754,
+   "lon": 16.426829
+  },
+  {
+   "id": "198102-91A",
+   "name": "ICA Köplusten SALBOHED",
+   "address": "Kopparbergsvägen 22",
+   "city": "SALBOHED",
+   "county": null,
+   "lat": 59.910257,
+   "lon": 16.348004
+  },
+  {
+   "id": "198304-90C",
+   "name": "Ica Supermarket Kolsva",
+   "address": "Bergslagsvägen 101",
+   "city": "KOLSVA",
+   "county": null,
+   "lat": 59.60079,
+   "lon": 15.84071
+  },
+  {
+   "id": "198404-91A",
+   "name": "Lungers Handel",
+   "address": "Norra Lunger",
+   "city": "LUNGER",
+   "county": null,
+   "lat": 59.327075,
+   "lon": 15.680434
+  },
+  {
+   "id": "202103-90E",
+   "name": "Gulf/ Tempo Nås",
+   "address": "Sveden 54",
+   "city": "NÅS",
+   "county": null,
+   "lat": 60.452948,
+   "lon": 14.500448
+  },
+  {
+   "id": "202302-90A",
+   "name": "Ica Nära Tandådalen",
+   "address": "Solbacken 110",
+   "city": "SÄLEN",
+   "county": null,
+   "lat": 61.175827,
+   "lon": 12.999315
+  },
+  {
+   "id": "202303-91C",
+   "name": "Ica Nära Rörbäcksnäs",
+   "address": "Rörbäcksnäs 71",
+   "city": "RÖRBÄCKSNÄS",
+   "county": null,
+   "lat": 61.128548,
+   "lon": 12.81488
+  },
+  {
+   "id": "202303-92A",
+   "name": "Coop Lima",
+   "address": "Kyrkbyn 114",
+   "city": "LIMA",
+   "county": null,
+   "lat": 60.936237,
+   "lon": 13.359823
+  },
+  {
+   "id": "202305-91B",
+   "name": "Handlarn Sörsjön",
+   "address": "Dalenvägen 118",
+   "city": "SÖRSJÖN",
+   "county": null,
+   "lat": 61.410804,
+   "lon": 13.083996
+  },
+  {
+   "id": "202603-90D",
+   "name": "Ica Nära Dala-Floda",
+   "address": "Stora Vägen 38",
+   "city": "DALA-FLODA",
+   "county": null,
+   "lat": 60.509769,
+   "lon": 14.801619
+  },
+  {
+   "id": "202603-91B",
+   "name": "Tempo Björbo",
+   "address": "Björbovägen 18",
+   "city": "BJÖRBO",
+   "county": null,
+   "lat": 60.456459,
+   "lon": 14.730704
+  },
+  {
+   "id": "203103-90C",
+   "name": "Handlarn Boda Kyrkby",
+   "address": "Björkallen 62",
+   "city": "BODA KYRkBY",
+   "county": null,
+   "lat": 61.011749,
+   "lon": 15.2122
+  },
+  {
+   "id": "203104-93A",
+   "name": "Tempo Furudal",
+   "address": "Strandvägen 1",
+   "city": "FURUDAL",
+   "county": null,
+   "lat": 61.167496,
+   "lon": 15.134647
+  },
+  {
+   "id": "203402-91A",
+   "name": "Skattunge Handel",
+   "address": "Landsvägen 500",
+   "city": "SKATTUNGBYN",
+   "county": null,
+   "lat": 61.186102,
+   "lon": 14.859554
+  },
+  {
+   "id": "203904-91A",
+   "name": "OKQ8 Särna",
+   "address": "Särnavägen 114",
+   "city": "SÄRNA",
+   "county": null,
+   "lat": 61.693386,
+   "lon": 13.14171
+  },
+  {
+   "id": "203905-92B",
+   "name": "Fjällbua IDRE",
+   "address": "Grövelsjövägen 378",
+   "city": "IDRE",
+   "county": null,
+   "lat": 62.061694,
+   "lon": 12.318119
+  },
+  {
+   "id": "206102-90A",
+   "name": "Ica Nära Bärkehallen Söderbärke",
+   "address": "Bärkevägen 30",
+   "city": "SÖDERBÄRKE",
+   "county": null,
+   "lat": 60.069628,
+   "lon": 15.557442
+  },
+  {
+   "id": "206205-90A",
+   "name": "Tempo Venjan",
+   "address": "Tennängsvägen 5",
+   "city": "VENJAN",
+   "county": null,
+   "lat": 60.953654,
+   "lon": 13.908099
+  },
+  {
+   "id": "208008-93A",
+   "name": "Ica Supermarket Svärdsjö",
+   "address": "Centrumvägen 2",
+   "city": "SVÄRDSJÖ",
+   "county": null,
+   "lat": 60.741752,
+   "lon": 15.904482
+  },
+  {
+   "id": "208010-90B",
+   "name": "Gulf Enviken",
+   "address": "Tängervägen 1",
+   "city": "ENVIKEN",
+   "county": null,
+   "lat": 60.808383,
+   "lon": 15.757299
+  },
+  {
+   "id": "208010-92A",
+   "name": "Bingsjö Lanthandel AB",
+   "address": "Bingsjö Lambornsvägen 15",
+   "city": "ENVIKEN",
+   "county": null,
+   "lat": 61.024711,
+   "lon": 15.647672
+  },
+  {
+   "id": "208011-92A",
+   "name": "Coop Konsum Bjursås",
+   "address": "Mårtsbovägen 1",
+   "city": "BJURSÅS",
+   "county": null,
+   "lat": 60.739519,
+   "lon": 15.443364
+  },
+  {
+   "id": "208083-91A",
+   "name": "Kiosken STJÄRNSUND",
+   "address": "Stationsallén 1",
+   "city": "STJÄRNSUND",
+   "county": null,
+   "lat": 60.433648,
+   "lon": 16.207876
+  },
+  {
+   "id": "208303-91A",
+   "name": "ICA Mathyttan LÅNGSHYTTAN",
+   "address": "Hyttgatan 5",
+   "city": "LÅNGSHYTTAN",
+   "county": null,
+   "lat": 60.451909,
+   "lon": 16.031998
+  },
+  {
+   "id": "208403-91B",
+   "name": "ICA Supermarket Horndal",
+   "address": "Stora Vägen 47",
+   "city": "HORNDAL",
+   "county": null,
+   "lat": 60.294094,
+   "lon": 16.40434
+  },
+  {
+   "id": "208502-90D",
+   "name": "Coop Grängesberg",
+   "address": "Kopparbergsvägen 54",
+   "city": "GRÄNGESBERG",
+   "county": null,
+   "lat": 60.075575,
+   "lon": 15.007315
+  },
+  {
+   "id": "208503-90A",
+   "name": "Ica Nära Grangärde",
+   "address": "Gamla Vägen 31",
+   "city": "GRANGÄRDE",
+   "county": null,
+   "lat": 60.262319,
+   "lon": 14.977757
+  },
+  {
+   "id": "208503-91D",
+   "name": "Coop Sunnansjö",
+   "address": "Botbergsvägen 3",
+   "city": "SUNNANSJÖ",
+   "county": null,
+   "lat": 60.216637,
+   "lon": 14.95766
+  },
+  {
+   "id": "208504-90C",
+   "name": "Makken Fredriksberg, Säfsen",
+   "address": "Ludvikavägen 4",
+   "city": "FREDRIKSBERG",
+   "county": null,
+   "lat": 60.140761,
+   "lon": 14.374392
+  },
+  {
+   "id": "210101-90A",
+   "name": "Tempo Åmot",
+   "address": "Masungsvägen 2",
+   "city": "ÅMOTSBRUK",
+   "county": null,
+   "lat": 60.962163,
+   "lon": 16.44824
+  },
+  {
+   "id": "213201-90B",
+   "name": "Ilsbo Bensin och Service AB",
+   "address": "Bergsjövägen 8",
+   "city": "ILSBO",
+   "county": null,
+   "lat": 61.86162,
+   "lon": 17.050424
+  },
+  {
+   "id": "213202-90A",
+   "name": "ICA Supermarket Harmånger",
+   "address": "Strömsbruksvägen 6",
+   "city": "HARMÅNGER",
+   "county": null,
+   "lat": 61.927928,
+   "lon": 17.217436
+  },
+  {
+   "id": "213202-91B",
+   "name": "Handlarn i Stocka \"Kajutan\"",
+   "address": "Morängvägen 1",
+   "city": "STOCKA",
+   "county": null,
+   "lat": 61.898458,
+   "lon": 17.335687
+  },
+  {
+   "id": "213204-90B",
+   "name": "ICA Nära \"Stjärnan\" Gnarp",
+   "address": "Stationsvägen 29",
+   "city": "GNARP",
+   "county": null,
+   "lat": 62.053686,
+   "lon": 17.239862
+  },
+  {
+   "id": "213206-90D",
+   "name": "Coop Hassela",
+   "address": "Torggränd 1",
+   "city": "HASSELA",
+   "county": null,
+   "lat": 62.110058,
+   "lon": 16.710043
+  },
+  {
+   "id": "216103-90B",
+   "name": "Lotta-Boden Los",
+   "address": "Gärdesvägen 3",
+   "city": "LOS",
+   "county": null,
+   "lat": 61.73828,
+   "lon": 15.17277
+  },
+  {
+   "id": "216104-91A",
+   "name": "Kårgårn Färila",
+   "address": "Härjedalsvägen 118",
+   "city": "FÄRILA",
+   "county": null,
+   "lat": 61.801712,
+   "lon": 15.84509
+  },
+  {
+   "id": "216106-90B",
+   "name": "Ramsjö Livs",
+   "address": "Sundsvägen 7",
+   "city": "RAMSJÖ",
+   "county": null,
+   "lat": 62.183093,
+   "lon": 15.649455
+  },
+  {
+   "id": "216107-90A",
+   "name": "Järnhuset Järvsö AB",
+   "address": "Turistvägen 70",
+   "city": "JÄRVSÖ",
+   "county": null,
+   "lat": 61.718802,
+   "lon": 16.170704
+  },
+  {
+   "id": "218003-92C",
+   "name": "Coop Norrsundet",
+   "address": "Egnahemsgatan 54",
+   "city": "NORRSUNDET",
+   "county": null,
+   "lat": 60.929949,
+   "lon": 17.139804
+  },
+  {
+   "id": "218003-94C",
+   "name": "Ica Nära Bergby",
+   "address": "Vijvägen 38",
+   "city": "Bergby",
+   "county": null,
+   "lat": 60.929377,
+   "lon": 17.040827
+  },
+  {
+   "id": "218004-91A",
+   "name": "Ica Nära Hedesunda",
+   "address": "Smevägen 2",
+   "city": "HEDESUNDA",
+   "county": null,
+   "lat": 60.397494,
+   "lon": 17.003057
+  },
+  {
+   "id": "218102-91C",
+   "name": "Coop Storvik",
+   "address": "Tingsgatan 10",
+   "city": "STORVIK",
+   "county": null,
+   "lat": 60.583722,
+   "lon": 16.531593
+  },
+  {
+   "id": "218103-90A",
+   "name": "Ica Nära Järbo",
+   "address": "Kungsforsvägen 12",
+   "city": "JÄRBO",
+   "county": null,
+   "lat": 60.71519,
+   "lon": 16.5974
+  },
+  {
+   "id": "218104-90D",
+   "name": "Ica Nära Österfärnebo",
+   "address": "Färnebovägen 903",
+   "city": "ÖSTERFÄRNEBO",
+   "county": null,
+   "lat": 60.309773,
+   "lon": 16.798068
+  },
+  {
+   "id": "218203-91D",
+   "name": "Tempo Stråtjära",
+   "address": "Kyrkvägen 1",
+   "city": "STRÅTJÄRA",
+   "county": null,
+   "lat": 61.1662,
+   "lon": 16.841807
+  },
+  {
+   "id": "218206-90C",
+   "name": "Hälsingland Coop Bergvik",
+   "address": "Varianthuset",
+   "city": "BERGVIK",
+   "county": null,
+   "lat": 61.27012,
+   "lon": 16.840106
+  },
+  {
+   "id": "218209-90A",
+   "name": "Ica Nära Trönö",
+   "address": "Glamsta 990",
+   "city": "TRÖNÖDAL",
+   "county": null,
+   "lat": 61.396766,
+   "lon": 16.834054
+  },
+  {
+   "id": "218306-91D",
+   "name": "Coop Kilafors",
+   "address": "Stationsgatan 14",
+   "city": "KILAFORS",
+   "county": null,
+   "lat": 61.230555,
+   "lon": 16.564215
+  },
+  {
+   "id": "218309-92A",
+   "name": "Icas Spelboa Arbrå",
+   "address": "Storgatan 26",
+   "city": "ARBRÅ",
+   "county": null,
+   "lat": 61.47074,
+   "lon": 16.37799
+  },
+  {
+   "id": "218407-90C",
+   "name": "Coop Enånger",
+   "address": "Enångersvägen 33 D",
+   "city": "ENÅNGER",
+   "county": null,
+   "lat": 61.547815,
+   "lon": 17.005394
+  },
+  {
+   "id": "218408-90A",
+   "name": "ICA Supermarket Delsbohallen",
+   "address": "Edevägen 5",
+   "city": "DELSBO",
+   "county": null,
+   "lat": 61.799765,
+   "lon": 16.553284
+  },
+  {
+   "id": "218409-91A",
+   "name": "ICA Nära Friggesund",
+   "address": "Strömbackavägen 17",
+   "city": "BJURÅKER",
+   "county": null,
+   "lat": 61.897032,
+   "lon": 16.548978
+  },
+  {
+   "id": "218409-92B",
+   "name": "Handlarn Svågadalen",
+   "address": "Ängebo 83",
+   "city": "BJURÅKER",
+   "county": null,
+   "lat": 61.971345,
+   "lon": 16.336754
+  },
+  {
+   "id": "218411-91D",
+   "name": "Näsvikens Livs",
+   "address": "Forssåvägen 1",
+   "city": "Näsviken",
+   "county": null,
+   "lat": 61.757141,
+   "lon": 16.866191
+  },
+  {
+   "id": "226002-90A",
+   "name": "Macken i Östavall",
+   "address": "Östavallsvägen 37",
+   "city": "ÖSTAVALL",
+   "county": null,
+   "lat": 62.429035,
+   "lon": 15.476092
+  },
+  {
+   "id": "226003-92B",
+   "name": "Nära Dig ÖVERTURINGEN",
+   "address": "Turingevägen 18",
+   "city": "ÖVERTURINGEN",
+   "county": null,
+   "lat": 62.451033,
+   "lon": 14.920202
+  },
+  {
+   "id": "226004-91D",
+   "name": "Coop Fränsta",
+   "address": "Fränstavägen 268",
+   "city": "FRÄNSTA",
+   "county": null,
+   "lat": 62.498532,
+   "lon": 16.170964
+  },
+  {
+   "id": "226201-90A",
+   "name": "Nära dej Ljustorp",
+   "address": "Öppom 110",
+   "city": "LJUSTORP",
+   "county": null,
+   "lat": 62.623892,
+   "lon": 17.343143
+  },
+  {
+   "id": "226203-91A",
+   "name": "Ica Nära Söråker",
+   "address": "Folketshusvägen 1",
+   "city": "SÖRÅKER",
+   "county": null,
+   "lat": 62.506375,
+   "lon": 17.508333
+  },
+  {
+   "id": "228002-90A",
+   "name": "Tempo Ramvik",
+   "address": "Centrumvägen 2",
+   "city": "RAMVIK",
+   "county": null,
+   "lat": 62.807525,
+   "lon": 17.867697
+  },
+  {
+   "id": "228005-91A",
+   "name": "Mat & Nostalgi i Viksjö",
+   "address": "Gammelgården 237",
+   "city": "VIKSJÖ",
+   "county": null,
+   "lat": 62.778849,
+   "lon": 17.421503
+  },
+  {
+   "id": "228107-90A",
+   "name": "ICA Nära Stöde",
+   "address": "Stödevägen 44",
+   "city": "STÖDE",
+   "county": null,
+   "lat": 62.417686,
+   "lon": 16.583115
+  },
+  {
+   "id": "228108-91C",
+   "name": "Ica Supermarket Matfors",
+   "address": "Skölevägen 2-4",
+   "city": "MATFORS",
+   "county": null,
+   "lat": 62.34755,
+   "lon": 17.02019
+  },
+  {
+   "id": "228113-90B",
+   "name": "Tempo Liden",
+   "address": "Lidenvägen 94",
+   "city": "LIDEN",
+   "county": null,
+   "lat": 62.69874,
+   "lon": 16.80132
+  },
+  {
+   "id": "228202-91B",
+   "name": "Ica Nära Strömmen. NORASTRÖM",
+   "address": "Prästbordet 103",
+   "city": "NORASTRÖM",
+   "county": null,
+   "lat": 62.871493,
+   "lon": 18.084239
+  },
+  {
+   "id": "228204-90B",
+   "name": "ICA Nära Nordingrå",
+   "address": "Prästmyrvägen 1",
+   "city": "NORDINGRÅ",
+   "county": null,
+   "lat": 62.930078,
+   "lon": 18.292333
+  },
+  {
+   "id": "228204-91C",
+   "name": "Servicepunkten i Mjällom",
+   "address": "Petsamovägen 2",
+   "city": "MJÄLLOM",
+   "county": null,
+   "lat": 62.98577,
+   "lon": 18.43224
+  },
+  {
+   "id": "228205-91B",
+   "name": "XL-bygg Docksta",
+   "address": "Dockstavägen 27",
+   "city": "DOCKSTA",
+   "county": null,
+   "lat": 63.054354,
+   "lon": 18.325917
+  },
+  {
+   "id": "228211-91A",
+   "name": "Nylands Järnhandel",
+   "address": "Bankgatan 7",
+   "city": "NYLAND",
+   "county": null,
+   "lat": 63.007218,
+   "lon": 17.763685
+  },
+  {
+   "id": "228304-90C",
+   "name": "Ica Nära Långsele",
+   "address": "Hamrevägen 4",
+   "city": "LÅNGSELE",
+   "county": null,
+   "lat": 63.1776,
+   "lon": 17.06563
+  },
+  {
+   "id": "228306-90C",
+   "name": "Handlarn i Resele",
+   "address": "Prästbord 241",
+   "city": "Resele",
+   "county": null,
+   "lat": 63.329695,
+   "lon": 17.075682
+  },
+  {
+   "id": "228308-91C",
+   "name": "Coop Nära Näsåker",
+   "address": "Storgatan 3",
+   "city": "NÄSÅKER",
+   "county": null,
+   "lat": 63.443864,
+   "lon": 16.894297
+  },
+  {
+   "id": "228309-90D",
+   "name": "PA Bygg JUNSELE",
+   "address": "Köpmangatan 25",
+   "city": "JUNSELE",
+   "county": null,
+   "lat": 63.695394,
+   "lon": 16.881276
+  },
+  {
+   "id": "228315-90A",
+   "name": "Edsele's Lanthandel",
+   "address": "Ödsgårdsvägen 4",
+   "city": "EDSELE",
+   "county": null,
+   "lat": 63.340339,
+   "lon": 17.075258
+  },
+  {
+   "id": "228404-92B",
+   "name": "Åkerström & Company  BREDBYN",
+   "address": "Junselevägen 9",
+   "city": "BREDBYN",
+   "county": null,
+   "lat": 63.453729,
+   "lon": 18.102825
+  },
+  {
+   "id": "228404-93B",
+   "name": "Handlarn i Solberg",
+   "address": "Sagavägen 59",
+   "city": "SOLBERG",
+   "county": null,
+   "lat": 63.788657,
+   "lon": 17.641109
+  },
+  {
+   "id": "228405-90A",
+   "name": "COOP Skorped",
+   "address": "Skorpedsvägen 19",
+   "city": "SKORPED",
+   "county": null,
+   "lat": 63.384978,
+   "lon": 17.85481
+  },
+  {
+   "id": "228406-91A",
+   "name": "Handlarn i Sidensjö",
+   "address": "Stryvägen 11",
+   "city": "SIDENSJÖ",
+   "county": null,
+   "lat": 63.293507,
+   "lon": 18.291469
+  },
+  {
+   "id": "228407-90D",
+   "name": "Ulvö Handelsbod",
+   "address": "c/o Bussgods i Västernorrland AB",
+   "city": "ÖRNSKÖLDSVIK",
+   "county": null,
+   "lat": 63.020443,
+   "lon": 18.646559
+  },
+  {
+   "id": "228407-91B",
+   "name": "Time Bjästa",
+   "address": "Nätragatan 44",
+   "city": "BJÄSTA",
+   "county": null,
+   "lat": 63.199118,
+   "lon": 18.498825
+  },
+  {
+   "id": "228410-92A",
+   "name": "ICA Supermarket Husum",
+   "address": "Bruksvägen 191",
+   "city": "HUSUM",
+   "county": null,
+   "lat": 63.340266,
+   "lon": 19.162384
+  },
+  {
+   "id": "228411-90C",
+   "name": "Gideå Livs",
+   "address": "Bergforsvägen 50",
+   "city": "GIDEÅ",
+   "county": null,
+   "lat": 63.481452,
+   "lon": 18.971921
+  },
+  {
+   "id": "228411-91A",
+   "name": "Flärke Lanthandel",
+   "address": "Flärke 140",
+   "city": "GIDEÅ",
+   "county": null,
+   "lat": 63.577254,
+   "lon": 19.025381
+  },
+  {
+   "id": "228412-93B",
+   "name": "ICA Nära Hemlings",
+   "address": "Hemling 220",
+   "city": "LÅNGVIKSMON",
+   "county": null,
+   "lat": 63.651562,
+   "lon": 18.546096
+  },
+  {
+   "id": "228413-90A",
+   "name": "Coop Trehörningsjö",
+   "address": "Centralgatan 31",
+   "city": "TREHÖRNINGSJÖ",
+   "county": null,
+   "lat": 63.693748,
+   "lon": 18.865755
+  },
+  {
+   "id": "230302-90A",
+   "name": "ICA Nära Bispgården",
+   "address": "Forsvägen 22",
+   "city": "BISPGÅRDEN",
+   "county": null,
+   "lat": 63.0284,
+   "lon": 16.6188
+  },
+  {
+   "id": "230303-90C",
+   "name": "Affär´n i Borgvattnet",
+   "address": "Borgvattnet 131",
+   "city": "STUGUN",
+   "county": null,
+   "lat": 63.423151,
+   "lon": 15.825343
+  },
+  {
+   "id": "230304-90A",
+   "name": "ICA Nära Stugun",
+   "address": "Industrivägen 2",
+   "city": "STUGUN",
+   "county": null,
+   "lat": 63.167769,
+   "lon": 15.605454
+  },
+  {
+   "id": "230502-91A",
+   "name": "ICA Nära Bodsjö",
+   "address": "Sidsjö 184",
+   "city": "BRÄCKE",
+   "county": null,
+   "lat": 62.731977,
+   "lon": 15.148099
+  },
+  {
+   "id": "230504-91A",
+   "name": "ICa Nära Kälarne",
+   "address": "Stationsvägen 4",
+   "city": "KÄLARNE",
+   "county": null,
+   "lat": 62.979631,
+   "lon": 16.088048
+  },
+  {
+   "id": "230506-92B",
+   "name": "Ica Nära Gällö",
+   "address": "Ringsvägen 2",
+   "city": "GÄLLÖ",
+   "county": null,
+   "lat": 62.914473,
+   "lon": 15.232754
+  },
+  {
+   "id": "230905-92A",
+   "name": "Mobacks kök & skafferi",
+   "address": "Laxsjö 178",
+   "city": "FÖLLINGE",
+   "county": null,
+   "lat": 63.812491,
+   "lon": 14.797725
+  },
+  {
+   "id": "230906-90A",
+   "name": "Frendo okq8. Föllinge",
+   "address": "Långgatan 13",
+   "city": "FÖLLINGE",
+   "county": null,
+   "lat": 63.671139,
+   "lon": 14.621267
+  },
+  {
+   "id": "230906-92B",
+   "name": "Handlarn Rötviken",
+   "address": "Rötviken 204 A",
+   "city": "FÖLLINGE",
+   "county": null,
+   "lat": 63.973801,
+   "lon": 14.164096
+  },
+  {
+   "id": "230907-92C",
+   "name": "Handlarn i Trångsviken",
+   "address": "Byvägen 18A",
+   "city": "TRÅNGSVIKEN",
+   "county": null,
+   "lat": 63.332774,
+   "lon": 14.014121
+  },
+  {
+   "id": "230907-93B",
+   "name": "Valsjöbua AB",
+   "address": "Valsjön 4720",
+   "city": "VALSJÖBYN",
+   "county": null,
+   "lat": 64.067098,
+   "lon": 14.140732
+  },
+  {
+   "id": "230908-91B",
+   "name": "ICA Nära Änge",
+   "address": "Centralvägen 20",
+   "city": "OFFERDAL",
+   "county": null,
+   "lat": 63.457738,
+   "lon": 14.064263
+  },
+  {
+   "id": "230910-91A",
+   "name": "Nära dej i Kluksbua. ALSEN",
+   "address": "Kluk 188",
+   "city": "ALSEN",
+   "county": null,
+   "lat": 63.4035,
+   "lon": 13.81014
+  },
+  {
+   "id": "231304-90B",
+   "name": "Ica Nära Hammerdal",
+   "address": "Storgatan 42",
+   "city": "HAMMERDAL",
+   "county": null,
+   "lat": 63.58224,
+   "lon": 15.351132
+  },
+  {
+   "id": "231305-92A",
+   "name": "Ica Blåsjöfjäll",
+   "address": "Blåsjön 230",
+   "city": "STORA BLÅSJÖN",
+   "county": null,
+   "lat": 64.836239,
+   "lon": 14.083896
+  },
+  {
+   "id": "231305-92B",
+   "name": "Ica Nära Gränsbua Gäddede",
+   "address": "Norgevägen 1",
+   "city": "GÄDDEDE",
+   "county": null,
+   "lat": 64.499213,
+   "lon": 14.142205
+  },
+  {
+   "id": "231306-91C",
+   "name": "Ica Nära Backe",
+   "address": "Centrumvägen 7",
+   "city": "BACKE",
+   "county": null,
+   "lat": 63.811321,
+   "lon": 16.406029
+  },
+  {
+   "id": "231307-91D",
+   "name": "Ica Nära Rossön",
+   "address": "Hotingsvägen 7.",
+   "city": "ROSSÖN",
+   "county": null,
+   "lat": 0.0,
+   "lon": 0.0
+  },
+  {
+   "id": "231308-90B",
+   "name": "Norråkers Handel",
+   "address": "Borgavägen 8",
+   "city": "NORRÅKER",
+   "county": null,
+   "lat": 64.435362,
+   "lon": 15.594027
+  },
+  {
+   "id": "231308-93A",
+   "name": "Ica Nära Hoting",
+   "address": "Storgatan 20",
+   "city": "HOTING",
+   "county": null,
+   "lat": 64.116084,
+   "lon": 16.203056
+  },
+  {
+   "id": "232101-91A",
+   "name": "Stora Coop Storlien",
+   "address": "Stalltjärnsvägen 2",
+   "city": "STORLIEN",
+   "county": null,
+   "lat": 63.309409,
+   "lon": 12.110102
+  },
+  {
+   "id": "232101-92A",
+   "name": "Ica Nära Duved",
+   "address": "Karolinervägen 21",
+   "city": "DUVED",
+   "county": null,
+   "lat": 63.39281,
+   "lon": 12.92015
+  },
+  {
+   "id": "232103-90D",
+   "name": "Ica Nära Mörsil",
+   "address": "Kyrkvägen 23",
+   "city": "MÖRSIL",
+   "county": null,
+   "lat": 63.307637,
+   "lon": 13.666231
+  },
+  {
+   "id": "232103-90E",
+   "name": "Ica Nära Karl Ors Bua",
+   "address": "Hallenvägen 22",
+   "city": "HALLEN",
+   "county": null,
+   "lat": 63.174718,
+   "lon": 14.097633
+  },
+  {
+   "id": "232104-90B",
+   "name": "ICA Nära Kall",
+   "address": "Kall Västgård 10",
+   "city": "JÄRPEN",
+   "county": null,
+   "lat": 63.473133,
+   "lon": 13.229632
+  },
+  {
+   "id": "232105-90B",
+   "name": "Ica Nära Ottsjö-Bua",
+   "address": "Ottsjö 168",
+   "city": "UNDERSÅKER",
+   "county": null,
+   "lat": 63.215416,
+   "lon": 13.056153
+  },
+  {
+   "id": "232105-91B",
+   "name": "Ica Nära Undersåker",
+   "address": "Byvägen 63",
+   "city": "UNDERSÅKER",
+   "county": null,
+   "lat": 63.3144,
+   "lon": 13.24184
+  },
+  {
+   "id": "232603-91B",
+   "name": "Ovikens Bygg Shop ",
+   "address": "Myrviksvägen 22",
+   "city": "OVIKEN",
+   "county": null,
+   "lat": 62.9983,
+   "lon": 14.341
+  },
+  {
+   "id": "232605-90A",
+   "name": "Handlar'n Storsjö",
+   "address": "Storsjö 244",
+   "city": "STORSJÖ",
+   "county": null,
+   "lat": 62.80099,
+   "lon": 13.054716
+  },
+  {
+   "id": "232605-91A",
+   "name": "Ljungdalsfjällens turistbyrå",
+   "address": "Ljungdalen",
+   "city": "LJUNGDALEN",
+   "county": null,
+   "lat": 62.852331,
+   "lon": 12.79335
+  },
+  {
+   "id": "232607-90A",
+   "name": "Ica Klövsjö",
+   "address": "Klövsjövägen 25",
+   "city": "KLÖVSJÖ",
+   "county": null,
+   "lat": 62.526305,
+   "lon": 14.193562
+  },
+  {
+   "id": "232608-90B",
+   "name": "Handsjö Handel RÄTAN",
+   "address": "Sjövägen 1",
+   "city": "RÄTAN",
+   "county": null,
+   "lat": 62.461718,
+   "lon": 14.533174
+  },
+  {
+   "id": "236101-90A",
+   "name": "Härdalsbuda, Nära dej. LILLHÄRDAL",
+   "address": "Härjulfs väg 1",
+   "city": "LILLHÄRDAL",
+   "county": null,
+   "lat": 61.851124,
+   "lon": 14.074964
+  },
+  {
+   "id": "236102-91B",
+   "name": "Ica Nära Lofsdalen",
+   "address": "Lofsdalsvägen 28",
+   "city": "LOFSDALEN",
+   "county": null,
+   "lat": 62.11249,
+   "lon": 13.272391
+  },
+  {
+   "id": "236104-90A",
+   "name": "Ekbergs Fiske VEMDALEN",
+   "address": "Håvägen 8",
+   "city": "VEMDALEN",
+   "county": null,
+   "lat": 62.444231,
+   "lon": 13.867301
+  },
+  {
+   "id": "236104-91B",
+   "name": "Vemhåträffen",
+   "address": "Östbergsgatan 1",
+   "city": "VEMHÅN",
+   "county": null,
+   "lat": 62.309734,
+   "lon": 14.042876
+  },
+  {
+   "id": "236105-90F",
+   "name": "Butik Storgatan Hede",
+   "address": "Storgatan 18 A",
+   "city": "HEDE",
+   "county": null,
+   "lat": 62.41815,
+   "lon": 13.51262
+  },
+  {
+   "id": "236109-91B",
+   "name": "Ytterhogdals trafikbutik",
+   "address": "Östansjö 174",
+   "city": "YTTERHOGDAL",
+   "county": null,
+   "lat": 0.0,
+   "lon": 0.0
+  },
+  {
+   "id": "238004-91A",
+   "name": "ICA Fåker",
+   "address": "Grönviken 205",
+   "city": "FÅKER",
+   "county": null,
+   "lat": 62.990536,
+   "lon": 14.59862
+  },
+  {
+   "id": "238007-90C",
+   "name": "Ica Supermarket Brunflo",
+   "address": "Centrumvägen 15",
+   "city": "BRUNFLO",
+   "county": null,
+   "lat": 63.081876,
+   "lon": 14.824442
+  },
+  {
+   "id": "238010-90D",
+   "name": "Ica Nära Häggenås",
+   "address": "Gustav Rydstedts väg 2",
+   "city": "HÄGGENÅS",
+   "county": null,
+   "lat": 63.391052,
+   "lon": 14.904608
+  },
+  {
+   "id": "240102-91A",
+   "name": "Gräsmyr Bensin & Livs",
+   "address": "Fällan 17",
+   "city": "GRÄSMYR",
+   "county": null,
+   "lat": 63.769024,
+   "lon": 19.621253
+  },
+  {
+   "id": "240301-91B",
+   "name": "Handlarn Örträsk",
+   "address": "Storgatan 85",
+   "city": "ÖRTRÄSK",
+   "county": null,
+   "lat": 64.135965,
+   "lon": 18.983772
+  },
+  {
+   "id": "240401-90A",
+   "name": "Handlarn i Granö",
+   "address": "Blå vägen 109",
+   "city": "GRANÖ",
+   "county": null,
+   "lat": 64.251226,
+   "lon": 19.308426
+  },
+  {
+   "id": "240402-90B",
+   "name": "Handlarn Åmsele",
+   "address": "Byavägen 112",
+   "city": "ÅMSELE",
+   "county": null,
+   "lat": 64.533526,
+   "lon": 19.346721
+  },
+  {
+   "id": "240901-90B",
+   "name": "Ica Nära Bygdeå",
+   "address": "Prästgärdan 1",
+   "city": "BYGDEÅ",
+   "county": null,
+   "lat": 64.061507,
+   "lon": 20.849442
+  },
+  {
+   "id": "240901-92A",
+   "name": "Bergströms Däckservice",
+   "address": "Brogatan 5",
+   "city": "ÅNÄSET",
+   "county": null,
+   "lat": 64.279991,
+   "lon": 21.043814
+  },
+  {
+   "id": "241702-90C",
+   "name": "Affärn i Bastuträsk AB",
+   "address": "Bäckgatan 1",
+   "city": "BASTUTRÄSK",
+   "county": null,
+   "lat": 64.790693,
+   "lon": 20.042911
+  },
+  {
+   "id": "242101-91D",
+   "name": "Slussforsboa",
+   "address": "Skogsvägen 2",
+   "city": "SLUSSFORS",
+   "county": null,
+   "lat": 65.430898,
+   "lon": 16.248703
+  },
+  {
+   "id": "242103-93B",
+   "name": "Konsum Tärnaby",
+   "address": "Västra Strandvägen 15",
+   "city": "TÄRNABY",
+   "county": null,
+   "lat": 65.7114,
+   "lon": 15.257288
+  },
+  {
+   "id": "242201-91D",
+   "name": "Affären Ammarnäs",
+   "address": "Strandvägen 7",
+   "city": "AMMARNÄS",
+   "county": null,
+   "lat": 65.95825,
+   "lon": 16.21253
+  },
+  {
+   "id": "242201-92A",
+   "name": "ICA Nära Blattnicksele",
+   "address": "Strandvägen 13",
+   "city": "BLATTNICKSELE",
+   "county": null,
+   "lat": 65.342174,
+   "lon": 17.586181
+  },
+  {
+   "id": "242202-90A",
+   "name": "Jonssons Livs",
+   "address": "Byvägen 55",
+   "city": "GARGNÄS",
+   "county": null,
+   "lat": 65.31331,
+   "lon": 17.962349
+  },
+  {
+   "id": "242501-92A",
+   "name": "ICA Nära Ormsjödalen",
+   "address": "V. Ormsjö 70",
+   "city": "DOROTEA",
+   "county": null,
+   "lat": 64.418907,
+   "lon": 16.008673
+  },
+  {
+   "id": "242502-91A",
+   "name": "Borgafjällens Lanthandel",
+   "address": "Centrumvägen 18",
+   "city": "BORGAFJÄLL",
+   "county": null,
+   "lat": 64.834805,
+   "lon": 15.087205
+  },
+  {
+   "id": "246201-93A",
+   "name": "Dikanäs Fjällhandel",
+   "address": "Albinsvägen 5",
+   "city": "DIKANÄS",
+   "county": null,
+   "lat": 65.234937,
+   "lon": 15.992203
+  },
+  {
+   "id": "246201-95B",
+   "name": "Klimpfjällshandlarn",
+   "address": "Vildmarksvägen 1",
+   "city": "KLIMPFJÄLL",
+   "county": null,
+   "lat": 65.060778,
+   "lon": 14.795881
+  },
+  {
+   "id": "246201-96C",
+   "name": "Marsfjällshandlarn",
+   "address": "Saxnäs 27",
+   "city": "MARSFJÄLL",
+   "county": null,
+   "lat": 64.97142,
+   "lon": 15.3381
+  },
+  {
+   "id": "246201-96D",
+   "name": "Coop Kittelfjäll",
+   "address": "Kittelfjäll 5721",
+   "city": "KITTELFJÄLL",
+   "county": null,
+   "lat": 65.253937,
+   "lon": 15.516441
+  },
+  {
+   "id": "248001-90A",
+   "name": "Ica Nära Hissjö",
+   "address": "Hissjö 75",
+   "city": "UMEÅ",
+   "county": null,
+   "lat": 63.938929,
+   "lon": 20.160176
+  },
+  {
+   "id": "248003-90A",
+   "name": "Matboa Tavelsjö",
+   "address": "Tavelsjövägen 84",
+   "city": "TAVELSJÖ",
+   "county": null,
+   "lat": 64.03822,
+   "lon": 20.060103
+  },
+  {
+   "id": "248006-91C",
+   "name": "ICA-fyren Obbola",
+   "address": "Kyrkvägen 22",
+   "city": "OBBOLA",
+   "county": null,
+   "lat": 63.70078,
+   "lon": 20.31528
+  },
+  {
+   "id": "248007-90A",
+   "name": "Coop Hörnefors",
+   "address": "Bruksgatan 17",
+   "city": "HÖRNEFORS",
+   "county": null,
+   "lat": 63.626379,
+   "lon": 19.907841
+  },
+  {
+   "id": "248010-90A",
+   "name": "Holmöns Lanthandel",
+   "address": "Holmö Byaväg 6",
+   "city": "HOLMÖN",
+   "county": null,
+   "lat": 63.804234,
+   "lon": 20.864346
+  },
+  {
+   "id": "248101-91C",
+   "name": "Handlarn Rusksele",
+   "address": "Vindelälvsvägen 37",
+   "city": "RUSKSELE",
+   "county": null,
+   "lat": 64.814153,
+   "lon": 18.896
+  },
+  {
+   "id": "248203-90C",
+   "name": "Bureå Bensin och Livs",
+   "address": "Jägargatan 1",
+   "city": "BUREÅ",
+   "county": null,
+   "lat": 64.617536,
+   "lon": 21.198824
+  },
+  {
+   "id": "248205-90A",
+   "name": "Ica X-tra Boliden",
+   "address": "Norra Torggatan 3",
+   "city": "BOLIDEN",
+   "county": null,
+   "lat": 64.866804,
+   "lon": 20.388898
+  },
+  {
+   "id": "248206-90A",
+   "name": "Storkågeträsks Lanthandel",
+   "address": "Storkågeträsk 15",
+   "city": "KÅGE",
+   "county": null,
+   "lat": 64.964843,
+   "lon": 20.627123
+  },
+  {
+   "id": "248207-90B",
+   "name": "Ica Supermarket Byske",
+   "address": "Storgatan 3",
+   "city": "BYSKE",
+   "county": null,
+   "lat": 64.95319,
+   "lon": 21.20302
+  },
+  {
+   "id": "248209-91A",
+   "name": "Coop Nära Jörn",
+   "address": "Storgatan 32",
+   "city": "JÖRN",
+   "county": null,
+   "lat": 65.059693,
+   "lon": 20.037104
+  },
+  {
+   "id": "248210-91C",
+   "name": "OKQ8 Lövånger",
+   "address": "Selet 10",
+   "city": "LÖVÅNGER",
+   "county": null,
+   "lat": 64.372771,
+   "lon": 21.301782
+  },
+  {
+   "id": "248211-90B",
+   "name": "OKQ8 Burträsk",
+   "address": "Sundbrogatan 7",
+   "city": "BURTRÄSK",
+   "county": null,
+   "lat": 64.5213,
+   "lon": 20.65983
+  },
+  {
+   "id": "248211-91C",
+   "name": "Ica Nära Bygdsiljum",
+   "address": "Robertsforsvägen 4",
+   "city": "BYGDSILJUM",
+   "county": null,
+   "lat": 64.348791,
+   "lon": 20.504103
+  },
+  {
+   "id": "250502-91C",
+   "name": "Finnbergs diversehandel",
+   "address": "Storgatan 90",
+   "city": "GLOMMERSTRÄSK",
+   "county": null,
+   "lat": 65.260782,
+   "lon": 19.633989
+  },
+  {
+   "id": "250502-92B",
+   "name": "Cafe Navet",
+   "address": "Storstugvägen 22",
+   "city": "MOSKOSEL",
+   "county": null,
+   "lat": 65.87377,
+   "lon": 19.45703
+  },
+  {
+   "id": "250602-92B",
+   "name": "Ica Nära Jäckvik",
+   "address": "Byavägen 10",
+   "city": "JÄCKVIK",
+   "county": null,
+   "lat": 66.390168,
+   "lon": 16.964843
+  },
+  {
+   "id": "250602-94A",
+   "name": "Slagnäs Lanthandel",
+   "address": "Gammvägen 3",
+   "city": "SLAGNÄS",
+   "county": null,
+   "lat": 65.585724,
+   "lon": 18.166389
+  },
+  {
+   "id": "251005-90B",
+   "name": "Coop Vuollerim",
+   "address": "Bodenvägen 16",
+   "city": "VUOLLERIM",
+   "county": null,
+   "lat": 66.430555,
+   "lon": 20.604454
+  },
+  {
+   "id": "251401-91A",
+   "name": "Coop Sangis",
+   "address": "Bagarevägen 2",
+   "city": "SANGIS",
+   "county": null,
+   "lat": 65.857312,
+   "lon": 23.493343
+  },
+  {
+   "id": "251401-92A",
+   "name": "Handlar´n Vitvattnet",
+   "address": "Vitvattnet 341",
+   "city": "KALIX",
+   "county": null,
+   "lat": 66.059896,
+   "lon": 23.1955
+  },
+  {
+   "id": "251402-90A",
+   "name": "ICA Nyckeln",
+   "address": "Torgvägen 7",
+   "city": "TÖRE",
+   "county": null,
+   "lat": 65.912199,
+   "lon": 22.646497
+  },
+  {
+   "id": "251402-91B",
+   "name": "Nära dej Morjärv",
+   "address": "Köpmangatan 1",
+   "city": "MORJÄRV",
+   "county": null,
+   "lat": 66.069229,
+   "lon": 22.702007
+  },
+  {
+   "id": "251802-91B",
+   "name": "Rautilas Livs",
+   "address": "Byvägen 47",
+   "city": "JUOKSENGI",
+   "county": null,
+   "lat": 66.568044,
+   "lon": 23.849372
+  },
+  {
+   "id": "252101-91A",
+   "name": "Handlar'n Muodoslompolo",
+   "address": "Byavägen 28",
+   "city": "MUODOSLOMPOLO",
+   "county": null,
+   "lat": 67.9425,
+   "lon": 23.43347
+  },
+  {
+   "id": "252101-92A",
+   "name": "Handlarn Kainulasjärvi",
+   "address": "Byavägen 35",
+   "city": "KAINULASJÄRVI",
+   "county": null,
+   "lat": 67.002532,
+   "lon": 22.496568
+  },
+  {
+   "id": "252103-91A",
+   "name": "Åkes Livs",
+   "address": "Kitkiöjärvi 20",
+   "city": "PAJALA",
+   "county": null,
+   "lat": 67.821055,
+   "lon": 23.152988
+  },
+  {
+   "id": "252106-90A",
+   "name": "Alskog i Junosuando",
+   "address": "Kangasvägen 5",
+   "city": "JUNOSUANDO",
+   "county": null,
+   "lat": 67.42925,
+   "lon": 22.495829
+  },
+  {
+   "id": "252106-91F",
+   "name": "Holmas Lanthandel",
+   "address": "Norra Byavägen 1",
+   "city": "KANGOS",
+   "county": null,
+   "lat": 67.481841,
+   "lon": 22.657059
+  },
+  {
+   "id": "252301-90B",
+   "name": "Ica Polar Hakkas",
+   "address": "Kalixvägen 78",
+   "city": "HAKKAS",
+   "county": null,
+   "lat": 66.918463,
+   "lon": 21.554529
+  },
+  {
+   "id": "252301-91B",
+   "name": "Ullattimacken",
+   "address": "Stora Vägen 35",
+   "city": "ULLATTI",
+   "county": null,
+   "lat": 67.01536,
+   "lon": 21.81457
+  },
+  {
+   "id": "252301-92B",
+   "name": "Nära Dej Skaulo Livs",
+   "address": "Gällivarevägen 56",
+   "city": "SKAULO",
+   "county": null,
+   "lat": 67.414122,
+   "lon": 21.113581
+  },
+  {
+   "id": "256002-90A",
+   "name": "Tempo Vidsel",
+   "address": "Östra Vidselvägen 2",
+   "city": "VIDSEL",
+   "county": null,
+   "lat": 65.830811,
+   "lon": 20.521999
+  },
+  {
+   "id": "258004-90A",
+   "name": "Ica Nära Handelsboden i Råneå",
+   "address": "Affärsvägen 6",
+   "city": "RÅNEÅ",
+   "county": null,
+   "lat": 65.855511,
+   "lon": 22.28855
+  },
+  {
+   "id": "258004-92A",
+   "name": "Niemisels Livs Nära Dig",
+   "address": "Bergändevägen 2",
+   "city": "NIEMISEL",
+   "county": null,
+   "lat": 66.019374,
+   "lon": 21.98878
+  },
+  {
+   "id": "258102-90C",
+   "name": "Ica Nära E-fyren",
+   "address": "Jävrevägen 200",
+   "city": "JÄVREBYN",
+   "county": null,
+   "lat": 0.0,
+   "lon": 0.0
+  },
+  {
+   "id": "258103-91B",
+   "name": "Olofssons Livs",
+   "address": "Lillpitevägen 548",
+   "city": "LILLPITE",
+   "county": null,
+   "lat": 65.373696,
+   "lon": 21.156367
+  },
+  {
+   "id": "258103-92A",
+   "name": "Långträsk Livs AB",
+   "address": "Basvägen 2",
+   "city": "LÅNGTRÄSK",
+   "county": null,
+   "lat": 65.384728,
+   "lon": 20.330127
+  },
+  {
+   "id": "258103-93B",
+   "name": "Forsens Livs",
+   "address": "Sikforsvägen 39",
+   "city": "SIKFORS",
+   "county": null,
+   "lat": 65.52923,
+   "lon": 21.193521
+  },
+  {
+   "id": "258105-90C",
+   "name": "Ica Norrfjärden",
+   "address": "Porsnästorget 3",
+   "city": "NORRFJÄRDEN",
+   "county": null,
+   "lat": 65.4216,
+   "lon": 21.49598
+  },
+  {
+   "id": "258202-90C",
+   "name": "Gunnarsby Lanthandel",
+   "address": "Klövervägen 12",
+   "city": "GUNNARSBYN",
+   "county": null,
+   "lat": 66.08742,
+   "lon": 21.8036
+  },
+  {
+   "id": "258203-91B",
+   "name": "Harads Maskin & Fritid",
+   "address": "Edeforsvägen 56",
+   "city": "HARADS",
+   "county": null,
+   "lat": 66.085369,
+   "lon": 20.953156
+  },
+  {
+   "id": "258301-91C",
+   "name": "Handlarn Seskarö",
+   "address": "Allévägen 1",
+   "city": "SESKARÖ",
+   "county": null,
+   "lat": 65.738073,
+   "lon": 23.739099
+  },
+  {
+   "id": "258401-91D",
+   "name": "Godisfabriken Supermarket Abisko",
+   "address": "Kalle Jons Väg 1",
+   "city": "ABISKO",
+   "county": null,
+   "lat": 68.35034,
+   "lon": 18.831957
+  },
+  {
+   "id": "258401-93A",
+   "name": "ICA Nära Riksgränsen",
+   "address": "Riksgränsvägen 2A",
+   "city": "Riksgränsen",
+   "county": null,
+   "lat": 68.428342,
+   "lon": 18.118644
+  },
+  {
+   "id": "258402-90B",
+   "name": "Coop Vittangi",
+   "address": "Centralvägen 26",
+   "city": "VITTANGI",
+   "county": null,
+   "lat": 67.677466,
+   "lon": 21.645115
+  },
+  {
+   "id": "258402-91B",
+   "name": "Coop Svappavaara",
+   "address": "Kirunavägen",
+   "city": "SVAPPAVAARA",
+   "county": null,
+   "lat": 67.64834,
+   "lon": 21.04592
+  },
+  {
+   "id": "258402-92C",
+   "name": "Matsäcken",
+   "address": "Byvägen 78",
+   "city": "LANNAVAARA",
+   "county": null,
+   "lat": 68.047472,
+   "lon": 21.971122
+  },
+  {
+   "id": "258403-90A",
+   "name": "Karesuando Bensin",
+   "address": "Leastadiusvägen 50",
+   "city": "KARESUANDO",
+   "county": null,
+   "lat": 68.438476,
+   "lon": 22.458483
+  },
+  {
+   "id": "278207-91B",
+   "name": "Handlarn i Lugnvik",
+   "address": "Skolvägen 10",
+   "city": "LUGNVIK",
+   "county": null,
+   "lat": 62.929746,
+   "lon": 17.910264
   }
  ]
 }

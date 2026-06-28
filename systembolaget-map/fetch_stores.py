@@ -57,42 +57,51 @@ def fetch_stores():
     return r.json().get("siteSearchResults", [])
 
 
+def _site(s, pos):
+    return {
+        "id": s.get("siteId"),
+        "name": s.get("displayName") or s.get("alias") or s.get("siteId"),
+        "address": s.get("streetAddress"),
+        "city": s.get("city"),
+        "county": s.get("county"),
+        "lat": round(float(pos["latitude"]), 6),
+        "lon": round(float(pos["longitude"]), 6),
+    }
+
+
 def main():
     raw = fetch_stores()
 
+    # Split into Systembolaget's own stores (isAgent=false) and third-party
+    # agents / "ombud" (isAgent=true). Only the stores feed the distance overlay;
+    # ombud are exposed as a separate, toggleable marker layer on the map.
     stores = []
+    ombud = []
     skipped_no_pos = 0
     for s in raw:
-        if s.get("isAgent"):
-            continue
         pos = s.get("position") or {}
-        lat, lon = pos.get("latitude"), pos.get("longitude")
-        if lat is None or lon is None:
+        if pos.get("latitude") is None or pos.get("longitude") is None:
             skipped_no_pos += 1
             continue
-        stores.append({
-            "id": s.get("siteId"),
-            "name": s.get("displayName") or s.get("alias") or s.get("siteId"),
-            "address": s.get("streetAddress"),
-            "city": s.get("city"),
-            "county": s.get("county"),
-            "lat": round(float(lat), 6),
-            "lon": round(float(lon), 6),
-        })
+        (ombud if s.get("isAgent") else stores).append(_site(s, pos))
 
     stores.sort(key=lambda x: (x["id"] or ""))
+    ombud.sort(key=lambda x: (x["id"] or ""))
 
     out = {
         "source": "Systembolaget api-extern /v1/sitesearch/site",
         "count": len(stores),
+        "ombudCount": len(ombud),
         "stores": stores,
+        "ombud": ombud,
     }
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
 
-    print(f"[fetch_stores] {len(raw)} sites -> {len(stores)} real stores "
-          f"({skipped_no_pos} dropped for missing coordinates)", file=sys.stderr)
+    print(f"[fetch_stores] {len(raw)} sites -> {len(stores)} stores + "
+          f"{len(ombud)} ombud ({skipped_no_pos} dropped for missing coordinates)",
+          file=sys.stderr)
     print(f"[fetch_stores] wrote {OUT_PATH}", file=sys.stderr)
 
 
