@@ -36,18 +36,28 @@
   // --- distance overlay layer ----------------------------------------------
 
   var DistanceLayer = L.Layer.extend({
-    initialize: function (stores, opts) {
-      this._stores = stores;
-      // Precompute flat coordinate arrays for the hot loop.
-      this._lat = new Float64Array(stores.length);
-      this._lon = new Float64Array(stores.length);
-      for (var i = 0; i < stores.length; i++) {
-        this._lat[i] = stores[i].lat;
-        this._lon[i] = stores[i].lon;
-      }
+    initialize: function (points, opts) {
+      this._setPoints(points);
       this._cell = (opts && opts.cell) || 6; // CSS px per sampled cell
       this._maxDist = (opts && opts.maxDist) || 50; // km mapped to full red
       this._alpha = (opts && opts.alpha) || 0.55;
+    },
+
+    // Replace the point set the overlay measures distance to, then redraw.
+    _setPoints: function (points) {
+      this._stores = points;
+      // Precompute flat coordinate arrays for the hot loop.
+      this._lat = new Float64Array(points.length);
+      this._lon = new Float64Array(points.length);
+      for (var i = 0; i < points.length; i++) {
+        this._lat[i] = points[i].lat;
+        this._lon[i] = points[i].lon;
+      }
+    },
+
+    setPoints: function (points) {
+      this._setPoints(points);
+      if (this._map) this._draw();
     },
 
     setMaxDist: function (km) {
@@ -225,6 +235,10 @@
 
   function init(data, iso) {
     var stores = data.stores;
+    var ombud = data.ombud || [];
+    // Tag each record so click-to-measure can name the kind of the nearest point.
+    stores.forEach(function (s) { s.kind = "store"; });
+    ombud.forEach(function (o) { o.kind = "ombud"; });
 
     var map = L.map("map", { zoomControl: false, minZoom: 4, maxZoom: 14 });
     // Bottom-right so the controls never sit behind the panel on mobile.
@@ -277,7 +291,7 @@
 
     // Hollow rings (no fill) so the ~445 ombud mark their spots without
     // washing colour over the distance overlay underneath.
-    var ombudMarkers = markerLayer(data.ombud || [], {
+    var ombudMarkers = markerLayer(ombud, {
       radius: 3, color: "#b35c00", weight: 1.6,
       fill: false, opacity: 0.95,
     }, "ombud");
@@ -299,7 +313,8 @@
       );
     }
 
-    // Click to measure distance to nearest store.
+    // Click to measure distance to the nearest point the overlay is measuring
+    // (stores, or stores + ombud when the ombud layer is on).
     map.on("click", function (e) {
       var res = distLayer.nearest(e.latlng);
       L.popup({ className: "dist-popup-wrap" })
@@ -307,7 +322,9 @@
         .setContent(
           '<div class="dist-popup"><span class="km">' +
             res.dist.toFixed(1) +
-            " km</span><br><span class=\"near\">to nearest store:<br><b>" +
+            " km</span><br><span class=\"near\">to nearest " +
+            (res.store.kind === "ombud" ? "ombud" : "store") +
+            ":<br><b>" +
             escapeHtml(res.store.name) +
             "</b>" +
             (res.store.city ? " (" + escapeHtml(res.store.city) + ")" : "") +
@@ -316,12 +333,12 @@
         .openOn(map);
     });
 
-    wireControls(map, distLayer, markers, ombudMarkers, isoLayer, stores.length, (data.ombud || []).length);
+    wireControls(map, distLayer, markers, ombudMarkers, isoLayer, stores, ombud);
   }
 
-  function wireControls(map, distLayer, markers, ombudMarkers, isoLayer, count, ombudCount) {
+  function wireControls(map, distLayer, markers, ombudMarkers, isoLayer, stores, ombud) {
     document.getElementById("store-count").textContent =
-      count + " stores, " + ombudCount + " ombud.";
+      stores.length + " stores, " + ombud.length + " ombud.";
 
     document.getElementById("toggle-overlay").addEventListener("change", function (e) {
       if (e.target.checked) distLayer.addTo(map);
@@ -334,8 +351,14 @@
     });
 
     document.getElementById("toggle-ombud").addEventListener("change", function (e) {
-      if (e.target.checked) ombudMarkers.addTo(map);
-      else map.removeLayer(ombudMarkers);
+      if (e.target.checked) {
+        ombudMarkers.addTo(map);
+        // Overlay now measures distance to the nearest store OR ombud.
+        distLayer.setPoints(stores.concat(ombud));
+      } else {
+        map.removeLayer(ombudMarkers);
+        distLayer.setPoints(stores); // back to nearest store only
+      }
     });
 
     document.getElementById("toggle-iso").addEventListener("change", function (e) {

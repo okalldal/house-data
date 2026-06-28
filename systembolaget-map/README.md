@@ -32,9 +32,11 @@ Store coordinates come from Systembolaget's public site-search endpoint
 [`../wine-guide/api-docs/systembolaget/api.md`](../wine-guide/api-docs/systembolaget/api.md)
 (claim C074 — an empty query returns the whole network). The response is split
 into Systembolaget's own stores (`isAgent=false`, ~454) and third-party agents
-/ "ombud" (`isAgent=true`, ~445). Both are written to `stores.json`. Only the
-stores feed the distance overlay and isochrones; ombud are an optional,
-toggleable marker layer (off by default).
+/ "ombud" (`isAgent=true`, ~445). Both are written to `stores.json`. By default
+the distance overlay measures distance to the nearest store; toggling the ombud
+layer on adds ombud to that calculation (nearest store **or** ombud) and shows
+them as markers. The Gothenburg isochrones are always stores-independent
+(drive-time from one origin).
 
 To refresh the data:
 
