@@ -1,0 +1,4092 @@
+{
+ "source": "Systembolaget api-extern /v1/sitesearch/site",
+ "count": 454,
+ "stores": [
+  {
+   "id": "0102",
+   "name": "Fältöversten",
+   "address": "Karlaplan 13",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.339471,
+   "lon": 18.091314
+  },
+  {
+   "id": "0104",
+   "name": "Nybrogatan 47",
+   "address": "Nybrogatan 47",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.337147,
+   "lon": 18.078999
+  },
+  {
+   "id": "0106",
+   "name": "Garnisonen",
+   "address": "Karlavägen 100 A",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.336104,
+   "lon": 18.0962
+  },
+  {
+   "id": "0107",
+   "name": "Norra Djurgårdsstaden",
+   "address": "Bobergsgatan 50",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.358524,
+   "lon": 18.091919
+  },
+  {
+   "id": "0110",
+   "name": "Hötorgshallen",
+   "address": "Hötorgshallen",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.3342,
+   "lon": 18.0628
+  },
+  {
+   "id": "0113",
+   "name": "Sergel, ingång T-Centralen",
+   "address": "Drottninggatan 45",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.332488,
+   "lon": 18.062269
+  },
+  {
+   "id": "0114",
+   "name": "PK-Huset",
+   "address": "Norrlandsgatan 3",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.33321,
+   "lon": 18.07114
+  },
+  {
+   "id": "0132",
+   "name": "Marieberg",
+   "address": "Rålambsvägen 7",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.328013,
+   "lon": 18.017086
+  },
+  {
+   "id": "0133",
+   "name": "Kungsholmstorg 11 A",
+   "address": "Kungsholmstorg 11 A",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.328283,
+   "lon": 18.042357
+  },
+  {
+   "id": "0134",
+   "name": "Lindhagensgatan 118",
+   "address": "Lindhagensgatan 118",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.337241,
+   "lon": 18.009409
+  },
+  {
+   "id": "0135",
+   "name": "Ångermannagatan 165",
+   "address": "Ångermannagatan 165",
+   "city": "VÄLLINGBY",
+   "county": "Stockholms län",
+   "lat": 59.363288,
+   "lon": 17.874194
+  },
+  {
+   "id": "0136",
+   "name": "Scheele Fleminggatan 18",
+   "address": "Fleminggatan 18",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.333297,
+   "lon": 18.044388
+  },
+  {
+   "id": "0137",
+   "name": "Fridhemsplan Fleminggatan 56",
+   "address": "Fleminggatan 56",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.334895,
+   "lon": 18.030155
+  },
+  {
+   "id": "0138",
+   "name": "Odengatan 92",
+   "address": "Odengatan 92",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.340775,
+   "lon": 18.041808
+  },
+  {
+   "id": "0140",
+   "name": "Torsplan",
+   "address": "Solnavägen 2b",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.3466,
+   "lon": 18.0331
+  },
+  {
+   "id": "0143",
+   "name": "Odenplan",
+   "address": "Odengatan 58",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.343512,
+   "lon": 18.05287
+  },
+  {
+   "id": "0144",
+   "name": "Jarlaplan",
+   "address": "Birger Jarlsgatan 84",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.344756,
+   "lon": 18.063501
+  },
+  {
+   "id": "0145",
+   "name": "Sveavägen 66",
+   "address": "Sveavägen 66",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.339142,
+   "lon": 18.060474
+  },
+  {
+   "id": "0147",
+   "name": "Brommaplan",
+   "address": "Klädesvägen 12",
+   "city": "BROMMA",
+   "county": "Stockholms län",
+   "lat": 59.338837,
+   "lon": 17.939905
+  },
+  {
+   "id": "0148",
+   "name": "Hässelby Torg 3",
+   "address": "Hässelby Torg 3",
+   "city": "HÄSSELBY",
+   "county": "Stockholms län",
+   "lat": 59.367026,
+   "lon": 17.843196
+  },
+  {
+   "id": "0150",
+   "name": "Kista Galleria",
+   "address": "Kista Galleria",
+   "city": "KISTA",
+   "county": "Stockholms län",
+   "lat": 59.402042,
+   "lon": 17.945594
+  },
+  {
+   "id": "0151",
+   "name": "Bromma Blocks",
+   "address": "Ulvsundavägen  189 A",
+   "city": "BROMMA",
+   "county": "Stockholms län",
+   "lat": 59.356153,
+   "lon": 17.953855
+  },
+  {
+   "id": "0163",
+   "name": "Ringen",
+   "address": "Götgatan 132",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.308862,
+   "lon": 18.076108
+  },
+  {
+   "id": "0165",
+   "name": "Medborgarplatsen",
+   "address": "Folkungagatan 56",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.314265,
+   "lon": 18.075145
+  },
+  {
+   "id": "0167",
+   "name": "Folkungagatan 101",
+   "address": "Folkungagatan 101",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.315646,
+   "lon": 18.084477
+  },
+  {
+   "id": "0168",
+   "name": "Gullmarsplan 4",
+   "address": "Gullmarsplan 4",
+   "city": "JOHANNESHOV",
+   "county": "Stockholms län",
+   "lat": 59.298473,
+   "lon": 18.079061
+  },
+  {
+   "id": "0170",
+   "name": "Globen",
+   "address": "Arenavägen 57",
+   "city": "JOHANNESHOV",
+   "county": "Stockholms län",
+   "lat": 59.293241,
+   "lon": 18.081204
+  },
+  {
+   "id": "0171",
+   "name": "Liljeholmen",
+   "address": "Liljeholmstorget 3",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.309735,
+   "lon": 18.022171
+  },
+  {
+   "id": "0172",
+   "name": "Rosenlundsgatan 7",
+   "address": "Rosenlundsgatan 7",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.316716,
+   "lon": 18.055985
+  },
+  {
+   "id": "0173",
+   "name": "Hammarby Sjöstad",
+   "address": "Lugnets Allé 28",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.302319,
+   "lon": 18.103429
+  },
+  {
+   "id": "0174",
+   "name": "Långholmsgatan 21",
+   "address": "Långholmsgatan 21",
+   "city": "STOCKHOLM",
+   "county": "Stockholms län",
+   "lat": 59.316517,
+   "lon": 18.034119
+  },
+  {
+   "id": "0175",
+   "name": "Älvsjö",
+   "address": "Älvsjö Ängsväg 2",
+   "city": "ÄLVSJÖ",
+   "county": "Stockholms län",
+   "lat": 59.275255,
+   "lon": 18.013441
+  },
+  {
+   "id": "0176",
+   "name": "Västbergavägen 4",
+   "address": "Västbergavägen 4",
+   "city": "Hägersten",
+   "county": "Stockholms län",
+   "lat": 59.294285,
+   "lon": 18.003864
+  },
+  {
+   "id": "0177",
+   "name": "Högdalsgången 19",
+   "address": "Högdalsgången 19",
+   "city": "BANDHAGEN",
+   "county": "Stockholms län",
+   "lat": 59.263833,
+   "lon": 18.040359
+  },
+  {
+   "id": "0178",
+   "name": "Farstaplan 27",
+   "address": "Farstaplan 27",
+   "city": "FARSTA",
+   "county": "Stockholms län",
+   "lat": 59.242948,
+   "lon": 18.091403
+  },
+  {
+   "id": "0179",
+   "name": "Sköndal",
+   "address": "Sköndalsvägen 3",
+   "city": "SKÖNDAL",
+   "county": "Stockholms län",
+   "lat": 59.260394,
+   "lon": 18.103138
+  },
+  {
+   "id": "0180",
+   "name": "Fruängsgången 10",
+   "address": "Fruängsgången 10",
+   "city": "HÄGERSTEN",
+   "county": "Stockholms län",
+   "lat": 59.285673,
+   "lon": 17.964217
+  },
+  {
+   "id": "0182",
+   "name": "Skärholmsplan 1",
+   "address": "Skärholmsplan 1",
+   "city": "SKÄRHOLMEN",
+   "county": "Stockholms län",
+   "lat": 59.276285,
+   "lon": 17.909746
+  },
+  {
+   "id": "0201",
+   "name": "Postgången 28",
+   "address": "Postgången 28",
+   "city": "SOLNA",
+   "county": "Stockholms län",
+   "lat": 59.360394,
+   "lon": 17.999798
+  },
+  {
+   "id": "0202",
+   "name": "Landsvägen 53 B",
+   "address": "Landsvägen 53 B",
+   "city": "SUNDBYBERG",
+   "county": "Stockholms län",
+   "lat": 59.361293,
+   "lon": 17.967857
+  },
+  {
+   "id": "0204",
+   "name": "Söderhamnen 10",
+   "address": "Söderhamnen 10",
+   "city": "VAXHOLM",
+   "county": "Stockholms län",
+   "lat": 59.40161,
+   "lon": 18.352127
+  },
+  {
+   "id": "0205",
+   "name": "Centrumtorget 17C",
+   "address": "Centrumtorget 17C",
+   "city": "HALLSTAVIK",
+   "county": "Stockholms län",
+   "lat": 60.049408,
+   "lon": 18.596546
+  },
+  {
+   "id": "0206",
+   "name": "Tullportsgatan 12",
+   "address": "Tullportsgatan 12",
+   "city": "NORRTÄLJE",
+   "county": "Stockholms län",
+   "lat": 59.757263,
+   "lon": 18.700145
+  },
+  {
+   "id": "0207",
+   "name": "Stora Gatan 56 C",
+   "address": "Stora Gatan 56 C",
+   "city": "SIGTUNA",
+   "county": "Stockholms län",
+   "lat": 59.615493,
+   "lon": 17.719577
+  },
+  {
+   "id": "0208",
+   "name": "Lunagallerian",
+   "address": "Lunagallerian",
+   "city": "SÖDERTÄLJE",
+   "county": "Stockholms län",
+   "lat": 59.196946,
+   "lon": 17.626711
+  },
+  {
+   "id": "0209",
+   "name": "Genetaleden 7",
+   "address": "Genetaleden 7",
+   "city": "SÖDERTÄLJE",
+   "county": "Stockholms län",
+   "lat": 59.187225,
+   "lon": 17.572396
+  },
+  {
+   "id": "0210",
+   "name": "Mörbyvägen 3",
+   "address": "Mörbyvägen 3",
+   "city": "NYNÄSHAMN",
+   "county": "Stockholms län",
+   "lat": 58.903506,
+   "lon": 17.945908
+  },
+  {
+   "id": "0211",
+   "name": "Friggavägen 24",
+   "address": "Friggavägen 24",
+   "city": "LIDINGÖ",
+   "county": "Stockholms län",
+   "lat": 59.366485,
+   "lon": 18.134451
+  },
+  {
+   "id": "0212",
+   "name": "Arninge",
+   "address": "Saluvägen 10",
+   "city": "TÄBY",
+   "county": "Stockholms län",
+   "lat": 59.458986,
+   "lon": 18.13709
+  },
+  {
+   "id": "0213",
+   "name": "Danderyds Centrum",
+   "address": "Golfvägen 6A",
+   "city": "DANDERYD",
+   "county": "Stockholms län",
+   "lat": 59.3971,
+   "lon": 18.036872
+  },
+  {
+   "id": "0214",
+   "name": "Jakobsbergs Centrum",
+   "address": "Banérstråket",
+   "city": "JÄRFÄLLA",
+   "county": "Stockholms län",
+   "lat": 59.423049,
+   "lon": 17.83808
+  },
+  {
+   "id": "0215",
+   "name": "Täby Centrum",
+   "address": "Norra Galleriagången 1024",
+   "city": "TÄBY",
+   "county": "Stockholms län",
+   "lat": 59.444556,
+   "lon": 18.073523
+  },
+  {
+   "id": "0216",
+   "name": "Sollentuna Centrum",
+   "address": "Sollentunavägen 163 C",
+   "city": "SOLLENTUNA",
+   "county": "Stockholms län",
+   "lat": 59.4281,
+   "lon": 17.951514
+  },
+  {
+   "id": "0217",
+   "name": "Sjödalstorget 5",
+   "address": "Sjödalstorget 5",
+   "city": "HUDDINGE",
+   "county": "Stockholms län",
+   "lat": 59.23656,
+   "lon": 17.98267
+  },
+  {
+   "id": "0218",
+   "name": "Nymärsta Kulle 3",
+   "address": "Nymärsta Kulle 3",
+   "city": "MÄRSTA",
+   "county": "Stockholms län",
+   "lat": 59.6212,
+   "lon": 17.857471
+  },
+  {
+   "id": "0219",
+   "name": "Väsby Centrum",
+   "address": "Dragonvägen 86",
+   "city": "UPPLANDS VÄSBY",
+   "county": "Stockholms län",
+   "lat": 59.519229,
+   "lon": 17.911415
+  },
+  {
+   "id": "0220",
+   "name": "Nacka Forum",
+   "address": "Forumvägen 12",
+   "city": "NACKA",
+   "county": "Stockholms län",
+   "lat": 59.310138,
+   "lon": 18.1639
+  },
+  {
+   "id": "0221",
+   "name": "Marknadsgränd 29",
+   "address": "Marknadsgränd 29",
+   "city": "TYRESÖ",
+   "county": "Stockholms län",
+   "lat": 59.243458,
+   "lon": 18.230902
+  },
+  {
+   "id": "0222",
+   "name": "Haninge Centrum",
+   "address": "Drakslingan 12",
+   "city": "HANDEN",
+   "county": "Stockholms län",
+   "lat": 59.170344,
+   "lon": 18.139923
+  },
+  {
+   "id": "0223",
+   "name": "Gustavsberg Centrum",
+   "address": "Centrum",
+   "city": "GUSTAVSBERG",
+   "county": "Stockholms län",
+   "lat": 59.326882,
+   "lon": 18.391826
+  },
+  {
+   "id": "0224",
+   "name": "Torggatan 19",
+   "address": "Torggatan 19",
+   "city": "SALTSJÖBADEN",
+   "county": "Stockholms län",
+   "lat": 59.284747,
+   "lon": 18.275524
+  },
+  {
+   "id": "0225",
+   "name": "Tumba Torg 8",
+   "address": "Tumba Torg 8",
+   "city": "TUMBA",
+   "county": "Stockholms län",
+   "lat": 59.198739,
+   "lon": 17.833183
+  },
+  {
+   "id": "0226",
+   "name": "Botkyrka",
+   "address": "Kumla Gårdsväg 30 A",
+   "city": "NORSBORG",
+   "county": "Stockholms län",
+   "lat": 59.23782,
+   "lon": 17.83212
+  },
+  {
+   "id": "0227",
+   "name": "Skogås Centrum",
+   "address": "Skogåsplan 9 bv",
+   "city": "SKOGÅS",
+   "county": "Stockholms län",
+   "lat": 59.217833,
+   "lon": 18.153316
+  },
+  {
+   "id": "0228",
+   "name": "Storängstorget 4",
+   "address": "Storängstorget 4",
+   "city": "ÅKERSBERGA",
+   "county": "Stockholms län",
+   "lat": 59.479681,
+   "lon": 18.300291
+  },
+  {
+   "id": "0229",
+   "name": "Tuna Torg 19",
+   "address": "Tuna Torg 19",
+   "city": "VALLENTUNA",
+   "county": "Stockholms län",
+   "lat": 59.535475,
+   "lon": 18.078756
+  },
+  {
+   "id": "0230",
+   "name": "Orminge Centrum",
+   "address": "Ormingeplan 3",
+   "city": "SALTSJÖ-BOO",
+   "county": "Stockholms län",
+   "lat": 59.326453,
+   "lon": 18.256882
+  },
+  {
+   "id": "0231",
+   "name": "Ekerö Centrum",
+   "address": "Ångbåtsvägen 4",
+   "city": "EKERÖ",
+   "county": "Stockholms län",
+   "lat": 59.290829,
+   "lon": 17.811873
+  },
+  {
+   "id": "0232",
+   "name": "Kungens Kurva",
+   "address": "Tangentvägen 2",
+   "city": "KUNGENS KURVA",
+   "county": "Stockholms län",
+   "lat": 59.27069,
+   "lon": 17.92201
+  },
+  {
+   "id": "0234",
+   "name": "Salem Centrum",
+   "address": "Säby Torg 5",
+   "city": "RÖNNINGE",
+   "county": "Stockholms län",
+   "lat": 59.201589,
+   "lon": 17.766793
+  },
+  {
+   "id": "0235",
+   "name": "Kyrkvägen 4 A",
+   "address": "Kyrkvägen 4 A",
+   "city": "KUNGSÄNGEN",
+   "county": "Stockholms län",
+   "lat": 59.47955,
+   "lon": 17.750651
+  },
+  {
+   "id": "0236",
+   "name": "Köpmannagatan 2",
+   "address": "Köpmannagatan 2",
+   "city": "RIMBO",
+   "county": "Stockholms län",
+   "lat": 59.743639,
+   "lon": 18.366689
+  },
+  {
+   "id": "0237",
+   "name": "Sickla",
+   "address": "Siroccogatan 7",
+   "city": "NACKA",
+   "county": "Stockholms län",
+   "lat": 59.304555,
+   "lon": 18.130762
+  },
+  {
+   "id": "0238",
+   "name": "Mölnvik",
+   "address": "Fenix Väg 4",
+   "city": "GUSTAVSBERG",
+   "county": "Stockholms län",
+   "lat": 59.313384,
+   "lon": 18.428544
+  },
+  {
+   "id": "0239",
+   "name": "Västerhaninge centrum",
+   "address": "Kyrkvägen 2",
+   "city": "VÄSTERHANINGE",
+   "county": "Stockholms län",
+   "lat": 59.122746,
+   "lon": 18.106814
+  },
+  {
+   "id": "0240",
+   "name": "Rotebro",
+   "address": "Konsumentvägen 1",
+   "city": "SOLLENTUNA",
+   "county": "Stockholms län",
+   "lat": 59.470731,
+   "lon": 17.914778
+  },
+  {
+   "id": "0241",
+   "name": "Viksjö Centrum",
+   "address": "Viksjö Centrum",
+   "city": "JÄRFÄLLA",
+   "county": "Stockholms län",
+   "lat": 59.411475,
+   "lon": 17.802659
+  },
+  {
+   "id": "0242",
+   "name": "Centrumvägen 8 C",
+   "address": "Centrumvägen 8 C",
+   "city": "NYKVARN",
+   "county": "Stockholms län",
+   "lat": 59.178266,
+   "lon": 17.430472
+  },
+  {
+   "id": "0243",
+   "name": "Barkarby",
+   "address": "Majorsvägen 2 D",
+   "city": "JÄRFÄLLA",
+   "county": "Stockholms län",
+   "lat": 59.414531,
+   "lon": 17.862344
+  },
+  {
+   "id": "0244",
+   "name": "Mall of Scandinavia",
+   "address": "Råsta Strandväg 13C",
+   "city": "Solna",
+   "county": "Stockholms län",
+   "lat": 59.370048,
+   "lon": 18.005027
+  },
+  {
+   "id": "0245",
+   "name": "Haninge Söderby",
+   "address": "Österport 2",
+   "city": "HANINGE",
+   "county": "Stockholms län",
+   "lat": 59.18127,
+   "lon": 18.1586
+  },
+  {
+   "id": "0246",
+   "name": "Häggvik",
+   "address": "Norra Malmvägen 82A",
+   "city": "SOLLENTUNA",
+   "county": "Stockholms län",
+   "lat": 59.440667,
+   "lon": 17.932883
+  },
+  {
+   "id": "0247",
+   "name": "Sundbypark",
+   "address": "Östra Madenvägen 10 A",
+   "city": "Sundbyberg",
+   "county": "Stockholms län",
+   "lat": 59.378841,
+   "lon": 17.966528
+  },
+  {
+   "id": "0248",
+   "name": "Weda Södertälje",
+   "address": "Wedavägen 10B",
+   "city": "SÖDERTÄLJE",
+   "county": "Stockholms län",
+   "lat": 59.206032,
+   "lon": 17.644138
+  },
+  {
+   "id": "0301",
+   "name": "Gottsunda centrum",
+   "address": "Valthornsvägen 7",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.810098,
+   "lon": 17.630003
+  },
+  {
+   "id": "0302",
+   "name": "Dragarbrunnsgatan 48 A",
+   "address": "Dragarbrunnsgatan 48 A",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.858394,
+   "lon": 17.641956
+  },
+  {
+   "id": "0303",
+   "name": "Stenhagen",
+   "address": "Fyrisparksvägen 1",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.84922,
+   "lon": 17.55909
+  },
+  {
+   "id": "0305",
+   "name": "Gränbystaden",
+   "address": "Marknadsgatan 1",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.877173,
+   "lon": 17.674879
+  },
+  {
+   "id": "0306",
+   "name": "Centrumstråket 2",
+   "address": "Centrumstråket 2",
+   "city": "BÅLSTA",
+   "county": "Uppsala län",
+   "lat": 59.567085,
+   "lon": 17.530133
+  },
+  {
+   "id": "0307",
+   "name": "Östra Ringgatan 21",
+   "address": "Östra Ringgatan 21",
+   "city": "ENKÖPING",
+   "county": "Uppsala län",
+   "lat": 59.632999,
+   "lon": 17.081794
+  },
+  {
+   "id": "0308",
+   "name": "Centralgatan 14",
+   "address": "Centralgatan 14",
+   "city": "TIERP",
+   "county": "Uppsala län",
+   "lat": 60.343978,
+   "lon": 17.514448
+  },
+  {
+   "id": "0309",
+   "name": "Rådhusgatan 10",
+   "address": "Rådhusgatan 10",
+   "city": "ÖREGRUND",
+   "county": "Uppsala län",
+   "lat": 60.339012,
+   "lon": 18.43998
+  },
+  {
+   "id": "0310",
+   "name": "Östra Vägen 49",
+   "address": "Östra Vägen 49",
+   "city": "SKUTSKÄR",
+   "county": "Uppsala län",
+   "lat": 60.629398,
+   "lon": 17.413788
+  },
+  {
+   "id": "0311",
+   "name": "Kvarnen",
+   "address": "Vaksalagatan 30",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.862226,
+   "lon": 17.646433
+  },
+  {
+   "id": "0312",
+   "name": "Boländerna",
+   "address": "Stångjärnsgatan 10",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.847476,
+   "lon": 17.687243
+  },
+  {
+   "id": "0313",
+   "name": "Centralvägen 12",
+   "address": "Centralvägen 12",
+   "city": "KNIVSTA",
+   "county": "Uppsala län",
+   "lat": 59.7266,
+   "lon": 17.7904
+  },
+  {
+   "id": "0314",
+   "name": "Rosendal",
+   "address": "Torgny Segerstedts Allé 35A",
+   "city": "UPPSALA",
+   "county": "Uppsala län",
+   "lat": 59.832905,
+   "lon": 17.633749
+  },
+  {
+   "id": "0401",
+   "name": "Nyköping City",
+   "address": "Västra Storgatan 13",
+   "city": "NYKÖPING",
+   "county": "Södermanlands län",
+   "lat": 58.751975,
+   "lon": 17.00366
+  },
+  {
+   "id": "0402",
+   "name": "Östra Långgatan 35",
+   "address": "Östra Långgatan 35",
+   "city": "TROSA",
+   "county": "Södermanlands län",
+   "lat": 58.896642,
+   "lon": 17.547808
+  },
+  {
+   "id": "0403",
+   "name": "Kungsgatan 12",
+   "address": "Kungsgatan 12",
+   "city": "ESKILSTUNA",
+   "county": "Södermanlands län",
+   "lat": 59.370227,
+   "lon": 16.515548
+  },
+  {
+   "id": "0404",
+   "name": "Tuna park",
+   "address": "Gunborgs Nymans väg 2",
+   "city": "ESKILSTUNA",
+   "county": "Södermanlands län",
+   "lat": 59.371712,
+   "lon": 16.470387
+  },
+  {
+   "id": "0405",
+   "name": "Levins Gränd 1",
+   "address": "Levins Gränd 1",
+   "city": "TORSHÄLLA",
+   "county": "Södermanlands län",
+   "lat": 59.420167,
+   "lon": 16.476437
+  },
+  {
+   "id": "0406",
+   "name": "Köpmangatan 9",
+   "address": "Köpmangatan 9",
+   "city": "KATRINEHOLM",
+   "county": "Södermanlands län",
+   "lat": 58.995849,
+   "lon": 16.207899
+  },
+  {
+   "id": "0407",
+   "name": "Trädgårdsgatan 12",
+   "address": "Trädgårdsgatan 12",
+   "city": "STRÄNGNÄS",
+   "county": "Södermanlands län",
+   "lat": 59.376563,
+   "lon": 17.026023
+  },
+  {
+   "id": "0408",
+   "name": "Storgatan 17-19",
+   "address": "Storgatan 17-19",
+   "city": "MARIEFRED",
+   "county": "Södermanlands län",
+   "lat": 59.259138,
+   "lon": 17.220277
+  },
+  {
+   "id": "0409",
+   "name": "Landsvägsgatan 26",
+   "address": "Landsvägsgatan 26",
+   "city": "MALMKÖPING",
+   "county": "Södermanlands län",
+   "lat": 59.13198,
+   "lon": 16.73037
+  },
+  {
+   "id": "0410",
+   "name": "Götgatan 1",
+   "address": "Götgatan 1",
+   "city": "FLEN",
+   "county": "Södermanlands län",
+   "lat": 59.058495,
+   "lon": 16.589343
+  },
+  {
+   "id": "0411",
+   "name": "Järntorget 3",
+   "address": "Järntorget 3",
+   "city": "OXELÖSUND",
+   "county": "Södermanlands län",
+   "lat": 58.67,
+   "lon": 17.10357
+  },
+  {
+   "id": "0412",
+   "name": "Storgatan 18-20",
+   "address": "Storgatan 18-20",
+   "city": "VINGÅKER",
+   "county": "Södermanlands län",
+   "lat": 59.045045,
+   "lon": 15.872492
+  },
+  {
+   "id": "0413",
+   "name": "Västra Storgatan 16 A",
+   "address": "Västra Storgatan 16 A",
+   "city": "GNESTA",
+   "county": "Södermanlands län",
+   "lat": 59.048813,
+   "lon": 17.306911
+  },
+  {
+   "id": "0414",
+   "name": "Gustafsberg",
+   "address": "Gustafsbergsstigen 4",
+   "city": "NYKÖPING",
+   "county": "Södermanlands län",
+   "lat": 58.770566,
+   "lon": 17.025115
+  },
+  {
+   "id": "0415",
+   "name": "Skiftinge",
+   "address": "Karl Hovbergsgatan 32",
+   "city": "ESKILSTUNA",
+   "county": "Södermanlands län",
+   "lat": 59.388209,
+   "lon": 16.534487
+  },
+  {
+   "id": "0501",
+   "name": "Ekholmens Centrum 2",
+   "address": "Ekholmens Centrum 2",
+   "city": "LINKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.380076,
+   "lon": 15.680142
+  },
+  {
+   "id": "0504",
+   "name": "Tornby",
+   "address": "Norra Svedengatan 9",
+   "city": "LINKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.4352,
+   "lon": 15.5891
+  },
+  {
+   "id": "0505",
+   "name": "Gyllentorget",
+   "address": "Repslagaregatan 25-27",
+   "city": "LINKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.410525,
+   "lon": 15.627167
+  },
+  {
+   "id": "0506",
+   "name": "Adelswärdsgatan 4 C",
+   "address": "Adelswärdsgatan 4 C",
+   "city": "ÅTVIDABERG",
+   "county": "Östergötlands län",
+   "lat": 58.201848,
+   "lon": 15.998661
+  },
+  {
+   "id": "0507",
+   "name": "Jerikodalsgatan 1-3",
+   "address": "Jerikodalsgatan 1-3",
+   "city": "MJÖLBY",
+   "county": "Östergötlands län",
+   "lat": 58.325982,
+   "lon": 15.124944
+  },
+  {
+   "id": "0509",
+   "name": "Hovsgatan 4",
+   "address": "Hovsgatan 4",
+   "city": "VADSTENA",
+   "county": "Östergötlands län",
+   "lat": 58.447178,
+   "lon": 14.889065
+  },
+  {
+   "id": "0510",
+   "name": "Kungsgatan 20",
+   "address": "Kungsgatan 20",
+   "city": "MOTALA",
+   "county": "Östergötlands län",
+   "lat": 58.537303,
+   "lon": 15.034132
+  },
+  {
+   "id": "0511",
+   "name": "Ingelsta Handelscentrum",
+   "address": "Kromgatan 1",
+   "city": "Norrköping",
+   "county": "Östergötlands län",
+   "lat": 58.612371,
+   "lon": 16.16299
+  },
+  {
+   "id": "0513",
+   "name": "Hantverkaregatan 26",
+   "address": "Hantverkaregatan 26",
+   "city": "NORRKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.587259,
+   "lon": 16.190811
+  },
+  {
+   "id": "0516",
+   "name": "Mirum Galleria",
+   "address": "Mirum Galleria",
+   "city": "NORRKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.572684,
+   "lon": 16.208586
+  },
+  {
+   "id": "0517",
+   "name": "Ingelsta-Norrköping",
+   "address": "Blygatan 27",
+   "city": "NORRKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.615984,
+   "lon": 16.16165
+  },
+  {
+   "id": "0518",
+   "name": "Rådhustorget 2",
+   "address": "Rådhustorget 2",
+   "city": "SÖDERKÖPING",
+   "county": "Östergötlands län",
+   "lat": 58.481836,
+   "lon": 16.319861
+  },
+  {
+   "id": "0519",
+   "name": "Centralplan",
+   "address": "Centralplan",
+   "city": "VALDEMARSVIK",
+   "county": "Östergötlands län",
+   "lat": 58.20289,
+   "lon": 16.603448
+  },
+  {
+   "id": "0520",
+   "name": "Bergslagsvägen 9",
+   "address": "Bergslagsvägen 9",
+   "city": "FINSPÅNG",
+   "county": "Östergötlands län",
+   "lat": 58.707123,
+   "lon": 15.775018
+  },
+  {
+   "id": "0521",
+   "name": "Torggatan 3",
+   "address": "Torggatan 3",
+   "city": "KISA",
+   "county": "Östergötlands län",
+   "lat": 57.988487,
+   "lon": 15.632609
+  },
+  {
+   "id": "0522",
+   "name": "Stora Torget 1B",
+   "address": "Stora Torget 1B",
+   "city": "ÖDESHÖG",
+   "county": "Östergötlands län",
+   "lat": 58.229106,
+   "lon": 14.652761
+  },
+  {
+   "id": "0523",
+   "name": "Österbymo",
+   "address": "Hagagatan 1A",
+   "city": "Ydre",
+   "county": "Östergötlands län",
+   "lat": 57.824446,
+   "lon": 15.276603
+  },
+  {
+   "id": "0524",
+   "name": "Postgatan 5 C",
+   "address": "Postgatan 5 C",
+   "city": "BOXHOLM",
+   "county": "Östergötlands län",
+   "lat": 58.196769,
+   "lon": 15.05546
+  },
+  {
+   "id": "0525",
+   "name": "Djurgården",
+   "address": "Åsmestadsgatan 6",
+   "city": "Linköping",
+   "county": "Östergötlands län",
+   "lat": 58.386223,
+   "lon": 15.588796
+  },
+  {
+   "id": "0601",
+   "name": "Asecs",
+   "address": "Bataljonsgatan 5",
+   "city": "JÖNKÖPING",
+   "county": "Jönköpings län",
+   "lat": 57.773205,
+   "lon": 14.206015
+  },
+  {
+   "id": "0602",
+   "name": "Atollen",
+   "address": "Fiskargränd 5",
+   "city": "JÖNKÖPING",
+   "county": "Jönköpings län",
+   "lat": 57.78051,
+   "lon": 14.17185
+  },
+  {
+   "id": "0604",
+   "name": "Jönköpingsvägen 7 B",
+   "address": "Jönköpingsvägen 7 B",
+   "city": "HABO",
+   "county": "Jönköpings län",
+   "lat": 57.90856,
+   "lon": 14.074682
+  },
+  {
+   "id": "0605",
+   "name": "Flanaden 5B",
+   "address": "Flanaden 5B",
+   "city": "VÄRNAMO",
+   "county": "Jönköpings län",
+   "lat": 57.184019,
+   "lon": 14.040694
+  },
+  {
+   "id": "0606",
+   "name": "Rosenborgsgatan 33",
+   "address": "Rosenborgsgatan 33",
+   "city": "HUSKVARNA",
+   "county": "Jönköpings län",
+   "lat": 57.789501,
+   "lon": 14.274498
+  },
+  {
+   "id": "0607",
+   "name": "Storgatan 34",
+   "address": "Storgatan 34",
+   "city": "NÄSSJÖ",
+   "county": "Jönköpings län",
+   "lat": 57.653787,
+   "lon": 14.695047
+  },
+  {
+   "id": "0608",
+   "name": "Biblioteksgatan 8",
+   "address": "Biblioteksgatan 8",
+   "city": "VETLANDA",
+   "county": "Jönköpings län",
+   "lat": 57.425205,
+   "lon": 15.085239
+  },
+  {
+   "id": "0609",
+   "name": "Södra Storgatan 4 C",
+   "address": "Södra Storgatan 4 C",
+   "city": "EKSJÖ",
+   "county": "Jönköpings län",
+   "lat": 57.66509,
+   "lon": 14.972932
+  },
+  {
+   "id": "0610",
+   "name": "Storgatan 23",
+   "address": "Storgatan 23",
+   "city": "TRANÅS",
+   "county": "Jönköpings län",
+   "lat": 58.034003,
+   "lon": 14.974371
+  },
+  {
+   "id": "0611",
+   "name": "Köpmangatan 4",
+   "address": "Köpmangatan 4",
+   "city": "GISLAVED",
+   "county": "Jönköpings län",
+   "lat": 57.302179,
+   "lon": 13.539527
+  },
+  {
+   "id": "0612",
+   "name": "Storgatan 5",
+   "address": "Storgatan 5",
+   "city": "SÄVSJÖ",
+   "county": "Jönköpings län",
+   "lat": 57.401003,
+   "lon": 14.666661
+  },
+  {
+   "id": "0613",
+   "name": "Köpmansgatan 6",
+   "address": "Köpmansgatan 6",
+   "city": "ANEBY",
+   "county": "Jönköpings län",
+   "lat": 57.83871,
+   "lon": 14.815116
+  },
+  {
+   "id": "0615",
+   "name": "Köpmansgatan 2",
+   "address": "Köpmansgatan 2",
+   "city": "GNOSJÖ",
+   "county": "Jönköpings län",
+   "lat": 57.359098,
+   "lon": 13.732368
+  },
+  {
+   "id": "0616",
+   "name": "Järnvägsgatan 29",
+   "address": "Järnvägsgatan 29",
+   "city": "MULLSJÖ",
+   "county": "Jönköpings län",
+   "lat": 57.915402,
+   "lon": 13.883684
+  },
+  {
+   "id": "0618",
+   "name": "Centralplan 1",
+   "address": "Centralplan 1",
+   "city": "SKILLINGARYD",
+   "county": "Jönköpings län",
+   "lat": 57.428116,
+   "lon": 14.092239
+  },
+  {
+   "id": "0619",
+   "name": "Ribbagårdsgränd 2",
+   "address": "Ribbagårdsgränd 2",
+   "city": "GRÄNNA",
+   "county": "Jönköpings län",
+   "lat": 58.022662,
+   "lon": 14.466792
+  },
+  {
+   "id": "0701",
+   "name": "Affärshuset Tegner",
+   "address": "Storgatan 40",
+   "city": "VÄXJÖ",
+   "county": "Kronobergs län",
+   "lat": 56.880011,
+   "lon": 14.799826
+  },
+  {
+   "id": "0702",
+   "name": "Eskilsgatan 7",
+   "address": "Eskilsgatan 7",
+   "city": "LJUNGBY",
+   "county": "Kronobergs län",
+   "lat": 56.83454,
+   "lon": 13.940841
+  },
+  {
+   "id": "0703",
+   "name": "Norra Esplanaden 6",
+   "address": "Norra Esplanaden 6",
+   "city": "ÄLMHULT",
+   "county": "Kronobergs län",
+   "lat": 56.552286,
+   "lon": 14.140834
+  },
+  {
+   "id": "0704",
+   "name": "Storgatan 14",
+   "address": "Storgatan 14",
+   "city": "ALVESTA",
+   "county": "Kronobergs län",
+   "lat": 56.899541,
+   "lon": 14.555948
+  },
+  {
+   "id": "0705",
+   "name": "Drottninggatan 32",
+   "address": "Drottninggatan 32",
+   "city": "MARKARYD",
+   "county": "Kronobergs län",
+   "lat": 56.463756,
+   "lon": 13.597762
+  },
+  {
+   "id": "0706",
+   "name": "Storgatan 74",
+   "address": "Storgatan 74",
+   "city": "TINGSRYD",
+   "county": "Kronobergs län",
+   "lat": 56.524258,
+   "lon": 14.979568
+  },
+  {
+   "id": "0707",
+   "name": "Samarkand",
+   "address": "Hejaregatan 22",
+   "city": "VÄXJÖ",
+   "county": "Kronobergs län",
+   "lat": 56.884955,
+   "lon": 14.763309
+  },
+  {
+   "id": "0708",
+   "name": "Olofsgatan 10",
+   "address": "Olofsgatan 10",
+   "city": "ÅSEDA",
+   "county": "Kronobergs län",
+   "lat": 57.171789,
+   "lon": 15.344516
+  },
+  {
+   "id": "0709",
+   "name": "Storgatan 71",
+   "address": "Storgatan 71",
+   "city": "LESSEBO",
+   "county": "Kronobergs län",
+   "lat": 56.751479,
+   "lon": 15.270357
+  },
+  {
+   "id": "0710",
+   "name": "Norremark",
+   "address": "Deltavägen 4",
+   "city": "VÄXJÖ",
+   "county": "Kronobergs län",
+   "lat": 56.90287,
+   "lon": 14.8316
+  },
+  {
+   "id": "0801",
+   "name": "Giraffen",
+   "address": "Verkstadsgatan 6 D",
+   "city": "KALMAR",
+   "county": "Kalmar län",
+   "lat": 56.670375,
+   "lon": 16.336288
+  },
+  {
+   "id": "0802",
+   "name": "Norra Långgatan 23-25",
+   "address": "Norra Långgatan 23-25",
+   "city": "KALMAR",
+   "county": "Kalmar län",
+   "lat": 56.664258,
+   "lon": 16.363422
+  },
+  {
+   "id": "0804",
+   "name": "Löttorpsvägen 39",
+   "address": "Löttorpsvägen 39",
+   "city": "LÖTTORP",
+   "county": "Kalmar län",
+   "lat": 57.164925,
+   "lon": 16.999382
+  },
+  {
+   "id": "0805",
+   "name": "Östra Kyrkogatan 19",
+   "address": "Östra Kyrkogatan 19",
+   "city": "BORGHOLM",
+   "county": "Kalmar län",
+   "lat": 56.878595,
+   "lon": 16.656264
+  },
+  {
+   "id": "0806",
+   "name": "Ölands Köpstad",
+   "address": "Ölands Köpstad",
+   "city": "FÄRJESTADEN",
+   "county": "Kalmar län",
+   "lat": 56.652312,
+   "lon": 16.47094
+  },
+  {
+   "id": "0807",
+   "name": "Åsevadsgatan 3",
+   "address": "Åsevadsgatan 3",
+   "city": "MÖNSTERÅS",
+   "county": "Kalmar län",
+   "lat": 57.041865,
+   "lon": 16.443061
+  },
+  {
+   "id": "0808",
+   "name": "Postmästaregatan 16",
+   "address": "Postmästaregatan 16",
+   "city": "OSKARSHAMN",
+   "county": "Kalmar län",
+   "lat": 57.264454,
+   "lon": 16.445455
+  },
+  {
+   "id": "0809",
+   "name": "Västra Kyrkogatan 34",
+   "address": "Västra Kyrkogatan 34",
+   "city": "VÄSTERVIK",
+   "county": "Kalmar län",
+   "lat": 57.7574,
+   "lon": 16.6344
+  },
+  {
+   "id": "0810",
+   "name": "Sevedegatan 25 B",
+   "address": "Sevedegatan 25 B",
+   "city": "VIMMERBY",
+   "county": "Kalmar län",
+   "lat": 57.666605,
+   "lon": 15.852257
+  },
+  {
+   "id": "0811",
+   "name": "Bangatan 9",
+   "address": "Bangatan 9",
+   "city": "NYBRO",
+   "county": "Kalmar län",
+   "lat": 56.743642,
+   "lon": 15.900757
+  },
+  {
+   "id": "0812",
+   "name": "Bryggerigatan 3",
+   "address": "Bryggerigatan 3",
+   "city": "HULTSFRED",
+   "county": "Kalmar län",
+   "lat": 57.487662,
+   "lon": 15.841955
+  },
+  {
+   "id": "0813",
+   "name": "Hantverkaregatan 7",
+   "address": "Hantverkaregatan 7",
+   "city": "EMMABODA",
+   "county": "Kalmar län",
+   "lat": 56.630768,
+   "lon": 15.538752
+  },
+  {
+   "id": "0814",
+   "name": "Allfargatan 9",
+   "address": "Allfargatan 9",
+   "city": "TORSÅS",
+   "county": "Kalmar län",
+   "lat": 56.412054,
+   "lon": 16.001962
+  },
+  {
+   "id": "0815",
+   "name": "Posttorget",
+   "address": "Storgatan 7",
+   "city": "HÖGSBY",
+   "county": "Kalmar län",
+   "lat": 57.166151,
+   "lon": 16.025157
+  },
+  {
+   "id": "0816",
+   "name": "Bondevägen 4",
+   "address": "Bondevägen 4",
+   "city": "GAMLEBY",
+   "county": "Kalmar län",
+   "lat": 57.898324,
+   "lon": 16.399583
+  },
+  {
+   "id": "0902",
+   "name": "Österväg 3 C",
+   "address": "Österväg 3 C",
+   "city": "VISBY",
+   "county": "Gotlands län",
+   "lat": 57.637959,
+   "lon": 18.300035
+  },
+  {
+   "id": "0903",
+   "name": "Storgatan 61",
+   "address": "Storgatan 61",
+   "city": "HEMSE",
+   "county": "Gotlands län",
+   "lat": 57.240212,
+   "lon": 18.377006
+  },
+  {
+   "id": "0904",
+   "name": "Tullhagsplan 2 B",
+   "address": "Tullhagsplan 2 B",
+   "city": "SLITE",
+   "county": "Gotlands län",
+   "lat": 57.703863,
+   "lon": 18.801972
+  },
+  {
+   "id": "1001",
+   "name": "Wachtmeister",
+   "address": "Arklimästaregatan 46",
+   "city": "KARLSKRONA",
+   "county": "Blekinge län",
+   "lat": 56.161204,
+   "lon": 15.582519
+  },
+  {
+   "id": "1002",
+   "name": "Amiralen",
+   "address": "Verkövägen 9",
+   "city": "LYCKEBY",
+   "county": "Blekinge län",
+   "lat": 56.196458,
+   "lon": 15.642132
+  },
+  {
+   "id": "1003",
+   "name": "Strandgatan 4",
+   "address": "Strandgatan 4",
+   "city": "RONNEBY",
+   "county": "Blekinge län",
+   "lat": 56.211289,
+   "lon": 15.271964
+  },
+  {
+   "id": "1004",
+   "name": "Drottninggatan 71 B",
+   "address": "Drottninggatan 71 B",
+   "city": "KARLSHAMN",
+   "county": "Blekinge län",
+   "lat": 56.172484,
+   "lon": 14.860228
+  },
+  {
+   "id": "1005",
+   "name": "Järnvägsgatan 5",
+   "address": "Järnvägsgatan 5",
+   "city": "SÖLVESBORG",
+   "county": "Blekinge län",
+   "lat": 56.049294,
+   "lon": 14.582233
+  },
+  {
+   "id": "1006",
+   "name": "Östra Storgatan 34",
+   "address": "Östra Storgatan 34",
+   "city": "OLOFSTRÖM",
+   "county": "Blekinge län",
+   "lat": 56.27762,
+   "lon": 14.53026
+  },
+  {
+   "id": "1101",
+   "name": "Östra Boulevarden 3",
+   "address": "Östra Boulevarden 3",
+   "city": "KRISTIANSTAD",
+   "county": "Skåne län",
+   "lat": 56.031108,
+   "lon": 14.158396
+  },
+  {
+   "id": "1103",
+   "name": "Vallgatan 30",
+   "address": "Vallgatan 30",
+   "city": "ÅHUS",
+   "county": "Skåne län",
+   "lat": 55.928309,
+   "lon": 14.295376
+  },
+  {
+   "id": "1104",
+   "name": "Stora Rådmansgatan 5",
+   "address": "Stora Rådmansgatan 5",
+   "city": "SIMRISHAMN",
+   "county": "Skåne län",
+   "lat": 55.557154,
+   "lon": 14.348186
+  },
+  {
+   "id": "1105",
+   "name": "Centralgatan 4",
+   "address": "Centralgatan 4",
+   "city": "TOMELILLA",
+   "county": "Skåne län",
+   "lat": 55.543626,
+   "lon": 13.953293
+  },
+  {
+   "id": "1106",
+   "name": "Borggårdsgatan 1",
+   "address": "Borggårdsgatan 1",
+   "city": "HÄSSLEHOLM",
+   "county": "Skåne län",
+   "lat": 56.154604,
+   "lon": 13.759105
+  },
+  {
+   "id": "1107",
+   "name": "Storgatan 47 b",
+   "address": "Storgatan 47 b",
+   "city": "ÄNGELHOLM",
+   "county": "Skåne län",
+   "lat": 56.245325,
+   "lon": 12.863125
+  },
+  {
+   "id": "1108",
+   "name": "Köpmansgatan 72 D",
+   "address": "Köpmansgatan 72 D",
+   "city": "BÅSTAD",
+   "county": "Skåne län",
+   "lat": 56.426964,
+   "lon": 12.84798
+  },
+  {
+   "id": "1109",
+   "name": "Storgatan 23",
+   "address": "Storgatan 23",
+   "city": "KLIPPAN",
+   "county": "Skåne län",
+   "lat": 56.135286,
+   "lon": 13.130769
+  },
+  {
+   "id": "1110",
+   "name": "Köpmangatan 14F",
+   "address": "Köpmangatan 14F",
+   "city": "PERSTORP",
+   "county": "Skåne län",
+   "lat": 56.138611,
+   "lon": 13.394045
+  },
+  {
+   "id": "1111",
+   "name": "Västra Järnvägsgatan 18",
+   "address": "Västra Järnvägsgatan 18",
+   "city": "OSBY",
+   "county": "Skåne län",
+   "lat": 56.382012,
+   "lon": 13.99474
+  },
+  {
+   "id": "1112",
+   "name": "Torggatan 15",
+   "address": "Torggatan 15",
+   "city": "ÅSTORP",
+   "county": "Skåne län",
+   "lat": 56.134444,
+   "lon": 12.946866
+  },
+  {
+   "id": "1113",
+   "name": "Terrassen 1 B",
+   "address": "Terrassen 1 B",
+   "city": "ÖRKELLJUNGA",
+   "county": "Skåne län",
+   "lat": 56.283491,
+   "lon": 13.279181
+  },
+  {
+   "id": "1114",
+   "name": "Storgatan 35",
+   "address": "Storgatan 35",
+   "city": "BROMÖLLA",
+   "county": "Skåne län",
+   "lat": 56.074263,
+   "lon": 14.466674
+  },
+  {
+   "id": "1115",
+   "name": "Östra Järnvägsgatan 7",
+   "address": "Östra Järnvägsgatan 7",
+   "city": "BROBY",
+   "county": "Skåne län",
+   "lat": 56.254293,
+   "lon": 14.07616
+  },
+  {
+   "id": "1202",
+   "name": "Jägersro Center",
+   "address": "Jägersrovägen 151",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.569783,
+   "lon": 13.057441
+  },
+  {
+   "id": "1203",
+   "name": "Entré",
+   "address": "Fredsgatan 14 B",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.607672,
+   "lon": 13.024729
+  },
+  {
+   "id": "1206",
+   "name": "Mobilia",
+   "address": "Stadiongatan 3D",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.579509,
+   "lon": 13.004299
+  },
+  {
+   "id": "1207",
+   "name": "Södra Förstadsgatan 50",
+   "address": "Södra Förstadsgatan 50",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.596158,
+   "lon": 13.0028
+  },
+  {
+   "id": "1208",
+   "name": "Hansa",
+   "address": "Malmborgsgatan 6",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.602836,
+   "lon": 13.003672
+  },
+  {
+   "id": "1209",
+   "name": "Kronprinsen",
+   "address": "Regementsgatan 52",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.598361,
+   "lon": 12.985018
+  },
+  {
+   "id": "1211",
+   "name": "Limhamn",
+   "address": "Linnégatan 47",
+   "city": "LIMHAMN",
+   "county": "Skåne län",
+   "lat": 55.581505,
+   "lon": 12.934283
+  },
+  {
+   "id": "1213",
+   "name": "Västra Hamnen",
+   "address": "Masttorget 2",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.611417,
+   "lon": 12.980498
+  },
+  {
+   "id": "1214",
+   "name": "Emporia",
+   "address": "Hyllie Stationsväg 18",
+   "city": "MALMÖ",
+   "county": "Skåne län",
+   "lat": 55.564531,
+   "lon": 12.972359
+  },
+  {
+   "id": "1219",
+   "name": "Seglaregatan 6",
+   "address": "Seglaregatan 6",
+   "city": "LOMMA",
+   "county": "Skåne län",
+   "lat": 55.673181,
+   "lon": 13.06916
+  },
+  {
+   "id": "1220",
+   "name": "Kristers Väg 3",
+   "address": "Kristers Väg 3",
+   "city": "DALBY",
+   "county": "Skåne län",
+   "lat": 55.664248,
+   "lon": 13.348709
+  },
+  {
+   "id": "1221",
+   "name": "Burlövs Centrum",
+   "address": "Burlövs Centrum",
+   "city": "ARLÖV",
+   "county": "Skåne län",
+   "lat": 55.640639,
+   "lon": 13.085398
+  },
+  {
+   "id": "1222",
+   "name": "Stora Torggatan 8",
+   "address": "Stora Torggatan 8",
+   "city": "SKURUP",
+   "county": "Skåne län",
+   "lat": 55.478827,
+   "lon": 13.500932
+  },
+  {
+   "id": "1224",
+   "name": "Storgatan 15",
+   "address": "Storgatan 15",
+   "city": "SVEDALA",
+   "county": "Skåne län",
+   "lat": 55.508657,
+   "lon": 13.236299
+  },
+  {
+   "id": "1225",
+   "name": "Algatan 16",
+   "address": "Algatan 16",
+   "city": "TRELLEBORG",
+   "county": "Skåne län",
+   "lat": 55.373955,
+   "lon": 13.158302
+  },
+  {
+   "id": "1226",
+   "name": "Järnvägsgatan 2",
+   "address": "Järnvägsgatan 2",
+   "city": "VELLINGE",
+   "county": "Skåne län",
+   "lat": 55.470758,
+   "lon": 13.020824
+  },
+  {
+   "id": "1227",
+   "name": "Toppengallerian",
+   "address": "Kungstorpsvägen 10",
+   "city": "HÖLLVIKEN",
+   "county": "Skåne län",
+   "lat": 55.426397,
+   "lon": 12.965091
+  },
+  {
+   "id": "1230",
+   "name": "Stora Östergatan 13",
+   "address": "Stora Östergatan 13",
+   "city": "YSTAD",
+   "county": "Skåne län",
+   "lat": 55.430231,
+   "lon": 13.822564
+  },
+  {
+   "id": "1231",
+   "name": "Östergatan 10",
+   "address": "Östergatan 10",
+   "city": "SJÖBO",
+   "county": "Skåne län",
+   "lat": 55.630232,
+   "lon": 13.708171
+  },
+  {
+   "id": "1232",
+   "name": "Bråhögsplatsen 1 C",
+   "address": "Bråhögsplatsen 1 C",
+   "city": "STAFFANSTORP",
+   "county": "Skåne län",
+   "lat": 55.642755,
+   "lon": 13.204913
+  },
+  {
+   "id": "1240",
+   "name": "Helsingborg Söder",
+   "address": "Södergatan 30",
+   "city": "HELSINGBORG",
+   "county": "Skåne län",
+   "lat": 56.04028,
+   "lon": 12.701435
+  },
+  {
+   "id": "1242",
+   "name": "Råå",
+   "address": "Landskronavägen 33",
+   "city": "HELSINGBORG",
+   "county": "Skåne län",
+   "lat": 56.002009,
+   "lon": 12.744598
+  },
+  {
+   "id": "1243",
+   "name": "Drottninggatan 18",
+   "address": "Drottninggatan 18",
+   "city": "HELSINGBORG",
+   "county": "Skåne län",
+   "lat": 56.047614,
+   "lon": 12.691852
+  },
+  {
+   "id": "1244",
+   "name": "Berga",
+   "address": "Regementsvägen 7",
+   "city": "Helsingborg",
+   "county": "Skåne län",
+   "lat": 56.065967,
+   "lon": 12.720584
+  },
+  {
+   "id": "1245",
+   "name": "Väla",
+   "address": "Björkavägen 97",
+   "city": "ÖDÅKRA",
+   "county": "Skåne län",
+   "lat": 56.093234,
+   "lon": 12.765207
+  },
+  {
+   "id": "1246",
+   "name": "Norra Storgatan 20",
+   "address": "Norra Storgatan 20",
+   "city": "BJUV",
+   "county": "Skåne län",
+   "lat": 56.086892,
+   "lon": 12.914811
+  },
+  {
+   "id": "1248",
+   "name": "Trädgårdsgatan 9",
+   "address": "Trädgårdsgatan 9",
+   "city": "LANDSKRONA",
+   "county": "Skåne län",
+   "lat": 55.86827,
+   "lon": 12.830328
+  },
+  {
+   "id": "1249",
+   "name": "Herrevadsgatan 11 H",
+   "address": "Herrevadsgatan 11 H",
+   "city": "SVALÖV",
+   "county": "Skåne län",
+   "lat": 55.91415,
+   "lon": 13.106943
+  },
+  {
+   "id": "1250",
+   "name": "Center Syd",
+   "address": "Marknadsvägen 5",
+   "city": "LÖDDEKÖPINGE",
+   "county": "Skåne län",
+   "lat": 55.768485,
+   "lon": 12.991198
+  },
+  {
+   "id": "1251",
+   "name": "Brunnshög",
+   "address": "Brunnshögstorget 9",
+   "city": "LUND",
+   "county": "Skåne län",
+   "lat": 55.720306,
+   "lon": 13.232344
+  },
+  {
+   "id": "1252",
+   "name": "Storgatan 58 E",
+   "address": "Storgatan 58 E",
+   "city": "HÖGANÄS",
+   "county": "Skåne län",
+   "lat": 56.200054,
+   "lon": 12.55987
+  },
+  {
+   "id": "1253",
+   "name": "NOVA",
+   "address": "Traktorvägen 4",
+   "city": "LUND",
+   "county": "Skåne län",
+   "lat": 55.717663,
+   "lon": 13.162782
+  },
+  {
+   "id": "1254",
+   "name": "Bangatan 10",
+   "address": "Bangatan 10",
+   "city": "LUND",
+   "county": "Skåne län",
+   "lat": 55.705629,
+   "lon": 13.188228
+  },
+  {
+   "id": "1255",
+   "name": "SALUHALLEN",
+   "address": "Mårtenstorget 1",
+   "city": "LUND",
+   "county": "Skåne län",
+   "lat": 55.701775,
+   "lon": 13.194369
+  },
+  {
+   "id": "1256",
+   "name": "Stenhuggaregatan 2",
+   "address": "Stenhuggaregatan 2",
+   "city": "KÄVLINGE",
+   "county": "Skåne län",
+   "lat": 55.790856,
+   "lon": 13.110267
+  },
+  {
+   "id": "1257",
+   "name": "Norregatan 6",
+   "address": "Norregatan 6",
+   "city": "ESLÖV",
+   "county": "Skåne län",
+   "lat": 55.840501,
+   "lon": 13.303949
+  },
+  {
+   "id": "1258",
+   "name": "Nya Torg 10",
+   "address": "Nya Torg 10",
+   "city": "HÖÖR",
+   "county": "Skåne län",
+   "lat": 55.93502,
+   "lon": 13.538475
+  },
+  {
+   "id": "1259",
+   "name": "Nya Torg 8",
+   "address": "Nya Torg 8",
+   "city": "HÖRBY",
+   "county": "Skåne län",
+   "lat": 55.852347,
+   "lon": 13.661639
+  },
+  {
+   "id": "1301",
+   "name": "Köpmansgatan 5",
+   "address": "Köpmansgatan 5",
+   "city": "HALMSTAD",
+   "county": "Hallands län",
+   "lat": 56.673996,
+   "lon": 12.856394
+  },
+  {
+   "id": "1302",
+   "name": "Hallarna",
+   "address": "Prästvägen 1",
+   "city": "HALMSTAD",
+   "county": "Hallands län",
+   "lat": 56.655862,
+   "lon": 12.909866
+  },
+  {
+   "id": "1303",
+   "name": "Ullared",
+   "address": "Landbogatan 12",
+   "city": "ULLARED",
+   "county": "Hallands län",
+   "lat": 57.136897,
+   "lon": 12.7127
+  },
+  {
+   "id": "1304",
+   "name": "Storgatan 10b",
+   "address": "Storgatan 10b",
+   "city": "HYLTEBRUK",
+   "county": "Hallands län",
+   "lat": 56.999489,
+   "lon": 13.239708
+  },
+  {
+   "id": "1305",
+   "name": "Östertullsgatan 12",
+   "address": "Östertullsgatan 12",
+   "city": "LAHOLM",
+   "county": "Hallands län",
+   "lat": 56.511479,
+   "lon": 13.044121
+  },
+  {
+   "id": "1306",
+   "name": "Sandgatan 34",
+   "address": "Sandgatan 34",
+   "city": "Falkenberg",
+   "county": "Hallands län",
+   "lat": 56.903293,
+   "lon": 12.483513
+  },
+  {
+   "id": "1307",
+   "name": "Västra Vallgatan 6",
+   "address": "Västra Vallgatan 6",
+   "city": "VARBERG",
+   "county": "Hallands län",
+   "lat": 57.1053,
+   "lon": 12.248226
+  },
+  {
+   "id": "1308",
+   "name": "Nygatan 17",
+   "address": "Nygatan 17",
+   "city": "KUNGSBACKA",
+   "county": "Hallands län",
+   "lat": 57.485393,
+   "lon": 12.07826
+  },
+  {
+   "id": "1309",
+   "name": "Flygstaden",
+   "address": "Kundvägen 5e",
+   "city": "Halmstad",
+   "county": "Hallands län",
+   "lat": 56.678246,
+   "lon": 12.806766
+  },
+  {
+   "id": "1310",
+   "name": "Breared",
+   "address": "Vrångagatan 5",
+   "city": "VARBERG",
+   "county": "Hallands län",
+   "lat": 57.082278,
+   "lon": 12.278966
+  },
+  {
+   "id": "1311",
+   "name": "Hedebrovägen 50",
+   "address": "Hedebrovägen 50",
+   "city": "Kungsbacka",
+   "county": "Hallands län",
+   "lat": 57.51582,
+   "lon": 12.07397
+  },
+  {
+   "id": "1404",
+   "name": "Avenyn",
+   "address": "Kungsportsavenyn 18",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.700346,
+   "lon": 11.975508
+  },
+  {
+   "id": "1406",
+   "name": "Kungstorget 1",
+   "address": "Kungstorget 1",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.702684,
+   "lon": 11.967283
+  },
+  {
+   "id": "1407",
+   "name": "Olskroken",
+   "address": "Kobbarnas väg 1",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.714024,
+   "lon": 11.996598
+  },
+  {
+   "id": "1409",
+   "name": "Torpavallsgatan 4",
+   "address": "Torpavallsgatan 4",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.723373,
+   "lon": 12.026183
+  },
+  {
+   "id": "1410",
+   "name": "Nordstan med Ölstudio",
+   "address": "Lilla Klädpressaregatan 8",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.709834,
+   "lon": 11.968577
+  },
+  {
+   "id": "1411",
+   "name": "Linnégatan 28 B",
+   "address": "Linnégatan 28 B",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.696724,
+   "lon": 11.951535
+  },
+  {
+   "id": "1412",
+   "name": "Kapellplatsen 4",
+   "address": "Kapellplatsen 4",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.693293,
+   "lon": 11.970725
+  },
+  {
+   "id": "1413",
+   "name": "Gårda",
+   "address": "Åvägen 42",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.69814,
+   "lon": 11.993182
+  },
+  {
+   "id": "1414",
+   "name": "Backaplan",
+   "address": "Swedenborgsgatan 5",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.722276,
+   "lon": 11.951118
+  },
+  {
+   "id": "1415",
+   "name": "Karl Johansgatan 85",
+   "address": "Karl Johansgatan 85",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.690458,
+   "lon": 11.91308
+  },
+  {
+   "id": "1416",
+   "name": "Bäckebol Köpcenter",
+   "address": "Transportgatan 19 A",
+   "city": "HISINGS BACKA",
+   "county": "Västra Götalands län",
+   "lat": 57.770656,
+   "lon": 12.000868
+  },
+  {
+   "id": "1417",
+   "name": "Eriksberg",
+   "address": "Kolhamnsgatan 9",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.708677,
+   "lon": 11.919534
+  },
+  {
+   "id": "1418",
+   "name": "Gamlestaden",
+   "address": "Hornsgatan 1",
+   "city": "GÖTEBORG",
+   "county": "Västra Götalands län",
+   "lat": 57.728599,
+   "lon": 12.012272
+  },
+  {
+   "id": "1420",
+   "name": "Frölunda Torg",
+   "address": "Frölunda Torg",
+   "city": "VÄSTRA FRÖLUNDA",
+   "county": "Västra Götalands län",
+   "lat": 57.652129,
+   "lon": 11.913342
+  },
+  {
+   "id": "1422",
+   "name": "Krogabäcksvägen 12",
+   "address": "Krogabäcksvägen 12",
+   "city": "HOVÅS",
+   "county": "Västra Götalands län",
+   "lat": 57.59886,
+   "lon": 11.95242
+  },
+  {
+   "id": "1423",
+   "name": "Angereds Torg 20",
+   "address": "Angereds Torg 20",
+   "city": "ANGERED",
+   "county": "Västra Götalands län",
+   "lat": 57.795741,
+   "lon": 12.050182
+  },
+  {
+   "id": "1424",
+   "name": "Sisjön",
+   "address": "Hantverksvägen 2",
+   "city": "ASKIM",
+   "county": "Västra Götalands län",
+   "lat": 57.642883,
+   "lon": 11.950352
+  },
+  {
+   "id": "1425",
+   "name": "Tärnvägen 17",
+   "address": "Tärnvägen 17",
+   "city": "HÖNÖ",
+   "county": "Västra Götalands län",
+   "lat": 57.698311,
+   "lon": 11.659404
+  },
+  {
+   "id": "1426",
+   "name": "Postflyget 16",
+   "address": "Postflyget 16",
+   "city": "TORSLANDA",
+   "county": "Västra Götalands län",
+   "lat": 57.708923,
+   "lon": 11.777537
+  },
+  {
+   "id": "1427",
+   "name": "Högsbo Köpcentrum 421",
+   "address": "Lona Knapes Gata 1",
+   "city": "VÄSTRA FRÖLUNDA",
+   "county": "Västra Götalands län",
+   "lat": 57.650628,
+   "lon": 11.948207
+  },
+  {
+   "id": "1428",
+   "name": "Biblioteksgatan 14 B",
+   "address": "Biblioteksgatan 14 B",
+   "city": "MÖLNLYCKE",
+   "county": "Västra Götalands län",
+   "lat": 57.658042,
+   "lon": 12.115904
+  },
+  {
+   "id": "1429",
+   "name": "Ekenleden 2G",
+   "address": "Ekenleden 2G",
+   "city": "KÅLLERED",
+   "county": "Västra Götalands län",
+   "lat": 57.603661,
+   "lon": 12.04834
+  },
+  {
+   "id": "1430",
+   "name": "Kyrktorget 14",
+   "address": "Kyrktorget 14",
+   "city": "PARTILLE",
+   "county": "Västra Götalands län",
+   "lat": 57.740084,
+   "lon": 12.107045
+  },
+  {
+   "id": "1431",
+   "name": "Mölndal Galleria",
+   "address": "Nygatan 8",
+   "city": "MÖLNDAL",
+   "county": "Västra Götalands län",
+   "lat": 57.654539,
+   "lon": 12.015188
+  },
+  {
+   "id": "1432",
+   "name": "Älvebacken 7",
+   "address": "Älvebacken 7",
+   "city": "KUNGÄLV",
+   "county": "Västra Götalands län",
+   "lat": 57.873192,
+   "lon": 11.96797
+  },
+  {
+   "id": "1433",
+   "name": "Kroksdalsvägen 4",
+   "address": "Kroksdalsvägen 4",
+   "city": "SKÄRHAMN",
+   "county": "Västra Götalands län",
+   "lat": 57.98575,
+   "lon": 11.553742
+  },
+  {
+   "id": "1434",
+   "name": "Östra Köpmansgatan 25",
+   "address": "Östra Köpmansgatan 25",
+   "city": "STENUNGSUND",
+   "county": "Västra Götalands län",
+   "lat": 58.067316,
+   "lon": 11.81758
+  },
+  {
+   "id": "1435",
+   "name": "Hamntorget 1",
+   "address": "Hamntorget 1",
+   "city": "HENÅN",
+   "county": "Västra Götalands län",
+   "lat": 58.237242,
+   "lon": 11.678615
+  },
+  {
+   "id": "1436",
+   "name": "Västerlånggatan 2 B",
+   "address": "Västerlånggatan 2 B",
+   "city": "UDDEVALLA",
+   "county": "Västra Götalands län",
+   "lat": 58.349332,
+   "lon": 11.932315
+  },
+  {
+   "id": "1437",
+   "name": "Torp Köpcentrum",
+   "address": "Torp Köpcentrum",
+   "city": "UDDEVALLA",
+   "county": "Västra Götalands län",
+   "lat": 58.354685,
+   "lon": 11.813585
+  },
+  {
+   "id": "1438",
+   "name": "Strömstadsvägen 1",
+   "address": "Strömstadsvägen 1",
+   "city": "MUNKEDAL",
+   "county": "Västra Götalands län",
+   "lat": 58.466975,
+   "lon": 11.673766
+  },
+  {
+   "id": "1439",
+   "name": "Hallindenvägen 2 B",
+   "address": "Hallindenvägen 2 B",
+   "city": "KUNGSHAMN",
+   "county": "Västra Götalands län",
+   "lat": 58.357243,
+   "lon": 11.260158
+  },
+  {
+   "id": "1440",
+   "name": "Korsgatan 5",
+   "address": "Korsgatan 5",
+   "city": "LYSEKIL",
+   "county": "Västra Götalands län",
+   "lat": 58.274084,
+   "lon": 11.433999
+  },
+  {
+   "id": "1441",
+   "name": "Strömstad City",
+   "address": "Oslovägen 7",
+   "city": "STRÖMSTAD",
+   "county": "Västra Götalands län",
+   "lat": 58.939976,
+   "lon": 11.176338
+  },
+  {
+   "id": "1442",
+   "name": "Strömstad Köpcenter",
+   "address": "Oslovägen 56",
+   "city": "STRÖMSTAD",
+   "county": "Västra Götalands län",
+   "lat": 58.947312,
+   "lon": 11.192014
+  },
+  {
+   "id": "1443",
+   "name": "Sältevägen 3",
+   "address": "Sältevägen 3",
+   "city": "GREBBESTAD",
+   "county": "Västra Götalands län",
+   "lat": 58.692307,
+   "lon": 11.25422
+  },
+  {
+   "id": "1501",
+   "name": "Regementsgatan 4D",
+   "address": "Regementsgatan 4D",
+   "city": "VÄNERSBORG",
+   "county": "Västra Götalands län",
+   "lat": 58.377838,
+   "lon": 12.331027
+  },
+  {
+   "id": "1503",
+   "name": "Överby Köpcenter",
+   "address": "Anes väg 2",
+   "city": "Trollhättan",
+   "county": "Västra Götalands län",
+   "lat": 58.314251,
+   "lon": 12.302531
+  },
+  {
+   "id": "1504",
+   "name": "Oden",
+   "address": "Kungsgatan 32",
+   "city": "TROLLHÄTTAN",
+   "county": "Västra Götalands län",
+   "lat": 58.284569,
+   "lon": 12.291257
+  },
+  {
+   "id": "1505",
+   "name": "Torggatan 11",
+   "address": "Torggatan 11",
+   "city": "ÅMÅL",
+   "county": "Västra Götalands län",
+   "lat": 59.051831,
+   "lon": 12.701293
+  },
+  {
+   "id": "1506",
+   "name": "Storgatan 8",
+   "address": "Storgatan 8",
+   "city": "MELLERUD",
+   "county": "Västra Götalands län",
+   "lat": 58.700182,
+   "lon": 12.452734
+  },
+  {
+   "id": "1507",
+   "name": "Berglunds Gränd 1",
+   "address": "Berglunds Gränd 1",
+   "city": "BENGTSFORS",
+   "county": "Västra Götalands län",
+   "lat": 59.029293,
+   "lon": 12.224467
+  },
+  {
+   "id": "1508",
+   "name": "Solkatten",
+   "address": "Lerum Centrum",
+   "city": "LERUM",
+   "county": "Västra Götalands län",
+   "lat": 57.769593,
+   "lon": 12.269364
+  },
+  {
+   "id": "1509",
+   "name": "Dals-Ed",
+   "address": "Delesgatan 7",
+   "city": "ED",
+   "county": "Västra Götalands län",
+   "lat": 58.912167,
+   "lon": 11.93501
+  },
+  {
+   "id": "1511",
+   "name": "Göteborgsvägen 21",
+   "address": "Göteborgsvägen 21",
+   "city": "BOLLEBYGD",
+   "county": "Västra Götalands län",
+   "lat": 57.669233,
+   "lon": 12.571428
+  },
+  {
+   "id": "1512",
+   "name": "Allégatan 16",
+   "address": "Allégatan 16",
+   "city": "BORÅS",
+   "county": "Västra Götalands län",
+   "lat": 57.722981,
+   "lon": 12.940565
+  },
+  {
+   "id": "1513",
+   "name": "Knalleland",
+   "address": "Ålgårdsvägen 15",
+   "city": "BORÅS",
+   "county": "Västra Götalands län",
+   "lat": 57.732809,
+   "lon": 12.932957
+  },
+  {
+   "id": "1514",
+   "name": "Göteborgsvägen 37",
+   "address": "Göteborgsvägen 37",
+   "city": "LILLA EDET",
+   "county": "Västra Götalands län",
+   "lat": 58.137404,
+   "lon": 12.128148
+  },
+  {
+   "id": "1515",
+   "name": "Storgatan 25",
+   "address": "Storgatan 25",
+   "city": "TRANEMO",
+   "county": "Västra Götalands län",
+   "lat": 57.483486,
+   "lon": 13.35152
+  },
+  {
+   "id": "1516",
+   "name": "Boråsvägen 2",
+   "address": "Boråsvägen 2",
+   "city": "SVENLJUNGA",
+   "county": "Västra Götalands län",
+   "lat": 57.496693,
+   "lon": 13.111024
+  },
+  {
+   "id": "1517",
+   "name": "Järngatan 12A",
+   "address": "Järngatan 12A",
+   "city": "ULRICEHAMN",
+   "county": "Västra Götalands län",
+   "lat": 57.792379,
+   "lon": 13.412269
+  },
+  {
+   "id": "1518",
+   "name": "Kungsgatan 34 C",
+   "address": "Kungsgatan 34 C",
+   "city": "ALINGSÅS",
+   "county": "Västra Götalands län",
+   "lat": 57.930112,
+   "lon": 12.53696
+  },
+  {
+   "id": "1519",
+   "name": "Håvengatan 3D",
+   "address": "Håvengatan 3D",
+   "city": "Skene",
+   "county": "Västra Götalands län",
+   "lat": 57.487269,
+   "lon": 12.650007
+  },
+  {
+   "id": "1520",
+   "name": "Centrumvägen 2",
+   "address": "Centrumvägen 2",
+   "city": "FÄRGELANDA",
+   "county": "Västra Götalands län",
+   "lat": 58.566963,
+   "lon": 11.995966
+  },
+  {
+   "id": "1521",
+   "name": "Ale Torg 7",
+   "address": "Ale Torg 7",
+   "city": "NÖDINGE",
+   "county": "Västra Götalands län",
+   "lat": 57.893788,
+   "lon": 12.046469
+  },
+  {
+   "id": "1522",
+   "name": "Kungsgatan 26",
+   "address": "Kungsgatan 26",
+   "city": "VÅRGÅRDA",
+   "county": "Västra Götalands län",
+   "lat": 58.034875,
+   "lon": 12.809439
+  },
+  {
+   "id": "1523",
+   "name": "Storgatan 44",
+   "address": "Storgatan 44",
+   "city": "HERRLJUNGA",
+   "county": "Västra Götalands län",
+   "lat": 58.077971,
+   "lon": 13.02542
+  },
+  {
+   "id": "1524",
+   "name": "Åhaga",
+   "address": "Trandögatan 14",
+   "city": "BORÅS",
+   "county": "Västra Götalands län",
+   "lat": 57.710893,
+   "lon": 12.941341
+  },
+  {
+   "id": "1601",
+   "name": "Stockholmsvägen 3",
+   "address": "Stockholmsvägen 3",
+   "city": "MARIESTAD",
+   "county": "Västra Götalands län",
+   "lat": 58.709972,
+   "lon": 13.825679
+  },
+  {
+   "id": "1602",
+   "name": "Götgatan 15",
+   "address": "Götgatan 15",
+   "city": "LIDKÖPING",
+   "county": "Västra Götalands län",
+   "lat": 58.502604,
+   "lon": 13.153954
+  },
+  {
+   "id": "1603",
+   "name": "Torggatan 8",
+   "address": "Torggatan 8",
+   "city": "GRÄSTORP",
+   "county": "Västra Götalands län",
+   "lat": 58.334414,
+   "lon": 12.681033
+  },
+  {
+   "id": "1604",
+   "name": "Drottninggatan 10",
+   "address": "Drottninggatan 10",
+   "city": "VARA",
+   "county": "Västra Götalands län",
+   "lat": 58.262322,
+   "lon": 12.955761
+  },
+  {
+   "id": "1605",
+   "name": "Marumsgatan 15",
+   "address": "Marumsgatan 15",
+   "city": "SKARA",
+   "county": "Västra Götalands län",
+   "lat": 58.384595,
+   "lon": 13.435768
+  },
+  {
+   "id": "1606",
+   "name": "Hertig Johans Torg 4",
+   "address": "Hertig Johans Torg 4",
+   "city": "SKÖVDE",
+   "county": "Västra Götalands län",
+   "lat": 58.390497,
+   "lon": 13.844627
+  },
+  {
+   "id": "1607",
+   "name": "Hamngatan 18",
+   "address": "Hamngatan 18",
+   "city": "HJO",
+   "county": "Västra Götalands län",
+   "lat": 58.303301,
+   "lon": 14.291508
+  },
+  {
+   "id": "1608",
+   "name": "Gamla Torget 8",
+   "address": "Gamla Torget 8",
+   "city": "TIDAHOLM",
+   "county": "Västra Götalands län",
+   "lat": 58.180759,
+   "lon": 13.957459
+  },
+  {
+   "id": "1609",
+   "name": "Stora Torget 17",
+   "address": "Stora Torget 17",
+   "city": "FALKÖPING",
+   "county": "Västra Götalands län",
+   "lat": 58.161063,
+   "lon": 13.55313
+  },
+  {
+   "id": "1610",
+   "name": "Storgatan 9",
+   "address": "Storgatan 9",
+   "city": "KARLSBORG",
+   "county": "Västra Götalands län",
+   "lat": 58.529221,
+   "lon": 14.510991
+  },
+  {
+   "id": "1611",
+   "name": "Järnvägsgatan 6",
+   "address": "Järnvägsgatan 6",
+   "city": "GÖTENE",
+   "county": "Västra Götalands län",
+   "lat": 58.527823,
+   "lon": 13.492077
+  },
+  {
+   "id": "1612",
+   "name": "Kyrkogatan 24",
+   "address": "Kyrkogatan 24",
+   "city": "TÖREBODA",
+   "county": "Västra Götalands län",
+   "lat": 58.709796,
+   "lon": 14.125812
+  },
+  {
+   "id": "1613",
+   "name": "Storgatan 9",
+   "address": "Storgatan 9",
+   "city": "GULLSPÅNG",
+   "county": "Västra Götalands län",
+   "lat": 58.986709,
+   "lon": 14.092894
+  },
+  {
+   "id": "1614",
+   "name": "Centrumgatan 6",
+   "address": "Centrumgatan 6",
+   "city": "TIBRO",
+   "county": "Västra Götalands län",
+   "lat": 58.425199,
+   "lon": 14.164213
+  },
+  {
+   "id": "1616",
+   "name": "Järnvägsgatan 3 B",
+   "address": "Järnvägsgatan 3 B",
+   "city": "NOSSEBRO",
+   "county": "Västra Götalands län",
+   "lat": 58.187639,
+   "lon": 12.720356
+  },
+  {
+   "id": "1617",
+   "name": "Nolhagavägen 1",
+   "address": "Nolhagavägen 1",
+   "city": "SKÖVDE",
+   "county": "Västra Götalands län",
+   "lat": 58.407935,
+   "lon": 13.858011
+  },
+  {
+   "id": "1701",
+   "name": "Duvan",
+   "address": "Järnvägsgatan 2",
+   "city": "KARLSTAD",
+   "county": "Värmlands län",
+   "lat": 59.37857,
+   "lon": 13.49949
+  },
+  {
+   "id": "1702",
+   "name": "Bergvik-Karlstad",
+   "address": "Frykmans Väg 1",
+   "city": "KARLSTAD",
+   "county": "Värmlands län",
+   "lat": 59.37874,
+   "lon": 13.424516
+  },
+  {
+   "id": "1703",
+   "name": "Järnvägsgatan 24",
+   "address": "Järnvägsgatan 24",
+   "city": "FORSHAGA",
+   "county": "Värmlands län",
+   "lat": 59.530501,
+   "lon": 13.480325
+  },
+  {
+   "id": "1704",
+   "name": "Storgatan 16",
+   "address": "Storgatan 16",
+   "city": "KIL",
+   "county": "Värmlands län",
+   "lat": 59.504672,
+   "lon": 13.320738
+  },
+  {
+   "id": "1705",
+   "name": "Sundsgatan 28",
+   "address": "Sundsgatan 28",
+   "city": "SÄFFLE",
+   "county": "Värmlands län",
+   "lat": 59.131892,
+   "lon": 12.9315
+  },
+  {
+   "id": "1706",
+   "name": "Storgatan 23",
+   "address": "Storgatan 23",
+   "city": "ARVIKA",
+   "county": "Värmlands län",
+   "lat": 59.654173,
+   "lon": 12.59364
+  },
+  {
+   "id": "1707",
+   "name": "Storgatan 7",
+   "address": "Storgatan 7",
+   "city": "HAGFORS",
+   "county": "Värmlands län",
+   "lat": 60.034621,
+   "lon": 13.695119
+  },
+  {
+   "id": "1708",
+   "name": "Viktoriagatan 3",
+   "address": "Viktoriagatan 3",
+   "city": "FILIPSTAD",
+   "county": "Värmlands län",
+   "lat": 59.7131,
+   "lon": 14.170998
+  },
+  {
+   "id": "1709",
+   "name": "Kungsgatan 43",
+   "address": "Kungsgatan 43",
+   "city": "KRISTINEHAMN",
+   "county": "Värmlands län",
+   "lat": 59.307478,
+   "lon": 14.109778
+  },
+  {
+   "id": "1710",
+   "name": "Kvarngatan 13",
+   "address": "Kvarngatan 13",
+   "city": "SUNNE",
+   "county": "Värmlands län",
+   "lat": 59.836656,
+   "lon": 13.145145
+  },
+  {
+   "id": "1711",
+   "name": "Tallbacksvägen 21 B",
+   "address": "Tallbacksvägen 21 B",
+   "city": "MUNKFORS",
+   "county": "Värmlands län",
+   "lat": 59.835637,
+   "lon": 13.546138
+  },
+  {
+   "id": "1712",
+   "name": "Nya Torget 3",
+   "address": "Nya Torget 3",
+   "city": "TORSBY",
+   "county": "Värmlands län",
+   "lat": 60.135073,
+   "lon": 13.007996
+  },
+  {
+   "id": "1713",
+   "name": "Storgatan 47",
+   "address": "Storgatan 47",
+   "city": "ÅRJÄNG",
+   "county": "Värmlands län",
+   "lat": 59.391698,
+   "lon": 12.133013
+  },
+  {
+   "id": "1714",
+   "name": "Sveagatan 99",
+   "address": "Sveagatan 99",
+   "city": "GRUMS",
+   "county": "Värmlands län",
+   "lat": 59.353852,
+   "lon": 13.112571
+  },
+  {
+   "id": "1715",
+   "name": "Helga Görlins gata 1",
+   "address": "Helga Görlins gata 1",
+   "city": "CHARLOTTENBERG",
+   "county": "Värmlands län",
+   "lat": 59.881414,
+   "lon": 12.289317
+  },
+  {
+   "id": "1716",
+   "name": "Åråsvägen 5",
+   "address": "Åråsvägen 5",
+   "city": "SKOGHALL",
+   "county": "Värmlands län",
+   "lat": 59.32534,
+   "lon": 13.466496
+  },
+  {
+   "id": "1717",
+   "name": "Djupadalsgatan 12",
+   "address": "Djupadalsgatan 12",
+   "city": "STORFORS",
+   "county": "Värmlands län",
+   "lat": 59.531145,
+   "lon": 14.272614
+  },
+  {
+   "id": "1718",
+   "name": "Välsviken",
+   "address": "Rävbergsvägen 17",
+   "city": "KARLSTAD",
+   "county": "Värmlands län",
+   "lat": 59.39626,
+   "lon": 13.57594
+  },
+  {
+   "id": "1801",
+   "name": "Kungsgatan 11",
+   "address": "Kungsgatan 11",
+   "city": "ÖREBRO",
+   "county": "Örebro län",
+   "lat": 59.27076,
+   "lon": 15.214486
+  },
+  {
+   "id": "1802",
+   "name": "Marieberg",
+   "address": "Säljarevägen 3",
+   "city": "ÖREBRO",
+   "county": "Örebro län",
+   "lat": 59.218335,
+   "lon": 15.138472
+  },
+  {
+   "id": "1803",
+   "name": "Boglundsängen",
+   "address": "Prologgatan 8",
+   "city": "ÖREBRO",
+   "county": "Örebro län",
+   "lat": 59.294643,
+   "lon": 15.199651
+  },
+  {
+   "id": "1804",
+   "name": "Tybblekullen",
+   "address": "Sörbyängsvägen 26",
+   "city": "Örebro",
+   "county": "Örebro län",
+   "lat": 59.252558,
+   "lon": 15.231096
+  },
+  {
+   "id": "1805",
+   "name": "Stortorget 4",
+   "address": "Stortorget 4",
+   "city": "HALLSBERG",
+   "county": "Örebro län",
+   "lat": 59.065911,
+   "lon": 15.110787
+  },
+  {
+   "id": "1806",
+   "name": "Köpmangatan 22",
+   "address": "Köpmangatan 22",
+   "city": "KUMLA",
+   "county": "Örebro län",
+   "lat": 59.125967,
+   "lon": 15.143187
+  },
+  {
+   "id": "1807",
+   "name": "Väderkvarnsgatan 15",
+   "address": "Väderkvarnsgatan 15",
+   "city": "ASKERSUND",
+   "county": "Örebro län",
+   "lat": 58.879094,
+   "lon": 14.903441
+  },
+  {
+   "id": "1808",
+   "name": "Herrgårdsgatan 12",
+   "address": "Herrgårdsgatan 12",
+   "city": "DEGERFORS",
+   "county": "Örebro län",
+   "lat": 59.238254,
+   "lon": 14.432414
+  },
+  {
+   "id": "1809",
+   "name": "K-Center",
+   "address": "Centrumleden 25",
+   "city": "KARLSKOGA",
+   "county": "Örebro län",
+   "lat": 59.326019,
+   "lon": 14.524872
+  },
+  {
+   "id": "1810",
+   "name": "Storgatan 11",
+   "address": "Storgatan 11",
+   "city": "NORA",
+   "county": "Örebro län",
+   "lat": 59.519011,
+   "lon": 15.038554
+  },
+  {
+   "id": "1811",
+   "name": "Kristinavägen 41",
+   "address": "Kristinavägen 41",
+   "city": "LINDESBERG",
+   "county": "Örebro län",
+   "lat": 59.594545,
+   "lon": 15.226051
+  },
+  {
+   "id": "1812",
+   "name": "Sikforsvägen 28 A",
+   "address": "Sikforsvägen 28 A",
+   "city": "HÄLLEFORS",
+   "county": "Örebro län",
+   "lat": 59.783471,
+   "lon": 14.52048
+  },
+  {
+   "id": "1813",
+   "name": "Centrumtorget 19",
+   "address": "Centrumtorget 19",
+   "city": "LAXÅ",
+   "county": "Örebro län",
+   "lat": 58.985635,
+   "lon": 14.62004
+  },
+  {
+   "id": "1814",
+   "name": "Gruvfogdegatan 1",
+   "address": "Gruvfogdegatan 1",
+   "city": "KOPPARBERG",
+   "county": "Örebro län",
+   "lat": 59.875784,
+   "lon": 14.992866
+  },
+  {
+   "id": "1815",
+   "name": "Stickspåret 2 B",
+   "address": "Stickspåret 2 B",
+   "city": "FJUGESTA",
+   "county": "Örebro län",
+   "lat": 59.174154,
+   "lon": 14.872022
+  },
+  {
+   "id": "1901",
+   "name": "City",
+   "address": "Stora gatan 21",
+   "city": "VÄSTERÅS",
+   "county": "Västmanlands län",
+   "lat": 59.609984,
+   "lon": 16.547798
+  },
+  {
+   "id": "1902",
+   "name": "Erikslund",
+   "address": "Traversgatan 10 A",
+   "city": "VÄSTERÅS",
+   "county": "Västmanlands län",
+   "lat": 59.6165,
+   "lon": 16.4642
+  },
+  {
+   "id": "1903",
+   "name": "Hälla",
+   "address": "Stockholmsvägen 136 B",
+   "city": "VÄSTERÅS",
+   "county": "Västmanlands län",
+   "lat": 59.608893,
+   "lon": 16.620018
+  },
+  {
+   "id": "1904",
+   "name": "Stenby",
+   "address": "Stenbygatan 1",
+   "city": "VÄSTERÅS",
+   "county": "Västmanlands län",
+   "lat": 59.635611,
+   "lon": 16.568451
+  },
+  {
+   "id": "1905",
+   "name": "Drottninggatan 15",
+   "address": "Drottninggatan 15",
+   "city": "KUNGSÖR",
+   "county": "Västmanlands län",
+   "lat": 59.423557,
+   "lon": 16.096672
+  },
+  {
+   "id": "1906",
+   "name": "Nygatan 27",
+   "address": "Nygatan 27",
+   "city": "ARBOGA",
+   "county": "Västmanlands län",
+   "lat": 59.395087,
+   "lon": 15.841464
+  },
+  {
+   "id": "1907",
+   "name": "Stora Gatan 17",
+   "address": "Stora Gatan 17",
+   "city": "KÖPING",
+   "county": "Västmanlands län",
+   "lat": 59.513655,
+   "lon": 15.997794
+  },
+  {
+   "id": "1908",
+   "name": "Järntorget 1",
+   "address": "Järntorget 1",
+   "city": "FAGERSTA",
+   "county": "Västmanlands län",
+   "lat": 60.004932,
+   "lon": 15.791188
+  },
+  {
+   "id": "1909",
+   "name": "Rådmansgatan 10",
+   "address": "Rådmansgatan 10",
+   "city": "SALA",
+   "county": "Västmanlands län",
+   "lat": 59.920633,
+   "lon": 16.606997
+  },
+  {
+   "id": "1910",
+   "name": "Hammartorget 5 B",
+   "address": "Hammartorget 5 B",
+   "city": "HALLSTAHAMMAR",
+   "county": "Västmanlands län",
+   "lat": 59.613998,
+   "lon": 16.228786
+  },
+  {
+   "id": "1911",
+   "name": "Köpmangatan 27",
+   "address": "Köpmangatan 27",
+   "city": "SURAHAMMAR",
+   "county": "Västmanlands län",
+   "lat": 59.707671,
+   "lon": 16.221421
+  },
+  {
+   "id": "1912",
+   "name": "Malmgatan 18",
+   "address": "Malmgatan 18",
+   "city": "NORBERG",
+   "county": "Västmanlands län",
+   "lat": 60.064028,
+   "lon": 15.92514
+  },
+  {
+   "id": "1913",
+   "name": "Centralvägen 7",
+   "address": "Centralvägen 7",
+   "city": "SKINNSKATTEBERG",
+   "county": "Västmanlands län",
+   "lat": 59.830675,
+   "lon": 15.693737
+  },
+  {
+   "id": "1914",
+   "name": "Torgvägen 10",
+   "address": "Torgvägen 10",
+   "city": "ÖSTERVÅLA",
+   "county": "Uppsala län",
+   "lat": 60.181741,
+   "lon": 17.177485
+  },
+  {
+   "id": "2001",
+   "name": "Falugatan 2",
+   "address": "Falugatan 2",
+   "city": "FALUN",
+   "county": "Dalarnas län",
+   "lat": 60.606807,
+   "lon": 15.629257
+  },
+  {
+   "id": "2002",
+   "name": "Norra Backagatan 5 A",
+   "address": "Norra Backagatan 5 A",
+   "city": "Borlänge",
+   "county": "Dalarnas län",
+   "lat": 60.478494,
+   "lon": 15.418878
+  },
+  {
+   "id": "2003",
+   "name": "Sveagatan 9",
+   "address": "Sveagatan 9",
+   "city": "BORLÄNGE",
+   "county": "Dalarnas län",
+   "lat": 60.486858,
+   "lon": 15.432564
+  },
+  {
+   "id": "2004",
+   "name": "Gussarvsgatan 23 B",
+   "address": "Gussarvsgatan 23 B",
+   "city": "HEDEMORA",
+   "county": "Dalarnas län",
+   "lat": 60.283381,
+   "lon": 15.990417
+  },
+  {
+   "id": "2005",
+   "name": "Kungsgatan 13",
+   "address": "Kungsgatan 13",
+   "city": "AVESTA",
+   "county": "Dalarnas län",
+   "lat": 60.145088,
+   "lon": 16.172287
+  },
+  {
+   "id": "2006",
+   "name": "Fredsgatan 15",
+   "address": "Fredsgatan 15",
+   "city": "LUDVIKA",
+   "county": "Dalarnas län",
+   "lat": 60.148528,
+   "lon": 15.186718
+  },
+  {
+   "id": "2007",
+   "name": "Kyrkogatan 19",
+   "address": "Kyrkogatan 19",
+   "city": "MORA",
+   "county": "Dalarnas län",
+   "lat": 61.00475,
+   "lon": 14.538325
+  },
+  {
+   "id": "2008",
+   "name": "Grönlandsvägen 35",
+   "address": "Grönlandsvägen 35",
+   "city": "MALUNG",
+   "county": "Dalarnas län",
+   "lat": 60.683229,
+   "lon": 13.71402
+  },
+  {
+   "id": "2009",
+   "name": "Norsgatan 26",
+   "address": "Norsgatan 26",
+   "city": "LEKSAND",
+   "county": "Dalarnas län",
+   "lat": 60.730431,
+   "lon": 14.999034
+  },
+  {
+   "id": "2010",
+   "name": "Centrumhuset",
+   "address": "Hagvägen 8",
+   "city": "SÄLEN",
+   "county": "Dalarnas län",
+   "lat": 61.155423,
+   "lon": 13.26832
+  },
+  {
+   "id": "2011",
+   "name": "Norra Allégatan 25",
+   "address": "Norra Allégatan 25",
+   "city": "VANSBRO",
+   "county": "Dalarnas län",
+   "lat": 60.511493,
+   "lon": 14.223478
+  },
+  {
+   "id": "2012",
+   "name": "Storgatan 10",
+   "address": "Storgatan 10",
+   "city": "RÄTTVIK",
+   "county": "Dalarnas län",
+   "lat": 60.882916,
+   "lon": 15.120409
+  },
+  {
+   "id": "2013",
+   "name": "Dalgatan 81 H",
+   "address": "Dalgatan 81 H",
+   "city": "ÄLVDALEN",
+   "county": "Dalarnas län",
+   "lat": 61.229667,
+   "lon": 14.036905
+  },
+  {
+   "id": "2014",
+   "name": "Johan Ahlbäcks plats 4",
+   "address": "Johan Ahlbäcks plats 4",
+   "city": "SMEDJEBACKEN",
+   "county": "Dalarnas län",
+   "lat": 60.142114,
+   "lon": 15.414424
+  },
+  {
+   "id": "2015",
+   "name": "Centralgatan 2",
+   "address": "Centralgatan 2",
+   "city": "ORSA",
+   "county": "Dalarnas län",
+   "lat": 61.119064,
+   "lon": 14.619891
+  },
+  {
+   "id": "2016",
+   "name": "Djurås",
+   "address": "Södra Industrivägen 8",
+   "city": "Djurås",
+   "county": "Dalarnas län",
+   "lat": 60.55976,
+   "lon": 15.136849
+  },
+  {
+   "id": "2017",
+   "name": "Gränsgatan 3",
+   "address": "Gränsgatan 3",
+   "city": "SÄTER",
+   "county": "Dalarnas län",
+   "lat": 60.346434,
+   "lon": 15.752545
+  },
+  {
+   "id": "2018",
+   "name": "HSB vägen 1",
+   "address": "HSB vägen 1",
+   "city": "IDRE",
+   "county": "Dalarnas län",
+   "lat": 61.858055,
+   "lon": 12.719916
+  },
+  {
+   "id": "2019",
+   "name": "Tallen",
+   "address": "Stortallsvägen 3",
+   "city": "FALUN",
+   "county": "Dalarnas län",
+   "lat": 60.576928,
+   "lon": 15.608527
+  },
+  {
+   "id": "2101",
+   "name": "Gallerian Nian",
+   "address": "Drottninggatan 9",
+   "city": "GÄVLE",
+   "county": "Gävleborgs län",
+   "lat": 60.673956,
+   "lon": 17.139372
+  },
+  {
+   "id": "2102",
+   "name": "Valbo Köpcentrum",
+   "address": "Valbovägen 307",
+   "city": "VALBO",
+   "county": "Gävleborgs län",
+   "lat": 60.633401,
+   "lon": 16.992771
+  },
+  {
+   "id": "2103",
+   "name": "Ingenjörsgatan 5",
+   "address": "Ingenjörsgatan 5",
+   "city": "GÄVLE",
+   "county": "Gävleborgs län",
+   "lat": 60.645034,
+   "lon": 17.146218
+  },
+  {
+   "id": "2104",
+   "name": "Köpmangatan 19",
+   "address": "Köpmangatan 19",
+   "city": "SANDVIKEN",
+   "county": "Gävleborgs län",
+   "lat": 60.620136,
+   "lon": 16.774365
+  },
+  {
+   "id": "2105",
+   "name": "Långgatan 10",
+   "address": "Långgatan 10",
+   "city": "BOLLNÄS",
+   "county": "Gävleborgs län",
+   "lat": 61.34728,
+   "lon": 16.39359
+  },
+  {
+   "id": "2106",
+   "name": "Köpmangatan 9",
+   "address": "Köpmangatan 9",
+   "city": "SÖDERHAMN",
+   "county": "Gävleborgs län",
+   "lat": 61.302184,
+   "lon": 17.05448
+  },
+  {
+   "id": "2107",
+   "name": "Norra Kyrkogatan 14",
+   "address": "Norra Kyrkogatan 14",
+   "city": "HUDIKSVALL",
+   "county": "Gävleborgs län",
+   "lat": 61.729181,
+   "lon": 17.102774
+  },
+  {
+   "id": "2108",
+   "name": "Skolgatan 16",
+   "address": "Skolgatan 16",
+   "city": "HOFORS",
+   "county": "Gävleborgs län",
+   "lat": 60.546,
+   "lon": 16.285389
+  },
+  {
+   "id": "2109",
+   "name": "Norra Järnvägsgatan 45",
+   "address": "Norra Järnvägsgatan 45",
+   "city": "LJUSDAL",
+   "county": "Gävleborgs län",
+   "lat": 61.827161,
+   "lon": 16.098517
+  },
+  {
+   "id": "2110",
+   "name": "Långgatan 17B",
+   "address": "Långgatan 17B",
+   "city": "EDSBYN",
+   "county": "Gävleborgs län",
+   "lat": 61.376013,
+   "lon": 15.817688
+  },
+  {
+   "id": "2111",
+   "name": "Södra Åsgatan 32",
+   "address": "Södra Åsgatan 32",
+   "city": "OCKELBO",
+   "county": "Gävleborgs län",
+   "lat": 60.890021,
+   "lon": 16.716664
+  },
+  {
+   "id": "2112",
+   "name": "Storgatan 21",
+   "address": "Storgatan 21",
+   "city": "BERGSJÖ",
+   "county": "Gävleborgs län",
+   "lat": 61.985207,
+   "lon": 17.058034
+  },
+  {
+   "id": "2201",
+   "name": "Storgatan 26",
+   "address": "Storgatan 26",
+   "city": "HÄRNÖSAND",
+   "county": "Västernorrlands län",
+   "lat": 62.631613,
+   "lon": 17.939287
+  },
+  {
+   "id": "2202",
+   "name": "SJÖGATAN Sundsvall",
+   "address": "Sjögatan 16",
+   "city": "SUNDSVALL",
+   "county": "Västernorrlands län",
+   "lat": 62.39177,
+   "lon": 17.30811
+  },
+  {
+   "id": "2203",
+   "name": "Birsta Sundsvall",
+   "address": "Gesällvägen 3",
+   "city": "SUNDSVALL",
+   "county": "Västernorrlands län",
+   "lat": 62.444169,
+   "lon": 17.333944
+  },
+  {
+   "id": "2204",
+   "name": "Affärsgatan 7",
+   "address": "Affärsgatan 7",
+   "city": "KVISSLEBY",
+   "county": "Västernorrlands län",
+   "lat": 62.299243,
+   "lon": 17.377707
+  },
+  {
+   "id": "2205",
+   "name": "Kungsgatan 5 B",
+   "address": "Kungsgatan 5 B",
+   "city": "KRAMFORS",
+   "county": "Västernorrlands län",
+   "lat": 62.93073,
+   "lon": 17.781499
+  },
+  {
+   "id": "2206",
+   "name": "Storgatan 48",
+   "address": "Storgatan 48",
+   "city": "SOLLEFTEÅ",
+   "county": "Västernorrlands län",
+   "lat": 63.168236,
+   "lon": 17.265804
+  },
+  {
+   "id": "2207",
+   "name": "Stora torget 3",
+   "address": "Stora torget 3",
+   "city": "ÖRNSKÖLDSVIK",
+   "county": "Västernorrlands län",
+   "lat": 63.289294,
+   "lon": 18.715246
+  },
+  {
+   "id": "2208",
+   "name": "Köpmangatan 29",
+   "address": "Köpmangatan 29",
+   "city": "TIMRÅ",
+   "county": "Västernorrlands län",
+   "lat": 62.48566,
+   "lon": 17.324071
+  },
+  {
+   "id": "2209",
+   "name": "Järnvägsgatan 7",
+   "address": "Järnvägsgatan 7",
+   "city": "ÅNGE",
+   "county": "Västernorrlands län",
+   "lat": 62.524191,
+   "lon": 15.656675
+  },
+  {
+   "id": "2210",
+   "name": "Storgatan 16",
+   "address": "Storgatan 16",
+   "city": "RAMSELE",
+   "county": "Västernorrlands län",
+   "lat": 63.536873,
+   "lon": 16.470679
+  },
+  {
+   "id": "2211",
+   "name": "Hästmarksvägen 6",
+   "address": "Hästmarksvägen 6",
+   "city": "ÖRNSKÖLDSVIK",
+   "county": "Västernorrlands län",
+   "lat": 63.30268,
+   "lon": 18.73425
+  },
+  {
+   "id": "2301",
+   "name": "Kyrkgatan 66",
+   "address": "Kyrkgatan 66",
+   "city": "ÖSTERSUND",
+   "county": "Jämtlands län",
+   "lat": 63.175814,
+   "lon": 14.63861
+  },
+  {
+   "id": "2302",
+   "name": "Lillänge",
+   "address": "Hagvägen 11",
+   "city": "ÖSTERSUND",
+   "county": "Jämtlands län",
+   "lat": 63.17109,
+   "lon": 14.69131
+  },
+  {
+   "id": "2304",
+   "name": "Riksvägen 39",
+   "address": "Riksvägen 39",
+   "city": "BRÄCKE",
+   "county": "Jämtlands län",
+   "lat": 62.749137,
+   "lon": 15.419798
+  },
+  {
+   "id": "2305",
+   "name": "Fjällvägen 5",
+   "address": "Fjällvägen 5",
+   "city": "SVEG",
+   "county": "Jämtlands län",
+   "lat": 62.032561,
+   "lon": 14.358749
+  },
+  {
+   "id": "2306",
+   "name": "Storgatan 6",
+   "address": "Storgatan 6",
+   "city": "STRÖMSUND",
+   "county": "Jämtlands län",
+   "lat": 63.851243,
+   "lon": 15.558372
+  },
+  {
+   "id": "2307",
+   "name": "Gastkullevägen 1 A",
+   "address": "Gastkullevägen 1 A",
+   "city": "JÄRPEN",
+   "county": "Jämtlands län",
+   "lat": 63.347025,
+   "lon": 13.459523
+  },
+  {
+   "id": "2308",
+   "name": "Centralgatan 12",
+   "address": "Centralgatan 12",
+   "city": "HAMMARSTRAND",
+   "county": "Jämtlands län",
+   "lat": 63.109797,
+   "lon": 16.353847
+  },
+  {
+   "id": "2309",
+   "name": "Centrumvägen 3 B",
+   "address": "Centrumvägen 3 B",
+   "city": "SVENSTAVIK",
+   "county": "Jämtlands län",
+   "lat": 62.767917,
+   "lon": 14.432418
+  },
+  {
+   "id": "2310",
+   "name": "Årevägen 49",
+   "address": "Årevägen 49",
+   "city": "ÅRE",
+   "county": "Jämtlands län",
+   "lat": 63.395497,
+   "lon": 13.087035
+  },
+  {
+   "id": "2311",
+   "name": "Genvägen 8",
+   "address": "Genvägen 8",
+   "city": "KROKOM",
+   "county": "Jämtlands län",
+   "lat": 63.326669,
+   "lon": 14.451316
+  },
+  {
+   "id": "2312",
+   "name": "Sjöängsvägen 2",
+   "address": "Sjöängsvägen 2",
+   "city": "FUNÄSDALEN",
+   "county": "Jämtlands län",
+   "lat": 62.548502,
+   "lon": 12.532857
+  },
+  {
+   "id": "2401",
+   "name": "Rådhusesplanaden 6 E",
+   "address": "Rådhusesplanaden 6 E",
+   "city": "UMEÅ",
+   "county": "Västerbottens län",
+   "lat": 63.826943,
+   "lon": 20.265045
+  },
+  {
+   "id": "2402",
+   "name": "Strömpilsplatsen 29",
+   "address": "Strömpilsplatsen 29",
+   "city": "UMEÅ",
+   "county": "Västerbottens län",
+   "lat": 63.798224,
+   "lon": 20.30369
+  },
+  {
+   "id": "2403",
+   "name": "Solbacken",
+   "address": "Varugatan 22",
+   "city": "SKELLEFTEÅ",
+   "county": "Västerbottens län",
+   "lat": 64.765219,
+   "lon": 21.024593
+  },
+  {
+   "id": "2404",
+   "name": "Nygatan 50",
+   "address": "Nygatan 50",
+   "city": "SKELLEFTEÅ",
+   "county": "Västerbottens län",
+   "lat": 64.749729,
+   "lon": 20.954494
+  },
+  {
+   "id": "2405",
+   "name": "Östra Järnvägsgatan 7",
+   "address": "Östra Järnvägsgatan 7",
+   "city": "VÄNNÄS",
+   "county": "Västerbottens län",
+   "lat": 63.906547,
+   "lon": 19.751658
+  },
+  {
+   "id": "2406",
+   "name": "Storgatan 25",
+   "address": "Storgatan 25",
+   "city": "LYCKSELE",
+   "county": "Västerbottens län",
+   "lat": 64.594224,
+   "lon": 18.677499
+  },
+  {
+   "id": "2407",
+   "name": "Volgsjövägen 44",
+   "address": "Volgsjövägen 44",
+   "city": "VILHELMINA",
+   "county": "Västerbottens län",
+   "lat": 64.624046,
+   "lon": 16.657571
+  },
+  {
+   "id": "2408",
+   "name": "Stationsgatan 5",
+   "address": "Stationsgatan 5",
+   "city": "STORUMAN",
+   "county": "Västerbottens län",
+   "lat": 65.096291,
+   "lon": 17.113954
+  },
+  {
+   "id": "2409",
+   "name": "Storgatan 33",
+   "address": "Storgatan 33",
+   "city": "ÅSELE",
+   "county": "Västerbottens län",
+   "lat": 64.161091,
+   "lon": 17.351571
+  },
+  {
+   "id": "2410",
+   "name": "Storgatan 23",
+   "address": "Storgatan 23",
+   "city": "MALÅ",
+   "county": "Västerbottens län",
+   "lat": 65.182228,
+   "lon": 18.742089
+  },
+  {
+   "id": "2411",
+   "name": "Strandvägen 5",
+   "address": "Strandvägen 5",
+   "city": "SORSELE",
+   "county": "Västerbottens län",
+   "lat": 65.53653,
+   "lon": 17.530388
+  },
+  {
+   "id": "2412",
+   "name": "Parkvägen 1",
+   "address": "Parkvägen 1",
+   "city": "DOROTEA",
+   "county": "Västerbottens län",
+   "lat": 64.261538,
+   "lon": 16.415786
+  },
+  {
+   "id": "2413",
+   "name": "Affärsvägen 1",
+   "address": "Affärsvägen 1",
+   "city": "NORDMALING",
+   "county": "Västerbottens län",
+   "lat": 63.568405,
+   "lon": 19.495142
+  },
+  {
+   "id": "2414",
+   "name": "Storgatan 72",
+   "address": "Storgatan 72",
+   "city": "NORSJÖ",
+   "county": "Västerbottens län",
+   "lat": 64.913325,
+   "lon": 19.47973
+  },
+  {
+   "id": "2415",
+   "name": "Järnvägsallén 5",
+   "address": "Järnvägsallén 5",
+   "city": "VINDELN",
+   "county": "Västerbottens län",
+   "lat": 64.203019,
+   "lon": 19.716521
+  },
+  {
+   "id": "2416",
+   "name": "Ersboda",
+   "address": "Formvägen 4",
+   "city": "UMEÅ",
+   "county": "Västerbottens län",
+   "lat": 63.851389,
+   "lon": 20.298693
+  },
+  {
+   "id": "2417",
+   "name": "Storgatan 29 B",
+   "address": "Storgatan 29 B",
+   "city": "ROBERTSFORS",
+   "county": "Västerbottens län",
+   "lat": 64.19269,
+   "lon": 20.847922
+  },
+  {
+   "id": "2418",
+   "name": "Storgatan 6",
+   "address": "Storgatan 6",
+   "city": "BJURHOLM",
+   "county": "Västerbottens län",
+   "lat": 63.930935,
+   "lon": 19.214192
+  },
+  {
+   "id": "2419",
+   "name": "Blå Vägen 35",
+   "address": "Blå Vägen 35",
+   "city": "HEMAVAN",
+   "county": "Västerbottens län",
+   "lat": 65.818996,
+   "lon": 15.084541
+  },
+  {
+   "id": "2420",
+   "name": "Avion",
+   "address": "Marknadsgatan 5 B",
+   "city": "UMEÅ",
+   "county": "Västerbottens län",
+   "lat": 63.805585,
+   "lon": 20.253663
+  },
+  {
+   "id": "2501",
+   "name": "Storgatan 61",
+   "address": "Storgatan 61",
+   "city": "LULEÅ",
+   "county": "Norrbottens län",
+   "lat": 65.585008,
+   "lon": 22.158721
+  },
+  {
+   "id": "2503",
+   "name": "Storheden",
+   "address": "Besiktningsvägen 19 A",
+   "city": "LULEÅ",
+   "county": "Norrbottens län",
+   "lat": 65.619001,
+   "lon": 22.046209
+  },
+  {
+   "id": "2504",
+   "name": "Storgatan 65",
+   "address": "Storgatan 65",
+   "city": "PITEÅ",
+   "county": "Norrbottens län",
+   "lat": 65.317694,
+   "lon": 21.477423
+  },
+  {
+   "id": "2505",
+   "name": "Drottninggatan 8b",
+   "address": "Drottninggatan 8b",
+   "city": "BODEN",
+   "county": "Norrbottens län",
+   "lat": 65.823467,
+   "lon": 21.685058
+  },
+  {
+   "id": "2506",
+   "name": "Norrskensvägen 4A",
+   "address": "Norrskensvägen 4A",
+   "city": "HAPARANDA",
+   "county": "Norrbottens län",
+   "lat": 65.844758,
+   "lon": 24.127106
+  },
+  {
+   "id": "2507",
+   "name": "Kiruna Handelskvarter",
+   "address": "Alvar Janssons gata",
+   "city": "KIRUNA",
+   "county": "Norrbottens län",
+   "lat": 67.848899,
+   "lon": 20.308257
+  },
+  {
+   "id": "2508",
+   "name": "Hantverkaregatan 15",
+   "address": "Hantverkaregatan 15",
+   "city": "GÄLLIVARE",
+   "county": "Norrbottens län",
+   "lat": 67.135524,
+   "lon": 20.663377
+  },
+  {
+   "id": "2509",
+   "name": "Stationsgatan 21 A",
+   "address": "Stationsgatan 21 A",
+   "city": "ARVIDSJAUR",
+   "county": "Norrbottens län",
+   "lat": 65.591993,
+   "lon": 19.174728
+  },
+  {
+   "id": "2510",
+   "name": "Strandgatan 10",
+   "address": "Strandgatan 10",
+   "city": "KALIX",
+   "county": "Norrbottens län",
+   "lat": 65.855142,
+   "lon": 23.139522
+  },
+  {
+   "id": "2511",
+   "name": "Berggatan 7",
+   "address": "Berggatan 7",
+   "city": "JOKKMOKK",
+   "county": "Norrbottens län",
+   "lat": 66.606812,
+   "lon": 19.828571
+  },
+  {
+   "id": "2512",
+   "name": "Skolgatan 27",
+   "address": "Skolgatan 27",
+   "city": "ÄLVSBYN",
+   "county": "Norrbottens län",
+   "lat": 65.672828,
+   "lon": 21.008159
+  },
+  {
+   "id": "2513",
+   "name": "Medborgarvägen 3",
+   "address": "Medborgarvägen 3",
+   "city": "PAJALA",
+   "county": "Norrbottens län",
+   "lat": 67.212353,
+   "lon": 23.36868
+  },
+  {
+   "id": "2514",
+   "name": "Hemvägen 11",
+   "address": "Hemvägen 11",
+   "city": "ÖVERTORNEÅ",
+   "county": "Norrbottens län",
+   "lat": 66.383489,
+   "lon": 23.655771
+  },
+  {
+   "id": "2515",
+   "name": "Storgatan 15 B",
+   "address": "Storgatan 15 B",
+   "city": "ARJEPLOG",
+   "county": "Norrbottens län",
+   "lat": 66.052408,
+   "lon": 17.892314
+  },
+  {
+   "id": "2516",
+   "name": "Tvärgatan  2",
+   "address": "Tvärgatan  2",
+   "city": "ÖVERKALIX",
+   "county": "Norrbottens län",
+   "lat": 66.325639,
+   "lon": 22.844974
+  },
+  {
+   "id": "2520",
+   "name": "Skutviken",
+   "address": "Delfingatan 2",
+   "city": "LULEÅ",
+   "county": "Norrbottens län",
+   "lat": 65.595309,
+   "lon": 22.148163
+  }
+ ]
+}
