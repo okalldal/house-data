@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Intermediate scraper output; clean_wines.py turns this into data/wines_clean.csv
+data/wines.csv
+
+# Generated caches and artefacts — rebuilt by the pipeline.
+cache/
+data/wines_matched.csv

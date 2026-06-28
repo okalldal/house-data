@@ -1,0 +1,10 @@
+{
+  "collision_rows": 13,
+  "collision_code_len_histogram": {
+    "5": 9,
+    "7": 4
+  },
+  "collision_rows_where_code_is_reused_within_tasting_dataset": 0,
+  "collision_rows_with_matching_producer": 2,
+  "collision_rows_with_earliest_tasting_before_2015": 1
+}

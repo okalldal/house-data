@@ -1,0 +1,5 @@
+# Large, reproducible API caches.
+cache/
+
+# Large per-row detail; regenerate with analyze_codes.py.
+out/phase3_prefix_detail.csv

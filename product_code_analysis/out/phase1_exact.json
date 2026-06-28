@@ -1,0 +1,13 @@
+{
+  "tasting_rows_with_digit_code": 23865,
+  "exact_productNumber_match": 257,
+  "no_exact_match": 23608,
+  "buckets": {
+    "name+vintage": 155,
+    "no_search_data_name_match": 10,
+    "name_only": 68,
+    "neither": 13,
+    "no_search_data_name_mismatch": 2,
+    "vintage_only": 9
+  }
+}
